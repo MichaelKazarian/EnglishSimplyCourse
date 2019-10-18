@@ -15,7 +15,7 @@
 (defconst lesson-mode-version "0.1"
   "The version of `lesson-mode'.")
 
-(defcustom message-time-delay 6
+(defcustom message-time-delay 3
   "Delay time before answer hint."
   :type 'integer
   :safe 'integerp
@@ -44,54 +44,38 @@
   (setq str (buffer-substring
            (line-beginning-position)
            (line-end-position)))
-  (message (format "ANSWER: ~ %s ~ and F5 to publish it" str)))
+  (message (format "ANSWER: ~ %s ~ and F5 to publish it" (get-answer-part str))))
 
 (defun new-q-message ()
   "Say Ukrainian text"
-  (let* ((str (buffer-substring (line-beginning-position) (line-end-position)))
-         (delim (lang-delimiter-position str)))
-    (if delim (setq str (substring str delim)))
-     (message (format "TO UKR: ~ %s ~ " str)))
-  ;; (setq str (buffer-substring
-  ;;          (line-beginning-position)
-  ;;          (line-end-position)))
-  ;;  (message (format "TO UKR: ~ %s ~ " str))
- )
+  (let ((str (buffer-substring (line-beginning-position) (line-end-position))))
+     (message (format "Question: ~ %s ~ " (get-question-part str)))))
 
 (defun lesson-switch-to-lesson ()
   "Switch to lesson window. After switching searche next question by
 number. If question found send message after `message-time-delay' sec."
   (interactive)
-  (other-window 1)
+  ;(other-window 1)
   (let ((start-point (re-search-forward "^[[:space:]]*[0-9]" nil t)))
     (if start-point
         (progn
           (goto-char start-point)
-          ;; (new-q-message)
+          (new-q-message)
           (run-at-time message-time-delay nil #'answer-message))
       (next-line))))
 
 (defun lesson-send-to-slide ()
   "Send current line to slide buffer and switch to it"
   (interactive)
-  (move-beginning-of-line nil)
-  (set-mark-command nil)
-  (move-end-of-line nil)
-  (setq deactivate-mark nil)
-  (let* ((str (buffer-substring (region-beginning) (region-end)))
-         (str-end (lang-delimiter-position str))
-         (str-start (- (region-beginning) 1)))
-    (if (not str-end)
-        (setq str-end (region-end))
-      (setq str-end (+ str-start str-end 1)))
-    (append-to-buffer "slide" str-start str-end))
-  ;; (append-to-buffer "slide"
-  ;;                   (- (region-beginning) 1)
-  ;;                   (region-end))
-
   (deactivate-mark)
+  (let ((str (thing-at-point 'line t)))
+    (with-current-buffer "slide"
+      (end-of-line)
+      (newline)
+      (insert (get-answer-part str))))
   (lesson-switch-to-lesson)
-  (next-window 1))
+  ;(next-window 1)
+  )
 
 (defun word-region-blink-to-slide ()
   "Temporary send current word or region to slide buffer and switch to it.
@@ -144,14 +128,36 @@ If slide buffer is active switch to lesson buffer an search new question"
           ;(text-scale-adjust 1)
           )))))
 
+(defun get-answer-part (line)
+  "If `line' contains `answer-question-delimiter' first part will return.
+Whole line otherwise"
+  (let ((delimiter (lang-delimiter-position line)))
+    (setq res (if (null delimiter)
+        line
+        (substring line 0 delimiter)))
+    (clear-org-number-braces (string-trim res))))
+
+(defun get-question-part (line)
+  "If `line' contains `answer-question-delimiter' the second part will return.
+Empty line otherwise"
+  (let ((delimiter (lang-delimiter-position line)))
+    (if (null delimiter)
+        ""
+      (string-trim (substring line (+ 1 delimiter))))))
+
+(defun clear-org-number-braces (str)
+    "Org uses form like [@11] to number start with 11.
+If STR contains it returns string without this form"
+     (replace-regexp-in-string "\\[@.*\\]\s*" "" str))
+
 (defun s ()
   "Setup `org-mode' for lesson"
   (set-face-background 'hl-line "NavajoWhite")
   (set-face-attribute hl-line-face nil :underline nil)
-  (linum-mode -1)
+  (display-line-numbers-mode -1)
   (olivetti-mode -1)
   (setq org-hide-emphasis-markers t)
-  (load-theme 'dichromacy t)
+  ;; (load-theme 'dichromacy t)
 
   ;; make part of a word bold
   ;; https://stackoverflow.com/posts/24540651/revisions
@@ -164,10 +170,10 @@ If slide buffer is active switch to lesson buffer an search new question"
   (add-to-list 'org-emphasis-alist
              '("~" (:foreground "OrangeRed"))))
 ;;
-;; orgl to json converter
+;; Lesson to json converter
 ;;
 (defun lesson-to-json ()
-  "Convert lesson to json. If line begining is numbered item line will convert
+  "Converts lesson to json. If line begining is numbered item line will convert
 to json question item (use ; to split question and answer). All other strings
 will convert to json point type."
   (interactive)
@@ -232,7 +238,7 @@ question. If delimiter omited question part will empty"
   (format template str))
 
 (defun replace-org-to-html (str)
-  "Relaces /*_ org formating to <i></i>, <b></b>, <u></u> accordingly"
+  "Replaces /*_ org formating to <i></i>, <b></b>, <u></u> accordingly"
   (let* ((pattern "[/_\\*]\\(.+\\)[/_\\*]")
          (found (string-match pattern str)))
     (if (null found)
@@ -249,21 +255,6 @@ question. If delimiter omited question part will empty"
          (concat t-s (match-string 1 str) t-e)))
       )))
 
-(defun get-answer-part (line)
-  "If `line' contains `answer-question-delimiter' first part will return.
-Whole line otherwise"
-  (let ((delimiter (lang-delimiter-position line)))
-    (if (null delimiter)
-        line
-      (string-trim (substring line 0 delimiter)))))
-
-(defun get-question-part (line)
-  "If `line' contains `answer-question-delimiter' the second part will return.
-Empty line otherwise"
-  (let ((delimiter (lang-delimiter-position line)))
-    (if (null delimiter)
-        ""
-      (string-trim (substring line (+ 1 delimiter))))))
 ;;
 ;; Mode settings, etc
 ;;
@@ -306,33 +297,5 @@ Empty line otherwise"
 ;;;###autoload
 (add-to-list 'auto-mode-alist '("\\.lesson\\'" . lesson-mode))
 (add-to-list 'auto-mode-alist '("\\.orgl\\'" . lesson-mode))
-
-;; ;; Old
-;; (defun lesson-new-slide-temp ()
-;;   (interactive)
-;;   (let ((slide-name "slide"))
-;;     (if (get-buffer slide-name)
-;;         (progn
-;;           (kill-buffer slide-name)
-;;           (delete-other-windows)
-;;           ))
-;;     (generate-new-buffer slide-name)
-;;     (with-current-buffer slide-name
-;;       (funcall 'lesson-mode))
-;;     (split-window-right)
-;;     (switch-to-buffer-other-window slide-name)))
-
-;; (defun lesson-clear-order-mark ()
-;;   (interactive)
-;;   (previous-line)
-;;   (while (re-search-forward " \\[@[[:digit:]{1,4}]\\] " nil t)
-;;     (replace-match " ")))
-
-;; ;; Another send-to slide solution
-;; (setq str (buffer-substring
-;;            (region-beginning)
-;;            (region-end)))
-;; (with-current-buffer "slide"
-;;   (insert (concat str "\n")))
 
 ;;; lesson-org-mode.el ends here
