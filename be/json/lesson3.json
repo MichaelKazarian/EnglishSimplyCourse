@@ -1,0 +1,755 @@
+{
+  "lessonId": "lesson3",
+  "lessonTitle": "Урок 3",
+  "lessonDescription": "Задаємо перші питання. Нові слова теж будуть",
+  "lessonURL": "BiuXUN-eUsA",
+  "lessonItems": [
+    {
+      "itemType": "question",
+      "question": "Ти ідеш туди",
+      "answer":   "You go there",
+      "startTime": "1:03"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти ідеш туди",
+      "answer":   "You don't go there",
+      "startTime": "1:40"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Do + subj + verb + ...?",
+      "startTime": "2:28"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти допомогаєш мені?",
+      "answer":   "Do you help me?",
+      "startTime": "2:45"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти відвідуєш велике місто?",
+      "answer":   "Do you visit a city?",
+      "startTime": "2:55"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми будуємо кар'єру?",
+      "answer":   "Do we build a career?",
+      "startTime": "3:04"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони розмовляють англійською?",
+      "answer":   "Do they speak English?",
+      "startTime": "3:13"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми розуміємо тебе?",
+      "answer":   "Do we understand you?",
+      "startTime": "3:23"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони думають так?",
+      "answer":   "Do they think so?",
+      "startTime": "3:33"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони насолоджуються осінніми вечорами?",
+      "answer":   "Do you enjoy autumn evenings?",
+      "startTime": "3:47"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми пишемо повідомлення?",
+      "answer":   "Do we write a message?",
+      "startTime": "4:12"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти живеш в Україні?",
+      "answer":   "Do you live in Ukraine?",
+      "startTime": "4:23"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>this</b> /ðɪs/ ",
+      "startTime": "4:36"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти знаєш цей телефонний номер?",
+      "answer":   "Do you know <b>this</b> phone number?",
+      "startTime": "4:48"
+    },
+    {
+      "itemType": "point",
+      "itemText": " ",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 2",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "11. Do we drink milk?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "12. Do they drive a car?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "13. Do you catch the train every evening?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "14. Do we try very <b>hard</b>?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "15. Do I <b>play the guitar</b>?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "16. Do you wash <b>your</b> hair?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "17. Do they get up and have breakfast?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "18. Do we read English?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "19. Do you drink water?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "20. Do you give an advice?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "21. Do they play basketball?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "22. Do you cook every evening?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "23. Do we write a message?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "24. Do I buy a drink?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "25. Do they talk very fast?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "26. Do they sleep in the afternoon?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "27. Do you live in a big city?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "28. Do they ask a question?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "29. Do I work in a shop?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "30. Do they ask a question?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "31. You <i>believe</i> in change",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "32. I <i>hear</i> a noise",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "33. They <i>sing</i> an English song",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "34. We <i>love</i> each other",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "35. I <i>do/ *my</i> English homework",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "36. They <i>take</i> money",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "37. You <i>show</i> a good result",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "38. I <i>create</i> a website",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "39. You <i>feel</i> well",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "40. We <i>open</i> a big centre",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "41. I <i>begin</i> a race",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "42. They <i>design</i> a new course",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "43. We often <i>email</i> letters",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "44. You <i>show</i> me the way",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "45. We <i>match</i> each other",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "46. I usually <i>make</i> booking in the morning",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "47. You <i>prefer</i> tea to coffee",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "48. They <i>join/ *our</i> FB group",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "49. We <i>ride</i> the horses on Sundays",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "50. I <i>hope/ *for* *your</i> progress",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Перерва",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Як бачите, ми доволі швидко збільшуємо",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "наш словниковий запас. Я, зі своєї",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "сторони, намагатимусь часто використовувати",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "нові слова, щоб ви їх незабували. Слова ",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "підібрані не просто так, а є певна система,",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "що орієнтована на те, щоб легше було почати",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "спілкуватись. Тому постійно вчить та",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "повторюйте їх. І тут є одна проблема. Чим",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "більша кількість слів, тим вам утримати їх",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "у пам'яті, а мені слідкувати, щоб давно",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "введені слова постійно повторювались у",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "вправах. Власне для цих цілей",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "ми і розробили Word Dolphin. Він допоможе",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "вивчити нові слова, почути їх вимову,",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "натренувати вашу вимову і, саме головне,",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "постійно підтримувати їх у пам'яті.",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "51. You take money",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "52. Do you join our FB group?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "53. We speak English <b>fluently</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "54. Do they love each other?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "55. I believe in changes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "56. We don't make booking in the evenings",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "57. We design a new course",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "58. They don't think so",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "59. I don't drink milk",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "60. Do you often wash your hair?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 7",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "71. I prefer tea to coffee",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "72. We don't hear a noise",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "73. Do they show a good result?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "74. Do you often catch the train in the morning?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "75. They don't show me the way",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "76. We usually email letters in the afternoon",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "77. Do we build our career?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "78. Do they miss you?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "79. They don't ask this question",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "80. I don't use this key",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 8",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "81. Do you get up and have breakfast in the morning?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "82. You speak English fluently",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "83. Do they drive a car?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "84. They don't live in Ukraine",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "85. We try very hard",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "86. Do you usually begin the race in the evening?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "87. You feel well",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "88. They don't think so",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "89. I hope for your progress",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "90. Do we go to work by car?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Кінець",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Щож, англійська частина уроку",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "добігла кінця але скажу ще кілька слів.",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Щоб триматися у формі вам потрібна постійна",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "практика. Ми пропонуємо для цього наш курс і",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Word Dolphin. Але як часто потрібно займатись?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Зараз я скажу те, що багатьом не сподобається",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Щодня! Чому так важливо займатися щодня?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Це так само, як з фітнесом, водінням автівки",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "і т.і. Ви адаптуєтесь до нової діяльності",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "і саме щоденна практика робить нову діяльність",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "легкою. Якщо ви вчите нові слова, вони легко",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "запам'ятовуватимуться при щоденному повторенні.",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Перерва навііть у один день вже вибїє вас з",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "колії. Не можете витратити годину на урок -",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "це нормально! Але знайти 5-10 хвилин щоб",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "повторити слова можна завжди. Трохи пізніше",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "я зроблю окрему лекцію на цю тему але зараз",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "запам'ятайте головне: щоденна практика - це",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "необхідна умова для успіху в будь-якій",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "діяльності.",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Отже, підтримуємо проект лайками, коментарями",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "та підписками і зустрінемоь на наспупному уроці!",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Пока!",
+      "startTime": ":"
+    },
+  ]
+}
