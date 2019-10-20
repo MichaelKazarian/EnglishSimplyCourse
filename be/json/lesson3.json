@@ -77,7 +77,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>this</b> /ðɪs/ ",
+      "itemText": "<b>this</b> /ðɪs/ цей",
       "startTime": "4:36"
     },
     {
@@ -87,359 +87,399 @@
       "startTime": "4:48"
     },
     {
-      "itemType": "point",
-      "itemText": " ",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 2",
-      "startTime": ":"
+      "itemType": "question",
+      "question": "Ми п'ємо молоко?",
+      "answer":   "Do we drink milk?",
+      "startTime": "5:46"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "11. Do we drink milk?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "12. Do they drive a car?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "13. Do you catch the train every evening?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "14. Do we try very <b>hard</b>?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "15. Do I <b>play the guitar</b>?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "16. Do you wash <b>your</b> hair?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "17. Do they get up and have breakfast?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "18. Do we read English?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "19. Do you drink water?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "20. Do you give an advice?",
-      "startTime": ":"
+      "question": "Вони водять машину?",
+      "answer":   "Do they drive a car?",
+      "startTime": "5:58"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "itemText": "<b>every</b> /ˈɛv.(ə.)ɹi/ кожен",
+      "startTime": "6:18"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "21. Do they play basketball?",
-      "startTime": ":"
+      "question": "Ти сідаєш на потяг кожного вечора?",
+      "answer":   "Do you catch the train every evening?",
+      "startTime": "6:25"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "22. Do you cook every evening?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "23. Do we write a message?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "24. Do I buy a drink?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "25. Do they talk very fast?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "26. Do they sleep in the afternoon?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "27. Do you live in a big city?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "28. Do they ask a question?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "29. Do I work in a shop?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "30. Do they ask a question?",
-      "startTime": ":"
+      "question": "Ми гарно стараємося?",
+      "answer":   "Do we try very <b>hard</b>?",
+      "startTime": "6:41"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "itemText": "<b>guitar</b> /ɡɪˈtɑɹ/ гітара",
+      "startTime": "7:10"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "31. You <i>believe</i> in change",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "32. I <i>hear</i> a noise",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "33. They <i>sing</i> an English song",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "34. We <i>love</i> each other",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "35. I <i>do/ *my</i> English homework",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "36. They <i>take</i> money",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "37. You <i>show</i> a good result",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "38. I <i>create</i> a website",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "39. You <i>feel</i> well",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "40. We <i>open</i> a big centre",
-      "startTime": ":"
+      "question": "Я граю на гітарі?",
+      "answer":   "Do I <b>play the guitar</b>?",
+      "startTime": "7:17"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "itemText": "<b>hair</b> /hɛɚ/ волосся",
+      "startTime": "7:36"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>your</b> /jɔː/ твій, ваш",
+      "startTime": "7:37"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "41. I <i>begin</i> a race",
-      "startTime": ":"
+      "question": "Ти миєш волосся?",
+      "answer":   "Do you wash <b>your</b> hair?",
+      "startTime": "7:40"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "42. They <i>design</i> a new course",
-      "startTime": ":"
+      "question": "Вони встають і снідають?",
+      "answer":   "Do they get up and have breakfast?",
+      "startTime": "8:10"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "43. We often <i>email</i> letters",
-      "startTime": ":"
+      "question": "Ми читаємо англійською?",
+      "answer":   "Do we read English?",
+      "startTime": "8:26"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>water</b> <i>Br</i>/ˈwɔːtə/, <i>Am</i>/ˈwɔtəɹ/ вода",
+      "startTime": "8:36"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "44. You <i>show</i> me the way",
-      "startTime": ":"
+      "question": "Ти п'єш воду?",
+      "answer":   "Do you drink water?",
+      "startTime": "8:37"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "45. We <i>match</i> each other",
-      "startTime": ":"
+      "question": "Ти даєш пораду?",
+      "answer":   "Do you give an advice?",
+      "startTime": "8:50"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "46. I usually <i>make</i> booking in the morning",
-      "startTime": ":"
+      "question": "Вони грають в баскетбол?",
+      "answer":   "Do they play basketball?",
+      "startTime": "9:36"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "47. You <i>prefer</i> tea to coffee",
-      "startTime": ":"
+      "question": "Ти готуєш кожного вечора?",
+      "answer":   "Do you cook every evening?",
+      "startTime": "9:44"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "48. They <i>join/ *our</i> FB group",
-      "startTime": ":"
+      "question": "Ми пишемо повідомлення?",
+      "answer":   "Do we write a message?",
+      "startTime": "9:54"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "49. We <i>ride</i> the horses on Sundays",
-      "startTime": ":"
+      "question": "Я купляю напій?",
+      "answer":   "Do I buy a drink?",
+      "startTime": "10:06"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "50. I <i>hope/ *for* *your</i> progress",
-      "startTime": ":"
+      "question": "Вони говорять дуже швидко?",
+      "answer":   "Do they talk very fast?",
+      "startTime": "10:21"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони сплять в обід?",
+      "answer":   "Do they sleep in the afternoon?",
+      "startTime": "10:42"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти живеш у великому місті?",
+      "answer":   "Do you live in a big city?",
+      "startTime": "10:54"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони задають питання?",
+      "answer":   "Do they ask a question?",
+      "startTime": "11:05"
+    },
+    {
+      "itemType": "question",
+      "question": "Я працюю в магазині?",
+      "answer":   "Do I work in a shop?",
+      "startTime": "11:17"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони задають питання?",
+      "answer":   "Do they ask a question?",
+      "startTime": "11:30"
     },
     {
       "itemType": "point",
-      "itemText": "** Перерва",
-      "startTime": ":"
+      "itemText": "<b>believe</b> /bɪˈliv/ вірити",
+      "startTime": "12:20"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти віриш у зміни",
+      "answer":   "You believe in change",
+      "startTime": "12:32"
     },
     {
       "itemType": "point",
-      "itemText": "Як бачите, ми доволі швидко збільшуємо",
-      "startTime": ":"
+      "itemText": "<b>hear</b> /hɪə(ɹ)/ чути",
+      "startTime": "12:45"
     },
     {
       "itemType": "point",
-      "itemText": "наш словниковий запас. Я, зі своєї",
-      "startTime": ":"
+      "itemText": "<b>noise</b>  /nɔɪz/ шум",
+      "startTime": "12:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Я чую шум",
+      "answer":   "I hear a noise",
+      "startTime": "12:55"
     },
     {
       "itemType": "point",
-      "itemText": "сторони, намагатимусь часто використовувати",
-      "startTime": ":"
+      "itemText": "<b>sing</b> /sɪŋ/ співати",
+      "startTime": "13:06"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони співають англійську пісню",
+      "answer":   "They sing an English song",
+      "startTime": "13:13"
     },
     {
       "itemType": "point",
-      "itemText": "нові слова, щоб ви їх незабували. Слова ",
-      "startTime": ":"
+      "itemText": "<b>love</b> /lʌv/ любити",
+      "startTime": "13:28"
     },
     {
       "itemType": "point",
-      "itemText": "підібрані не просто так, а є певна система,",
-      "startTime": ":"
+      "itemText": "<b>each other</b> один одного ",
+      "startTime": "13:40"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми любимо один одного",
+      "answer":   "We love each other",
+      "startTime": "13:43"
     },
     {
       "itemType": "point",
-      "itemText": "що орієнтована на те, щоб легше було почати",
-      "startTime": ":"
+      "itemText": "<b>do</b> /du/ робити, щось виконувати",
+      "startTime": "13:55"
     },
     {
       "itemType": "point",
-      "itemText": "спілкуватись. Тому постійно вчить та",
-      "startTime": ":"
+      "itemText": "<b>my</b> /maɪ/ моє, мій",
+      "startTime": "13:56"
+    },
+    {
+      "itemType": "question",
+      "question": "Я виконую моє англійське домашнє завдання",
+      "answer":   "I do my English homework",
+      "startTime": "14:07"
     },
     {
       "itemType": "point",
-      "itemText": "повторюйте їх. І тут є одна проблема. Чим",
-      "startTime": ":"
+      "itemText": "<b>take</b> /teɪk/ брати",
+      "startTime": "14:39"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони беруть гроші",
+      "answer":   "They take money",
+      "startTime": "14:43"
     },
     {
       "itemType": "point",
-      "itemText": "більша кількість слів, тим вам утримати їх",
-      "startTime": ":"
+      "itemText": "<b>show</b> /ʃoʊ/ показувати",
+      "startTime": "14:53"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони показують гарний результат",
+      "answer":   "They show a good result",
+      "startTime": "15:02"
     },
     {
       "itemType": "point",
-      "itemText": "у пам'яті, а мені слідкувати, щоб давно",
-      "startTime": ":"
+      "itemText": "<b>create</b> /kɹiːˈeɪt/ створювати, творити",
+      "startTime": "15:13"
+    },
+    {
+      "itemType": "question",
+      "question": "Я створюю веб-сайт",
+      "answer":   "I create a website",
+      "startTime": "15:23"
     },
     {
       "itemType": "point",
-      "itemText": "введені слова постійно повторювались у",
-      "startTime": ":"
+      "itemText": "<b>feel</b> /fiːl/ почуватися, відчувати",
+      "startTime": "15:38"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти почуваєшся добре",
+      "answer":   "You feel well",
+      "startTime": "15:44"
     },
     {
       "itemType": "point",
-      "itemText": "вправах. Власне для цих цілей",
-      "startTime": ":"
+      "itemText": "<b>open</b> /ˈoʊ.pən/ відкривати",
+      "startTime": "15:54"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми відкриваємо великий центр",
+      "answer":   "We open a big centre",
+      "startTime": "16:01"
     },
     {
       "itemType": "point",
-      "itemText": "ми і розробили Word Dolphin. Він допоможе",
-      "startTime": ":"
+      "itemText": "<b>begin</b> /bəˈɡɪn/, /biˈɡɪn/ починати",
+      "startTime": "16:38"
+    },
+    {
+      "itemType": "question",
+      "question": "Я починаю забіг",
+      "answer":   "I begin a race",
+      "startTime": "16:49"
     },
     {
       "itemType": "point",
-      "itemText": "вивчити нові слова, почути їх вимову,",
-      "startTime": ":"
+      "itemText": "<b>design</b> /dɪˈzaɪn/ створювати, розробляти",
+      "startTime": "17:06"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони створюють новий курс",
+      "answer":   "They design a new course",
+      "startTime": "17:19"
     },
     {
       "itemType": "point",
-      "itemText": "натренувати вашу вимову і, саме головне,",
-      "startTime": ":"
+      "itemText": "<b>email</b> /ˈiːmeɪl/ відправляти електроною поштою",
+      "startTime": "17:35"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми часто надсилаємо листи електроною поштою",
+      "answer":   "We often email letters",
+      "startTime": "17:46"
     },
     {
       "itemType": "point",
-      "itemText": "постійно підтримувати їх у пам'яті.",
-      "startTime": ":"
+      "itemText": "<b>show</b> /ʃoʊ/ показувати, представляти",
+      "startTime": "18:05"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти показуєш мені дорогу",
+      "answer":   "You show me the way",
+      "startTime": "18:13"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "itemText": "<b>match</b> /mæt͡ʃ/ пасувати, підходити",
+      "startTime": "18:27"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми підходимо один одному",
+      "answer":   "We match each other",
+      "startTime": "18:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>make booking</b> робити замовлення",
+      "startTime": "18:53"
+    },
+    {
+      "itemType": "question",
+      "question": "Я, зазвичай, роблю замовлення вранці",
+      "answer":   "I usually make booking in the morning",
+      "startTime": "19:06"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>prefer</b> /pɹɪˈfɜː/ надавати перевагу",
+      "startTime": "19:16"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти надаєш перевагу чаєві, а не каві",
+      "answer":   "You prefer tea to coffee",
+      "startTime": "19:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>join</b> /ˈdʒɔɪn/ приєднуватися",
+      "startTime": "19:48"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>FB group</b> Фейсбук група",
+      "startTime": "19:49"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони приєднуються до нашої Фейсбук-групи",
+      "answer":   "They join our FB group",
+      "startTime": "19:57"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>ride</b> /ɹaɪd/ їздити на велосипеді, коні і т.і.",
+      "startTime": "20:17"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>on Sundays</b> по неділях. Прийменник <b>on</b> перед днями тижня",
+      "startTime": "20:25"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми їздемо на конях по неділях",
+      "answer":   "We ride the horses on Sundays",
+      "startTime": "20:27"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>hope</b> /hoʊp/ сподіватися",
+      "startTime": "20:56"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>hope for</b> сподіватися на щось",
+      "startTime": "20:59"
+    },
+    {
+      "itemType": "question",
+      "question": "Я сподівюся на твій прогрес",
+      "answer":   "I hope for your progress",
+      "startTime": "21:06"
     },
     {
       "itemType": "question",
@@ -451,6 +491,11 @@
       "itemType": "question",
       "question": "",
       "answer":   "52. Do you join our FB group?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b></b>",
       "startTime": ":"
     },
     {
@@ -630,126 +675,6 @@
       "question": "",
       "answer":   "90. Do we go to work by car?",
       "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Кінець",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Щож, англійська частина уроку",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "добігла кінця але скажу ще кілька слів.",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Щоб триматися у формі вам потрібна постійна",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "практика. Ми пропонуємо для цього наш курс і",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Word Dolphin. Але як часто потрібно займатись?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Зараз я скажу те, що багатьом не сподобається",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Щодня! Чому так важливо займатися щодня?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Це так само, як з фітнесом, водінням автівки",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "і т.і. Ви адаптуєтесь до нової діяльності",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "і саме щоденна практика робить нову діяльність",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "легкою. Якщо ви вчите нові слова, вони легко",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "запам'ятовуватимуться при щоденному повторенні.",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Перерва навііть у один день вже вибїє вас з",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "колії. Не можете витратити годину на урок -",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "це нормально! Але знайти 5-10 хвилин щоб",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "повторити слова можна завжди. Трохи пізніше",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "я зроблю окрему лекцію на цю тему але зараз",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "запам'ятайте головне: щоденна практика - це",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "необхідна умова для успіху в будь-якій",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "діяльності.",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Отже, підтримуємо проект лайками, коментарями",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "та підписками і зустрінемоь на наспупному уроці!",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Пока!",
-      "startTime": ":"
-    },
+    }
   ]
 }

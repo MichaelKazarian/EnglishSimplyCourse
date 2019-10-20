@@ -17,7 +17,7 @@
     {
       "itemType": "question",
       "question": "Я думаю так",
-      "answer":   "I <i>think</i> so",
+      "answer":   "I think so",
       "startTime": "2:57"
     },
     {
@@ -28,7 +28,7 @@
     {
       "itemType": "question",
       "question": "Я дуже стараюсь",
-      "answer":   "I <i>try</i> very hard",
+      "answer":   "I try very hard",
       "startTime": "3:29"
     },
     {
@@ -39,7 +39,7 @@
     {
       "itemType": "question",
       "question": "Ти насолоджуєшся вечорами",
-      "answer":   "You <i>enjoy</i> evenings",
+      "answer":   "You enjoy evenings",
       "startTime": "4:02"
     },
     {
@@ -50,7 +50,7 @@
     {
       "itemType": "question",
       "question": "Тобі подобаються теплі вечори",
-      "answer":   "You enjoy <i>warm</i> evenings",
+      "answer":   "You enjoy warm evenings",
       "startTime": "4:18"
     },
     {
@@ -61,7 +61,7 @@
     {
       "itemType": "question",
       "question": "Ми йдемо туди",
-      "answer":   "We <i>go</i> there",
+      "answer":   "We go there",
       "startTime": "4:48"
     },
     {
@@ -72,7 +72,7 @@
     {
       "itemType": "question",
       "question": "Вони готують кожного дня",
-      "answer":   "They <i>cook</i> every day",
+      "answer":   "They cook every day",
       "startTime": "5:12"
     },
     {
@@ -83,7 +83,7 @@
     {
       "itemType": "question",
       "question": "Ти граєш у волейбол",
-      "answer":   "You <i>play</i> volleyball",
+      "answer":   "You play volleyball",
       "startTime": "5:48"
     },
     {
@@ -104,7 +104,7 @@
     {
       "itemType": "question",
       "question": "Я піднімаюся з ліжка рано",
-      "answer":   "I <i>get up</i> early",
+      "answer":   "I get up early",
       "startTime": "7:02"
     },
     {
@@ -115,7 +115,7 @@
     {
       "itemType": "question",
       "question": "Вони сідають на потяг кожного ранку",
-      "answer":   "They <i>catch the train</i> every morning",
+      "answer":   "They catch the train every morning",
       "startTime": "8:30"
     },
     {
@@ -126,7 +126,7 @@
     {
       "itemType": "question",
       "question": "Ти говориш дуже швидко",
-      "answer":   "You <i>talk</i> very fast",
+      "answer":   "You talk very fast",
       "startTime": "8:51"
     },
     {
@@ -137,7 +137,7 @@
     {
       "itemType": "question",
       "question": "Вони сплять в обід",
-      "answer":   "They <i>sleep</i> in the afternoon",
+      "answer":   "They sleep in the afternoon",
       "startTime": "9:42"
     },
     {
@@ -148,7 +148,7 @@
     {
       "itemType": "question",
       "question": "У мене є великий будинок",
-      "answer":   "I <i>have</i> a big house",
+      "answer":   "I have a big house",
       "startTime": "10:07"
     },
     {
@@ -159,7 +159,7 @@
     {
       "itemType": "question",
       "question": "Ми купляємо напій",
-      "answer":   "We <i>buy</i> a drink",
+      "answer":   "We buy a drink",
       "startTime": "10:28"
     },
     {
@@ -170,7 +170,7 @@
     {
       "itemType": "question",
       "question": "Я мию своє волосся",
-      "answer":   "I <i>wash</i> my hair",
+      "answer":   "I wash my hair",
       "startTime": "10:51"
     },
     {
@@ -181,7 +181,7 @@
     {
       "itemType": "question",
       "question": "Вони знають мій телефонний номер",
-      "answer":   "They <i>know</i> my phone number",
+      "answer":   "They know my phone number",
       "startTime": "11:46"
     },
     {
@@ -192,7 +192,7 @@
     {
       "itemType": "question",
       "question": "Ви працюєте в магазині",
-      "answer":   "You <i>work</i> in a shop",
+      "answer":   "You work in a shop",
       "startTime": "12:15"
     },
     {
@@ -203,7 +203,7 @@
     {
       "itemType": "question",
       "question": "Я люблю великі міста",
-      "answer":   "I <i>like</i> big cities",
+      "answer":   "I like big cities",
       "startTime": "12:35"
     },
     {
@@ -214,7 +214,7 @@
     {
       "itemType": "question",
       "question": "Ми будуємо кар'єру",
-      "answer":   "We <i>build</i> a career",
+      "answer":   "We build a career",
       "startTime": "12:55"
     },
     {
@@ -225,7 +225,7 @@
     {
       "itemType": "question",
       "question": "Вони задають питання",
-      "answer":   "They <i>ask</i> a question",
+      "answer":   "They ask a question",
       "startTime": "13:24"
     },
     {
@@ -236,7 +236,7 @@
     {
       "itemType": "question",
       "question": "Я пишу повідомлення",
-      "answer":   "I <i>write</i> a message",
+      "answer":   "I write a message",
       "startTime": "13:50"
     },
     {
@@ -247,7 +247,7 @@
     {
       "itemType": "question",
       "question": "Ти сумуєш за мною",
-      "answer":   "You <i>miss</i> me",
+      "answer":   "You miss me",
       "startTime": "14:41"
     },
     {
@@ -258,7 +258,7 @@
     {
       "itemType": "question",
       "question": "Ми допомогаєто тобі",
-      "answer":   "We <i>help</i> you",
+      "answer":   "We help you",
       "startTime": "15:01"
     },
     {
@@ -274,7 +274,7 @@
     {
       "itemType": "question",
       "question": "Вони відвідують місто",
-      "answer":   "They <i>visit</i> a city",
+      "answer":   "They visit a city",
       "startTime": "15:29"
     },
     {
@@ -285,7 +285,7 @@
     {
       "itemType": "question",
       "question": "Я користуюся ключем",
-      "answer":   "I <i>use</i> a key",
+      "answer":   "I use a key",
       "startTime": "15:47"
     },
     {
@@ -301,7 +301,7 @@
     {
       "itemType": "question",
       "question": "Ти даєш пораду",
-      "answer":   "You <i>give</i> an advice",
+      "answer":   "You give an advice",
       "startTime": "16:11"
     },
     {
