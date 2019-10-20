@@ -17,7 +17,7 @@
     {
       "itemType": "question",
       "question": "Я думаю так",
-      "answer":   "81. I <i>think</i> so",
+      "answer":   "I <i>think</i> so",
       "startTime": "2:57"
     },
     {
@@ -28,7 +28,7 @@
     {
       "itemType": "question",
       "question": "Я дуже стараюсь",
-      "answer":   "82. I <i>try</i> very hard",
+      "answer":   "I <i>try</i> very hard",
       "startTime": "3:29"
     },
     {
@@ -39,7 +39,7 @@
     {
       "itemType": "question",
       "question": "Ти насолоджуєшся вечорами",
-      "answer":   "83. You <i>enjoy</i> evenings",
+      "answer":   "You <i>enjoy</i> evenings",
       "startTime": "4:02"
     },
     {
@@ -50,7 +50,7 @@
     {
       "itemType": "question",
       "question": "Тобі подобаються теплі вечори",
-      "answer":   "84. You enjoy <i>warm</i> evenings",
+      "answer":   "You enjoy <i>warm</i> evenings",
       "startTime": "4:18"
     },
     {
@@ -61,7 +61,7 @@
     {
       "itemType": "question",
       "question": "Ми йдемо туди",
-      "answer":   "85. We <i>go</i> there",
+      "answer":   "We <i>go</i> there",
       "startTime": "4:48"
     },
     {
@@ -72,7 +72,7 @@
     {
       "itemType": "question",
       "question": "Вони готують кожного дня",
-      "answer":   "86. They <i>cook</i> every day",
+      "answer":   "They <i>cook</i> every day",
       "startTime": "5:12"
     },
     {
@@ -83,7 +83,7 @@
     {
       "itemType": "question",
       "question": "Ти граєш у волейбол",
-      "answer":   "87. You <i>play</i> volleyball",
+      "answer":   "You <i>play</i> volleyball",
       "startTime": "5:48"
     },
     {
@@ -104,7 +104,7 @@
     {
       "itemType": "question",
       "question": "Я піднімаюся з ліжка рано",
-      "answer":   "88. I <i>get up</i> early",
+      "answer":   "I <i>get up</i> early",
       "startTime": "7:02"
     },
     {
@@ -115,7 +115,7 @@
     {
       "itemType": "question",
       "question": "Вони сідають на потяг кожного ранку",
-      "answer":   "89. They <i>catch the train</i> every morning",
+      "answer":   "They <i>catch the train</i> every morning",
       "startTime": "8:30"
     },
     {
@@ -126,7 +126,7 @@
     {
       "itemType": "question",
       "question": "Ти говориш дуже швидко",
-      "answer":   "90. You <i>talk</i> very fast",
+      "answer":   "You <i>talk</i> very fast",
       "startTime": "8:51"
     },
     {
@@ -137,7 +137,7 @@
     {
       "itemType": "question",
       "question": "Вони сплять в обід",
-      "answer":   "91. They <i>sleep</i> in the afternoon",
+      "answer":   "They <i>sleep</i> in the afternoon",
       "startTime": "9:42"
     },
     {
@@ -148,7 +148,7 @@
     {
       "itemType": "question",
       "question": "У мене є великий будинок",
-      "answer":   "92. I <i>have</i> a big house",
+      "answer":   "I <i>have</i> a big house",
       "startTime": "10:07"
     },
     {
@@ -159,7 +159,7 @@
     {
       "itemType": "question",
       "question": "Ми купляємо напій",
-      "answer":   "93. We <i>buy</i> a drink",
+      "answer":   "We <i>buy</i> a drink",
       "startTime": "10:28"
     },
     {
@@ -170,7 +170,7 @@
     {
       "itemType": "question",
       "question": "Я мию своє волосся",
-      "answer":   "94. I <i>wash</i> my hair",
+      "answer":   "I <i>wash</i> my hair",
       "startTime": "10:51"
     },
     {
@@ -181,7 +181,7 @@
     {
       "itemType": "question",
       "question": "Вони знають мій телефонний номер",
-      "answer":   "95. They <i>know</i> my phone number",
+      "answer":   "They <i>know</i> my phone number",
       "startTime": "11:46"
     },
     {
@@ -192,7 +192,7 @@
     {
       "itemType": "question",
       "question": "Ви працюєте в магазині",
-      "answer":   "96. You <i>work</i> in a shop",
+      "answer":   "You <i>work</i> in a shop",
       "startTime": "12:15"
     },
     {
@@ -203,7 +203,7 @@
     {
       "itemType": "question",
       "question": "Я люблю великі міста",
-      "answer":   "97. I <i>like</i> big cities",
+      "answer":   "I <i>like</i> big cities",
       "startTime": "12:35"
     },
     {
@@ -214,7 +214,7 @@
     {
       "itemType": "question",
       "question": "Ми будуємо кар'єру",
-      "answer":   "98. We <i>build</i> a career",
+      "answer":   "We <i>build</i> a career",
       "startTime": "12:55"
     },
     {
@@ -225,7 +225,7 @@
     {
       "itemType": "question",
       "question": "Вони задають питання",
-      "answer":   "99. They <i>ask</i> a question",
+      "answer":   "They <i>ask</i> a question",
       "startTime": "13:24"
     },
     {
@@ -236,7 +236,7 @@
     {
       "itemType": "question",
       "question": "Я пишу повідомлення",
-      "answer":   "100. I <i>write</i> a message",
+      "answer":   "I <i>write</i> a message",
       "startTime": "13:50"
     },
     {
@@ -247,7 +247,7 @@
     {
       "itemType": "question",
       "question": "Ти сумуєш за мною",
-      "answer":   "101. You <i>miss</i> me",
+      "answer":   "You <i>miss</i> me",
       "startTime": "14:41"
     },
     {
@@ -258,7 +258,7 @@
     {
       "itemType": "question",
       "question": "Ми допомогаєто тобі",
-      "answer":   "102. We <i>help</i> you",
+      "answer":   "We <i>help</i> you",
       "startTime": "15:01"
     },
     {
@@ -274,7 +274,7 @@
     {
       "itemType": "question",
       "question": "Вони відвідують місто",
-      "answer":   "103. They <i>visit</i> a city",
+      "answer":   "They <i>visit</i> a city",
       "startTime": "15:29"
     },
     {
@@ -285,7 +285,7 @@
     {
       "itemType": "question",
       "question": "Я користуюся ключем",
-      "answer":   "104. I <i>use</i> a key",
+      "answer":   "I <i>use</i> a key",
       "startTime": "15:47"
     },
     {
@@ -301,7 +301,7 @@
     {
       "itemType": "question",
       "question": "Ти даєш пораду",
-      "answer":   "105. You <i>give</i> an advice",
+      "answer":   "You <i>give</i> an advice",
       "startTime": "16:11"
     },
     {
@@ -312,55 +312,55 @@
     {
       "itemType": "question",
       "question": "Вони не встають з ліжка рано",
-      "answer":   "107. They don't get up early",
+      "answer":   "They don't get up early",
       "startTime": "18:43"
     },
     {
       "itemType": "question",
       "question": "Я не читаю англійські книги",
-      "answer":   "108. I don't read English books",
+      "answer":   "I don't read English books",
       "startTime": "18:53"
     },
     {
       "itemType": "question",
       "question": "Ми не живемо в Україні",
-      "answer":   "109. We don't live in Ukraine",
+      "answer":   "We don't live in Ukraine",
       "startTime": "19:04"
     },
     {
       "itemType": "question",
       "question": "Вони не говорять дуже швидко",
-      "answer":   "110. They don't talk very fast",
+      "answer":   "They don't talk very fast",
       "startTime": "19:15"
     },
     {
       "itemType": "question",
       "question": "Я не розумію англійську",
-      "answer":   "111. I don't understand English",
+      "answer":   "I don't understand English",
       "startTime": "19:25"
     },
     {
       "itemType": "question",
       "question": "Ти не п'єш воду",
-      "answer":   "112. You don't drink water",
+      "answer":   "You don't drink water",
       "startTime": "19:38"
     },
     {
       "itemType": "question",
       "question": "Я не сідаю на потяг кожного ранку",
-      "answer":   "113. I don't catch the train every morning",
+      "answer":   "I don't catch the train every morning",
       "startTime": "19:49"
     },
     {
       "itemType": "question",
       "question": "Ми не готуємо їжу",
-      "answer":   "114. We don't cook",
+      "answer":   "We don't cook",
       "startTime": "20:00"
     },
     {
       "itemType": "question",
       "question": "Вони не допомогають",
-      "answer":   "115. They don't help",
+      "answer":   "They don't help",
       "startTime": "20:07"
     },
     {
@@ -371,13 +371,13 @@
     {
       "itemType": "question",
       "question": "Ти просипаєшся і снідаєш",
-      "answer":   "107. You get up and have breakfast",
+      "answer":   "You get up and have breakfast",
       "startTime": "21:06"
     },
     {
       "itemType": "question",
       "question": "Я не граю у баскетбол",
-      "answer":   "108. I don't play basketball",
+      "answer":   "I don't play basketball",
       "startTime": "21:14"
     },
     {
@@ -388,109 +388,109 @@
       {
       "itemType": "question",
       "question": "Ми не йдемо туди",
-      "answer":   "109. We don't go there",
+      "answer":   "We don't go there",
       "startTime": "21:51"
     },
     {
       "itemType": "question",
       "question": "Я насолоджуюсь теплими вечорами",
-      "answer":   "110. I enjoy warm evenings",
+      "answer":   "I enjoy warm evenings",
       "startTime": "22:01"
     },
     {
       "itemType": "question",
       "question": "Ми говоримо англійською",
-      "answer":   "111. We speak English",
+      "answer":   "We speak English",
       "startTime": "22:09"
     },
     {
       "itemType": "question",
       "question": "Вони не дуже стараються",
-      "answer":   "112. They don't try very hard",
+      "answer":   "They don't try very hard",
       "startTime": "22:19"
     },
     {
       "itemType": "question",
       "question": "Ти користуєшся ключем",
-      "answer":   "113. You use a key",
+      "answer":   "You use a key",
       "startTime": "22:29"
     },
     {
       "itemType": "question",
       "question": "Я не говорю дуже швидко",
-      "answer":   "114. I don't talk very fast",
+      "answer":   "I don't talk very fast",
       "startTime": "22:38"
     },
     {
       "itemType": "question",
       "question": "Ми купуємо напій",
-      "answer":   "115. We buy a drink",
+      "answer":   "We buy a drink",
       "startTime": "22:47"
     },
     {
       "itemType": "question",
       "question": "Я не сплю в обід",
-      "answer":   "116. I don't sleep in the afternoon",
+      "answer":   "I don't sleep in the afternoon",
       "startTime": "22:55"
     },
     {
       "itemType": "question",
       "question": "Ви не йдете туди",
-      "answer":   "117. You don't go there",
+      "answer":   "You don't go there",
       "startTime": "23:42"
     },
     {
       "itemType": "question",
       "question": "Ми будуємо кар'єру",
-      "answer":   "118. We build a career",
+      "answer":   "We build a career",
       "startTime": "22:49"
     },
     {
       "itemType": "question",
       "question": "Вони не мають великого будинку ",
-      "answer":   "119. They don't have a big house",
+      "answer":   "They don't have a big house",
       "startTime": "24:07"
     },
     {
       "itemType": "question",
       "question": "Я так не думаю",
-      "answer":   "120. I don't think so",
+      "answer":   "I don't think so",
       "startTime": "24:17"
     },
     {
       "itemType": "question",
       "question": "Ви будуєте кар'єру",
-      "answer":   "121. You build a career",
+      "answer":   "You build a career",
       "startTime": "24:33"
     },
     {
       "itemType": "question",
       "question": "Ми не відвідуємо місто",
-      "answer":   "122. We don't visit a city",
+      "answer":   "We don't visit a city",
       "startTime": "24:44"
     },
     {
       "itemType": "question",
       "question": "Вони не задають питань",
-      "answer":   "123. They don't ask",
+      "answer":   "They don't ask",
       "startTime": "24:54"
     },
     {
       "itemType": "question",
       "question": "Я допомогаю тобі",
-      "answer":   "124. I help you",
+      "answer":   "I help you",
       "startTime": "25:04"
     },
     {
       "itemType": "question",
       "question": "Вони не пишуть повідомлення",
-      "answer":   "125. They don't write a message",
+      "answer":   "They don't write a message",
       "startTime": "25:13"
     },
     {
       "itemType": "question",
       "question": "Я знаю телефонний номер",
-      "answer":   "126. I know a phone number",
+      "answer":   "I know a phone number",
       "startTime": "25:21"
     },
   ]
