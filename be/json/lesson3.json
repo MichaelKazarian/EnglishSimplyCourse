@@ -1,6 +1,6 @@
 {
   "lessonId": "lesson3",
-  "lessonTitle": "Урок 3",
+  "lessonTitle": "Урок 3. Present Simple",
   "lessonDescription": "Задаємо перші питання. Нові слова теж будуть",
   "lessonURL": "BiuXUN-eUsA",
   "lessonItems": [
@@ -18,7 +18,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "Do + subj + verb + ...?",
+      "itemText": "Утворення питальної форми:<br/>Do + subj + verb + ...?",
       "startTime": "2:28"
     },
     {
@@ -649,7 +649,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти вільно говориш англійською"
+      "question": "Ти вільно говориш англійською",
       "answer":   "You speak English fluently",
       "startTime": "31:16"
     },
