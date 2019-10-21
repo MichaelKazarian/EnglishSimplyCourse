@@ -83,7 +83,7 @@
     {
       "itemType": "question",
       "question": "Ти знаєш цей телефонний номер?",
-      "answer":   "Do you know <b>this</b> phone number?",
+      "answer":   "Do you know this phone number?",
       "startTime": "4:48"
     },
     {
@@ -112,7 +112,7 @@
     {
       "itemType": "question",
       "question": "Ми гарно стараємося?",
-      "answer":   "Do we try very <b>hard</b>?",
+      "answer":   "Do we try very hard?",
       "startTime": "6:41"
     },
     {
@@ -123,7 +123,7 @@
     {
       "itemType": "question",
       "question": "Я граю на гітарі?",
-      "answer":   "Do I <b>play the guitar</b>?",
+      "answer":   "Do I play the guitar?",
       "startTime": "7:17"
     },
     {
@@ -139,7 +139,7 @@
     {
       "itemType": "question",
       "question": "Ти миєш волосся?",
-      "answer":   "Do you wash <b>your</b> hair?",
+      "answer":   "Do you wash your hair?",
       "startTime": "7:40"
     },
     {
@@ -483,198 +483,223 @@
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "51. You take money",
-      "startTime": ":"
+      "question": "Ти береш гроші",
+      "answer":   "You take money",
+      "startTime": "23:32"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "52. Do you join our FB group?",
-      "startTime": ":"
+      "question": "Ти приєднуєшся в нашу Facebook-группу?",
+      "answer":   "Do you join our FB group?",
+      "startTime": "23:44"
     },
     {
       "itemType": "point",
-      "itemText": "<b></b>",
-      "startTime": ":"
+      "itemText": "<b>fluent</b> /ˈfluənt/ вільний (про мови)<br/><b>fluent<u>ly</u></b> вільно",
+      "startTime": "24:13"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "53. We speak English <b>fluently</b>",
-      "startTime": ":"
+      "question": "Ми вільно говоримо англійською",
+      "answer":   "We speak English fluently",
+      "startTime": "24:17"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "54. Do they love each other?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "55. I believe in changes",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "56. We don't make booking in the evenings",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "57. We design a new course",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "58. They don't think so",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "59. I don't drink milk",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "60. Do you often wash your hair?",
-      "startTime": ":"
+      "question": "Вони люблять один одного?",
+      "answer":   "Do they love each other?",
+      "startTime": "24:28"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 7",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "71. I prefer tea to coffee",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "72. We don't hear a noise",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "73. Do they show a good result?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "74. Do you often catch the train in the morning?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "75. They don't show me the way",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "76. We usually email letters in the afternoon",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "77. Do we build our career?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "78. Do they miss you?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "79. They don't ask this question",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "80. I don't use this key",
-      "startTime": ":"
+      "itemText": "<b>change</b> /tʃeɪndʒ/ змінювати<br/>",
+      "startTime": "24:34"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 8",
-      "startTime": ":"
+      "itemText": "Закінчення <b>s</b> позначає множину.Сhange<b>s</b> зміни",
+      "startTime": "24:36"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "81. Do you get up and have breakfast in the morning?",
-      "startTime": ":"
+      "question": "Я вірю в зміни",
+      "answer":   "I believe in changes",
+      "startTime": "24:37"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "82. You speak English fluently",
-      "startTime": ":"
+      "question": "Ми не робимо замовлення вечорами",
+      "answer":   "We don't make booking in the evenings",
+      "startTime": "25:00"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "83. Do they drive a car?",
-      "startTime": ":"
+      "question": "Ми розробляємо новий курс",
+      "answer":   "We design a new course",
+      "startTime": "25:14"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "84. They don't live in Ukraine",
-      "startTime": ":"
+      "question": "Вони так не думають",
+      "answer":   "They don't think so",
+      "startTime": "25:29"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "85. We try very hard",
-      "startTime": ":"
+      "question": "Я не п'ю молоко",
+      "answer":   "I don't drink milk",
+      "startTime": "25:38"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "86. Do you usually begin the race in the evening?",
-      "startTime": ":"
+      "question": "Ти часто миєш волосся?",
+      "answer":   "Do you often wash your hair?",
+      "startTime": "25:46"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Закінчення <b>s</b> позначає множину.Сhange<b>s</b> зміни",
+      "startTime": "24:36"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>prefer</b> /pɹɪˈfɝ/ надавати перевагу",
+      "startTime": "26:36"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "87. You feel well",
-      "startTime": ":"
+      "question": "Я надаю перевагу чаю, а не каві",
+      "answer":   "I prefer tea to coffee",
+      "startTime": "26:39"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "88. They don't think so",
-      "startTime": ":"
+      "question": "Ми не чуємо шум",
+      "answer":   "We don't hear a noise",
+      "startTime": "27:12"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "89. I hope for your progress",
-      "startTime": ":"
+      "question": "Чи вони показують гарний результат?",
+      "answer":   "Do they show a good result?",
+      "startTime": "27:25"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "90. Do we go to work by car?",
-      "startTime": ":"
+      "question": "Ти часто сідаєш на потяг вранці?",
+      "answer":   "Do you often catch the train in the morning?",
+      "startTime": "27:39"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони не показують мені дорогу",
+      "answer":   "They don't show me the way",
+      "startTime": "28:14"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>usually</b> /ˈjuːʒ(ʊə)li/ зазвичай",
+      "startTime": "28:27"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>in the morning</b> зранку<br/><b>in the afternoon</b>в обід<br/><b>in the evening</b> ввечері",
+      "startTime": "28:28"
+    },
+    {
+      "itemType": "question",
+      "question": "Зазвичай ми надсилаємо листи електроною поштою в обід",
+      "answer":   "We usually email letters in the afternoon",
+      "startTime": "28:30"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми будуємо нашу кар'єру?",
+      "answer":   "Do we build our career?",
+      "startTime": "29:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>miss</b> /mɪs/ сумувати",
+      "startTime": "29:12"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони сумують за тобою?",
+      "answer":   "Do they miss you?",
+      "startTime": "29:17"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти не відповідаєш на це запитання",
+      "answer":   "They don't ask this question",
+      "startTime": "29:37"
+    },
+    {
+      "itemType": "question",
+      "question": "Я не користуюся цим ключем",
+      "answer":   "I don't use this key",
+      "startTime": "29:54"
+    },
+    {
+      "itemType": "question",
+      "question": "Чи ти встаєш і снідаєш вранці?",
+      "answer":   "Do you get up and have breakfast in the morning?",
+      "startTime": "31:05"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти вільно говориш англійською"
+      "answer":   "You speak English fluently",
+      "startTime": "31:16"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони водять машину?",
+      "answer":   "Do they drive a car?",
+      "startTime": "31:24"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони не живуть в Україні",
+      "answer":   "They don't live in Ukraine",
+      "startTime": "31:32"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми дуже стараємося",
+      "answer":   "We try very hard",
+      "startTime": "31:43"
+    },
+    {
+      "itemType": "question",
+      "question": "Чи ти, зазвичай, починаєш свій забіг увечері?",
+      "answer":   "Do you usually begin the race in the morning?",
+      "startTime": "32:07"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти почуваєшся добре",
+      "answer":   "You feel well",
+      "startTime": "32:19"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони так не думають",
+      "answer":   "They don't think so",
+      "startTime": "32:26"
+    },
+    {
+      "itemType": "question",
+      "question": "Я сподіваюся на твій/ваш прогрес",
+      "answer":   "I hope for your progress",
+      "startTime": "32:29"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми їздемо на роботу машиною?",
+      "answer":   "Do we go to work by car?",
+      "startTime": "32:55"
     }
   ]
 }
