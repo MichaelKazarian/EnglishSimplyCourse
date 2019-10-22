@@ -72,7 +72,9 @@ number. If question found send message after `message-time-delay' sec."
     (with-current-buffer "slide"
       (end-of-line)
       (newline)
-      (insert (get-answer-part str))))
+      (insert (get-answer-part str))
+      (hl-line-highlight)
+      ))
   (lesson-switch-to-lesson)
   ;(next-window 1)
   )
@@ -81,18 +83,20 @@ number. If question found send message after `message-time-delay' sec."
   "Temporary send current word or region to slide buffer and switch to it.
 Clear this line after `word-preview-time and switch to previous buffer."
   (interactive)
-  (let ((str (word-at-point)))
+  (let ((str (word-at-point))
+        (current-buffer (buffer-name)))
     (if (region-active-p)
             (setq str (buffer-substring (region-beginning) (region-end))))
     (with-current-buffer "slide"
       (progn
         (message (region-active-p))
         (insert (concat "\n~" (string-trim str) "~"))
-        (end-of-line)
         (sit-for word-preview-time)
         (clear-line-go-to-lesson)
-        (other-window 1)
-        ))))
+        (end-of-buffer)
+        (switch-to-buffer-other-window current-buffer)
+        ))
+    (deactivate-mark)))
 
 (defun clear-line-go-to-lesson ()
   "Clear current line and return to previous window"
@@ -135,7 +139,8 @@ Whole line otherwise"
     (setq res (if (null delimiter)
         line
         (substring line 0 delimiter)))
-    (clear-org-number-braces (string-trim res))))
+    (clear-org-markers (string-trim res))))
+
 
 (defun get-question-part (line)
   "If `line' contains `answer-question-delimiter' the second part will return.
@@ -145,14 +150,16 @@ Empty line otherwise"
         ""
       (string-trim (substring line (+ 1 delimiter))))))
 
-(defun clear-org-number-braces (str)
-    "Org uses form like [@11] to number start with 11.
-If STR contains it returns string without this form"
-     (replace-regexp-in-string "\\[@.*\\]\s*" "" str))
+
+(defun clear-org-markers (str)
+    "Clear org markers like numbering, [@11] /*_"
+    (setq str (replace-regexp-in-string "\\[@.*\\]\s*" "" str))
+    (setq str (replace-regexp-in-string "^[0-9]*\\.\s" "" str))
+    (setq str (replace-regexp-in-string "[/_\\*]" "" str)))
 
 (defun s ()
   "Setup `org-mode' for lesson"
-  (set-face-background 'hl-line "NavajoWhite")
+  ;; (set-face-background 'hl-line "NavajoWhite")
   (set-face-attribute hl-line-face nil :underline nil)
   (display-line-numbers-mode -1)
   (olivetti-mode -1)
@@ -204,10 +211,11 @@ Returns list of strings"
   \"lessonURL\": \"bJkSM3g-Tfs\",
   \"lessonItems\": [")
   (setq footer "\n  ]\n}\n")
+  ;; TODO. Write to temp buffer, not a file
   (with-temp-file file
     (insert header)
     (dolist (line lines)
-      (setq l (replace-org-to-html line))
+      (setq l (clear-org-markers line))
       (if (string-match "^[[:space:]]*[[:digit:]]\\{1,5\\}\\. " l)
           (setq item (get-question l))
         (setq item (get-point l)))
