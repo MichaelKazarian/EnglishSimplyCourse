@@ -11,11 +11,6 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>rain</b> /ɹeɪn/ дощ",
-      "startTime": "2:35"
-    },
-    {
-      "itemType": "point",
       "itemText": "Закінчення <b>-S</b> після дзвінких приголосних та голосних звучить <b>-Z</b>",
       "startTime": "3:34"
     },
@@ -46,48 +41,8 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>mix</b> /ˈmɪks/ змішувати, перемішувати, суміш",
-      "startTime": "9:51"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>watch</b> /wɔt͡ʃ/ годинник, дивитися (фільм, і т.і.), спостерігати",
-      "startTime": "11:05"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>wash</b> /wɔʃ/, /wɒʃ/ мити, прати",
-      "startTime": "11:11"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>buzz</b> /bʌz/ гудіти, дзвиніти",
-      "startTime": "11:33"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>kiss</b> /kɪs/ цілувати",
-      "startTime": "11:48"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>loud</b> /laʊd/ голосний, гучний",
-      "startTime": "14:26"
-    },
-    {
-      "itemType": "point",
       "itemText": "ES звучатиме як IZ в дієсловах на німе -E з попередньою S, C, G",
       "startTime": "15:38"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>rise</b> /ɹaɪz/ підніматися, вставати",
-      "startTime": "15:44"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>place</b> /pleɪs/ місце, розміщувати, класти",
-      "startTime": "16:25"
     },
     {
       "itemType": "point",
@@ -101,88 +56,13 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>say</b> /seɪ/ казати, говорити",
-      "startTime": "19:22"
-    },
-    {
-      "itemType": "point",
       "itemText": "Приголосна + Y + <b>IES</b>.",
       "startTime": "19:49"
     },
     {
       "itemType": "point",
-      "itemText": "<b>marry</b> /ˈmæɹɪ/ одружитися",
-      "startTime": "19:53"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>study</b> /ˈstʌdi/ вивчати, навчатися",
-      "startTime": "20:30"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>carry</b> /ˈkɛ.ɹi/ нести, переносити",
-      "startTime": "20:53"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>worry</b> /ˈwʌɹi/ турбуватися, хвилюватися",
-      "startTime": "21:08"
-    },
-    {
-      "itemType": "point",
       "itemText": "Для he/she/it <b>HAVE</b> міняється на <b>HAS</b>",
       "startTime": "23:00"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>let</b> /lɛt/ ",
-      "startTime": "24:09"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>climb</b> /klaɪm/",
-      "startTime": "24:42"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>teach</b> /tiːt͡ʃ/ вчити",
-      "startTime": "24:50"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Правопис дієслів на -Y у 3 особі однини",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "pay → pays        buy → buys",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "fly → flies       enjoy → enjoys",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "study → studies   say → says",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "play → plays      worry → worries",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "marry → marries   carry → carries",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 9 ",
-      "startTime": ":"
     },
     {
       "itemType": "question",
