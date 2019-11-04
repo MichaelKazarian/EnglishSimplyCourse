@@ -1,0 +1,463 @@
+{
+  "lessonId": "lesson4",
+  "lessonTitle": "Урок 4",
+  "lessonDescription": "Вводимо він/вона/воно. Незважаючи на те, що тут чимало особливостей вживання, буде достатньо практики, щоб все добре затренувати",,
+  "lessonURL": "j3SWVNL_t8c",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": "<b>HE/SHE/IT</b> + дієслово + <b>-s/-es</b> + ...<br /><b>HE/SHE/IT</b> - Він/Вона/Воно",
+      "startTime": "01:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>rain</b> /ɹeɪn/ дощ",
+      "startTime": "2:35"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Закінчення <b>-S</b> після дзвінких приголосних та голосних звучить <b>-Z</b>",
+      "startTime": "3:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Дифтонг - це подвійний звук",
+      "startTime": "4:48"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Після глухих приголосних звучить <b>-S</b>",
+      "startTime": "5:39"
+    },
+    {
+      "itemType": "point",
+      "itemText": "works, speaks, makes, interests, tests, lists, stops",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Закінчення <b>-ES</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Додаємо до дієслів, що закінчуються на -ss,-sh,-ch,-x,-z,-o",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>-ES* після шиплячих та свистячих *-ss,-sh,-ch,-x* та *-z* читається як *[IZ]</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to mix   <b>→* he mix_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to watch <b>→* she watch_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to wash  <b>→* he wash_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to buzz  <b>→* it buzz_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to kiss  <b>→* she kiss_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to go    <b>→* he go_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "She mix<u>es</u> paint colours",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "He kiss<u>es</u> you ",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "It buzz<u>es</u> loudly",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>-ES* звучатиме як *[IZ]* в дієсловах на німе *-E* з попередньою *S, C, G</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to rise   <b>→* it ris_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to place  <b>→* he plac_es</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to change <b>→</b> she changes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Після голосного <b>-o* закінчення *-ES* звучить як *[Z]</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to go <b>→</b> she goes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to do <b>→</b> he does",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Правопис дієслів, що закінчуються на -Y у 3 особі однини",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Голосна + Y",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to play  <b>→* he pla_ys</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to enjoy <b>→* she enjo_ys</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to say   <b>→* he sa_ys</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Приголосна + Y",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to mar<u>ry_ *→* he marr_ies</u>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Замінюємо -Y на -IES",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to study <b>→* she stud_ies</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to carry <b>→* he carr_ies</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to worry <b>→* she worr_ies</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "to have <b>→</b> has",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "We have <b>→* he///she</b>it has",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 7",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Вимова <b>-S* и *-ES</b>",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "begin → begins     let → lets",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "climb → climbs     teach → teaches",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "see → sees         forget → forgets",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "stay → stays       thank → thanks",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "find → finds       laugh → laughs",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "stop → stops       match → matches",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "put → puts         guess → guesses",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "test → tests       change → changes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "do → does          go → goes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "create → creates   relax → relaxes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "travel → travels   interview → interviews",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 8",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Правопис дієслів на -Y у 3 особі однини",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "pay → pays        buy → buys",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "fly → flies       enjoy → enjoys",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "study → studies   say → says",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "play → plays      worry → worries",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "marry → marries   carry → carries",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 9 ",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He thinks so",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She feels well",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He uses this key",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The kitten (it) drinks milk",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He often plays the guitar",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She never visits big cities",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "It often rains in autumn",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She understands my problem",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He speaks English fluently",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She enjoys autumn",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 10",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She goes to the sport club at the weekends",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He talks slowly",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He never sleeps in the afternoon",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She goes to work by car",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He lives in Kyiv",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She drinks water",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She gets up and has breakfast at 8 am",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He goes to holidays every Saturday",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She sleeps in the afternoon",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He cooks dishes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Закінчення уроку",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Як бачите, сьогодні у нас чимало теорії. Насправді, ці правила не такі складні, яу може здатися, і ",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "на наступних уроках ми в цьому переконаємося. Отже, до наступного разу ",
+      "startTime": ":"
+    },
+  ]
+}
