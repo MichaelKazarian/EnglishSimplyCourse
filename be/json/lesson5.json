@@ -1,0 +1,424 @@
+{
+  "lessonId": "lesson",
+  "lessonTitle": "Урок 5",
+  "lessonDescription": "Сьогодні затреновуємо те, що ви взнали минулого уроку",
+  "lessonURL": "bJkSM3g-Tfs",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": "<b>wait</b> /weɪt/ чекати",
+      "startTime": "1:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>wait for</b> чекати на когось",
+      "startTime": "1:23"
+    },
+    {
+      "itemType": "question",
+      "question": "Кейт чекає на мене",
+      "answer":   "Kate waits for me",
+      "startTime": "1:30"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>win</b> /wɪn/ перемагати, вигравати",
+      "startTime": "1:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Зазвичай Боб перемагає у грі",
+      "answer":   "Usually Bob wins a game",
+      "startTime": "2:00"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>paint</b> /peɪnt/ фарбувати, малювати фарбами",
+      "startTime": "2:26"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>beautifully</b> /ˈbjuːtɪf(ə)li/ прекрасно, красиво",
+      "startTime": "2:38"
+    },
+    {
+      "itemType": "question",
+      "question": "Дівчина малює фарбами прекрасно",
+      "answer":   "The girl paints beautifully",
+      "startTime": "2:41"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>cost</b> /ˈkɔst/ коштувати ",
+      "startTime": "3:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>cost a lot</b> коштувати дорого",
+      "startTime": "3:03"
+    },
+    {
+      "itemType": "question",
+      "question": "Це коштує дорого",
+      "answer":   "It costs a lot",
+      "startTime": "3:12"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>end</b> /ɛnd/ закінчуватися",
+      "startTime": "3:45"
+    },
+    {
+      "itemType": "question",
+      "question": "Фільм закінчується о 10-й ранку",
+      "answer":   "The movie ends at 10 am",
+      "startTime": "3:50"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>change</b> /tʃeɪndʒ/ зміна, змінювати",
+      "startTime": "4:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>dress</b> /dɹɛs/ сукня, одягати",
+      "startTime": "4:53"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>between</b> /bɪˈtwiːn/ між",
+      "startTime": "4:54"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>play</b> /pleɪ/ грати, вистава, п'єса",
+      "startTime": "4:56"
+    },
+    {
+      "itemType": "question",
+      "question": "Сьзі змінює сукні між частинами п'єси",
+      "answer":   "Susie changes her dress between the parts of the play",
+      "startTime": "5:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>explain</b> /ɪkˈspleɪn/ пояснювати",
+      "startTime": "5:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>rule</b> /ɹuːl/ правило",
+      "startTime": "6:08"
+    },
+    {
+      "itemType": "question",
+      "question": "Хлопець пояснює мені це правило",
+      "answer":   "The boy explains me this rule",
+      "startTime": "6:10"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>find</b> /faɪnd/ знаходити",
+      "startTime": "6:40"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>decision</b>  /dɪˈsɪʒən/ рішення",
+      "startTime": "6:53"
+    },
+    {
+      "itemType": "question",
+      "question": "Він знаходить рішення",
+      "answer":   "He finds the decision",
+      "startTime": "6:55"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>know</b> /nəʊ/ знати",
+      "startTime": "7:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>perfect</b> /ˈpɝfɪkt/ чудовий, ідеальний",
+      "startTime": "7:31"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона знає цей урок чудово",
+      "answer":   "She knows this lesson perfectly",
+      "startTime": "7:35"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>share</b> /ʃɛəɹ/ ділитися",
+      "startTime": "7:52"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>intresting</b> /ˈɪntəɹəstɪŋ/ цікавий",
+      "startTime": "8:02"
+    },
+    {
+      "itemType": "question",
+      "question": "Цей чоловік ділиться цікавою інформацією",
+      "answer":   "This man shares intresting information",
+      "startTime": "8:03"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>discuss</b> /dɪsˈkʌs/ обговорювати",
+      "startTime": "8:57"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>situation</b> /sɪtjuːˈeɪʃən/ ситуація",
+      "startTime": "9:05"
+    },
+    {
+      "itemType": "question",
+      "question": "Наталі обговорює ситуацію",
+      "answer":   "Natalie discusses a situation",
+      "startTime": "9:06"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>guess</b> /ɡɛs/ вгадувати",
+      "startTime": "9:33"
+    },
+    {
+      "itemType": "question",
+      "question": "Джон вгадує номер",
+      "answer":   "John guesses a number",
+      "startTime": "9:51"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>teach</b> /tiːt͡ʃ/ вчити",
+      "startTime": "10:14"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>pleasure</b> /ˈplɛʒə/ задоволення",
+      "startTime": "10:26"
+    },
+    {
+      "itemType": "question",
+      "question": "Бен вчить із задоволенням",
+      "answer":   "Ben teaches with pleasure",
+      "startTime": "10:29"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>watch</b> /wɒt͡ʃ/ дивитися (передачу, фільм і т.і.), спостерігати, годинник",
+      "startTime": "10:53"
+    },
+    {
+      "itemType": "question",
+      "question": "Студент дивиться гру з друзями",
+      "answer":   "The student watches a game with his friends",
+      "startTime": "11:12"
+    },
+	{
+      "itemType": "point",
+      "itemText": "<b>fix</b> /ˈfɪks/ ремонтувати, лагодити",
+      "startTime": "12:02"
+    },    {
+      "itemType": "question",
+      "question": "Робітник ремонтує стіл",
+      "answer":   "The worker fixes a table",
+      "startTime": "12:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>splash</b> /splæʃ/ розливати, хлюпати",
+      "startTime": "12:40"
+    },
+    {
+      "itemType": "question",
+      "question": "Він хлюється водою",
+      "answer":   "He splashes water",
+      "startTime": "12:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Річард сумує",
+      "answer":   "Richard misses",
+      "startTime": "13:32"
+    },
+    {
+      "itemType": "question",
+      "question": "Річард сумує за своїми друзями",
+      "answer":   "Richard misses his friends",
+      "startTime": "13:47"
+    },
+    {
+      "itemType": "question",
+      "question": "Мері їде",
+      "answer":   "Mary goes",
+      "startTime": "14:00"
+    },
+    {
+      "itemType": "question",
+      "question": "Мері йде за покупками",
+      "answer":   "Mary goes shopping",
+      "startTime": "14:27"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>project</b> /ˈpɹɒdʒɛkt/ проект",
+      "startTime": "14:49"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>children</b> [ˈt͡ʃɪl.d͡ʒɹən] діти",
+      "startTime": "14:51"
+    },
+    {
+      "itemType": "question",
+      "question": "У нього є проекти для малих дітей",
+      "answer":   "He has a project for young children",
+      "startTime": "14:53"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>own</b> /ˈoʊn/ свій, власний",
+      "startTime": "15:23"
+    },
+    {
+      "itemType": "question",
+      "question": "Лео має свою власну компанію",
+      "answer":   "Leo has his own company",
+      "startTime": "15:25"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 13",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She plays volleyball",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "It rains in November",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Linda teaches a lot of students",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Natalie fixes a chair",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Ben pays money",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "This student studies at Harward University",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He speaks English fluently",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Kitten (It) drinks water",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The woman visits big cities",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "John goes shopping on Saturdays",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 14",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Ben cooks dishes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She says truth",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "This woman paints beautifully",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Susie changes her dress between the parts of the play",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She discusses a situation",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The boy has a project for adults",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Sophia lives in Kyiv",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He usually wins a game",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "It costs a lot",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The movie ends at 10 pm",
+      "startTime": ":"
+    },
+  ]
+}
