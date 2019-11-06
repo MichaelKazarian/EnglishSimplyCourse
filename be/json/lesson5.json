@@ -291,134 +291,129 @@
       "startTime": "15:25"
     },
     {
-      "itemType": "point",
-      "itemText": "** Slide 13",
-      "startTime": ":"
-    },
-    {
       "itemType": "question",
-      "question": "",
+      "question": "Вона грає у волейбол",
       "answer":   "She plays volleyball",
-      "startTime": ":"
+      "startTime": "17:38"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "В листопаді йде дощ",
       "answer":   "It rains in November",
-      "startTime": ":"
+      "startTime": "18:10"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Лінда навчає багатьох студентів",
       "answer":   "Linda teaches a lot of students",
-      "startTime": ":"
+      "startTime": "18:34"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Наталі ремонтує стілець",
       "answer":   "Natalie fixes a chair",
-      "startTime": ":"
+      "startTime": "19:02"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Бен платить гроші",
       "answer":   "Ben pays money",
-      "startTime": ":"
+      "startTime": "19:16"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Цей студент навчається у Гарвардському університеті",
       "answer":   "This student studies at Harward University",
-      "startTime": ":"
+      "startTime": "19:37"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він говорить англійською вільно",
       "answer":   "He speaks English fluently",
-      "startTime": ":"
+      "startTime": "20:46"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "Kitten (It) drinks water",
-      "startTime": ":"
+      "question": "Кошеня (воно) п'є воду",
+      "answer":   "Kitten drinks water",
+      "startTime": "21:01"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Жінка відвідує великі міста",
       "answer":   "The woman visits big cities",
-      "startTime": ":"
+      "startTime": "21:30"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Джон скупляється по суботах",
       "answer":   "John goes shopping on Saturdays",
-      "startTime": ":"
+      "startTime": "21:52"
+    },
+    {
+      "itemType": "question",
+      "question": "Бен готує страви",
+      "answer":   "Ben cooks dishes",
+      "startTime": "22:43"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона говорить правду",
+      "answer":   "She says truth",
+      "startTime": "22:57"
+    },
+    {
+      "itemType": "question",
+      "question": "Ця жінка малює фарбами чудово",
+      "answer":   "This woman paints beautifully",
+      "startTime": "23:24"
+    },
+    {
+      "itemType": "question",
+      "question": "Сьюзі змінює сукню між частинами п'єси",
+      "answer":   "Susie changes her dress between the parts of the play",
+      "startTime": "23:40"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона обговорює ситуацію",
+      "answer":   "She discusses a situation",
+      "startTime": "23:52"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 14",
-      "startTime": ":"
+      "itemText": "<b>adult</b> /əˈdʌlt/ дорослий",
+      "startTime": "27:05"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "Ben cooks dishes",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "She says truth",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "This woman paints beautifully",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Susie changes her dress between the parts of the play",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "She discusses a situation",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
+      "question": "Хлопець має проект для дорослих",
       "answer":   "The boy has a project for adults",
-      "startTime": ":"
+      "startTime": "27:07"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Софія живе в Києві",
       "answer":   "Sophia lives in Kyiv",
-      "startTime": ":"
+      "startTime": "24:26"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він зазвичай виграє у грі",
       "answer":   "He usually wins a game",
-      "startTime": ":"
+      "startTime": "24:49"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Це коштує дорого",
       "answer":   "It costs a lot",
-      "startTime": ":"
+      "startTime": "25:01"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Фільм закінчується о 10-й вечора",
       "answer":   "The movie ends at 10 pm",
-      "startTime": ":"
+      "startTime": "25:12"
     },
   ]
 }
