@@ -157,68 +157,93 @@
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Взимку йде сніг",
       "answer":   "It snows in winter",
-      "startTime": ":"
+      "startTime": "12:12"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Восени йде дощ",
       "answer":   "It rains in autumn",
-      "startTime": ":"
+      "startTime": "12:28"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Королева Англії живе у Букінгемському Палаці",
       "answer":   "The Queen of England lives in Buckingham Palace",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "A dog has four legs",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "A fish swims",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The snow melts in spring",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The water boils at 100 degrees",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The Earth goes round the Sun",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The President has his office",
-      "startTime": ":"
+      "startTime": "12:41"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "itemText": "<b>four</b> /fo(ː)ɹ/ чотири<br/><b>leg</b> /lɛɡ/ нога, лапа",
+      "startTime": "13:10"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Собака має чотири ноги",
+      "answer":   "A dog has four legs",
+      "startTime": "13:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>fish</b> /fɪʃ/ риба",
+      "startTime": "13:31"
+    },
+    {
+      "itemType": "question",
+      "question": "Риба плаває",
+      "answer":   "A fish swims",
+      "startTime": "13:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>melt</b> /mɛlt/ танути<br/><b>spring</b> /spɹɪŋ/ весна",
+      "startTime": "13:41"
+    },
+    {
+      "itemType": "question",
+      "question": "Сніг розтає навесні",
+      "answer":   "The snow melts in spring",
+      "startTime": "13:43"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>boil</b> /bɔɪl/ кипіти<br/><b>degre</b> /dɛːˈɡreː/ градус",
+      "startTime": "14:03"
+    },
+    {
+      "itemType": "question",
+      "question": "Вода кипить при ста градусах",
+      "answer":   "The water boils at 100 degrees",
+      "startTime": "14:05"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>Earth</b> /ɜːθ/ Земля<br/><b>round</b> /ˈɹaʊnd/ навкруги, навколо; <i>go round</i> іти кругом, крутитися навколо<br/><b>around</b> /əˈɹaʊnd/ навколо, біля, скрізь",
+      "startTime": "14:33"
+    },
+    {
+      "itemType": "question",
+      "question": "Земля крутиться навколо Сонця",
+      "answer":   "The Earth goes round the Sun",
+      "startTime": "14:37"
+    },
+    {
+      "itemType": "question",
+      "question": "Президент має свій офіс",
+      "answer":   "The President has his office",
+      "startTime": "15:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>soon</b> /suːn/ скоро, незабаром",
+      "startTime": "14:03"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти часто прокидаєшся рано? Напиши мені скоро, будь ласка",
       "answer":   "Do you usually wake up early? Write me soon, please",
-      "startTime": ":"
+      "startTime": "17:47"
     },
     {
       "itemType": "question",
