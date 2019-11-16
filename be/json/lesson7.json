@@ -290,128 +290,163 @@
       "startTime": "24:30"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>grandfather</b>  /ˈɡɹændˌfɑːðə(ɹ)/ дідусь",
+      "startTime": "24:43"
+    },
+    {
       "itemType": "question",
-      "question": "",
+      "question": "Його дідусь плаває швидко",
       "answer":   "His grandfather swims quickly",
-      "startTime": ":"
+      "startTime": "23:46"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>grandmother</b> /ˈɡɹænˌmʌðə/ бабуся<br/><b>grandson</b> /ˈɡɹæn(d)sʌn/ онук<br/><b>granddaughter</b> онука",
+      "startTime": "25:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>quick</b> /kwɪk/ швидкий, швидка<br/>quick<b><u>ly</u></b> швидко",
+      "startTime": "25:13"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вона залишає Париж на кілька днів",
       "answer":   "She leaves Paris for a few days",
-      "startTime": ":"
+      "startTime": "25:37"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "This boy runs,swims and does exercises",
-      "startTime": ":"
+      "question": "Цей хлопець бігає, плаває і робить вправи",
+      "answer":   "This boy runs, swims and does exercises",
+      "startTime": "26:04"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>suit</b> /s(j)uːt/ костюм",
+      "startTime": "26:35"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вона хоче той костюм",
       "answer":   "Sue wants that suit",
-      "startTime": ":"
+      "startTime": "26:39"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>this</b> /ðɪs/ цей<br/><b>that</b> /ˈðæt/ той",
+      "startTime": "27:00"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він одружується",
       "answer":   "He marries",
-      "startTime": ":"
+      "startTime": "27:05"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>team</b> /tiːm/ команда",
+      "startTime": "27:31"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Джулія грає в футбол у команді",
       "answer":   "Julia plays football in a team",
-      "startTime": ":"
+      "startTime": "27:32"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Її бабуся уявляє ідеальну сім'ю",
       "answer":   "Her grandmother imagines the ideal family",
-      "startTime": ":"
+      "startTime": "27:53"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "У грудні часто іде сніг",
       "answer":   "It often snows in December",
-      "startTime": ":"
+      "startTime": "28:43"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>discuss</b> /dɪsˈkʌs/ обговорювати, дискутувати",
+      "startTime": "28:29"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Профессор обговорює це питання",
       "answer":   "The professor discusses this question",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 10",
-      "startTime": ":"
+      "startTime": "29:02"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він ніколи не купляє це",
       "answer":   "He never buys it",
-      "startTime": ":"
+      "startTime": "30:05"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "Linda studies(study) English at school",
-      "startTime": ":"
+      "question": "Лінда вивчає англійську в школі",
+      "answer":   "Linda studies English at school",
+      "startTime": "30:34"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Мій брат часто насолоджується тим фільмом",
       "answer":   "The brother often enjoys that movie",
-      "startTime": ":"
+      "startTime": "31:14"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вона завжди допомогає йому",
       "answer":   "She always helps him",
-      "startTime": ":"
+      "startTime": "31:44"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він любить її",
       "answer":   "He loves her",
-      "startTime": ":"
+      "startTime": "31:56"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "The woman usually phones(calls) at the afternoon",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "My friend often laughs at it",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "He always wins",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "His sister creates a website",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "My mum says goodnight in the evening",
-      "startTime": ":"
+      "question": "Жінка зазвичай телефонує в обід",
+      "answer":   "The woman usually phones at the afternoon",
+      "startTime": "32:21"
     },
     {
       "itemType": "point",
-      "itemText": "     ",
-      "startTime": ":"
+      "itemText": "<b>call</b> /kɔːl/ телефонувати, дзвонити",
+      "startTime": "32:40"
     },
+    {
+      "itemType": "point",
+      "itemText": "<b>laugh at</b> сміятися над",
+      "startTime": "32:53"
+    },
+    {
+      "itemType": "question",
+      "question": "Мій друг часто сміється над цим",
+      "answer":   "My friend often laughs at it",
+      "startTime": "32:54"
+    },
+    {
+      "itemType": "question",
+      "question": "Він завжди виграє",
+      "answer":   "He always wins",
+      "startTime": "33:26"
+    },
+    {
+      "itemType": "question",
+      "question": "Моя сестра створює веб-сайт",
+      "answer":   "My sister creates a website",
+      "startTime": "33:38"
+    },
+    {
+      "itemType": "question",
+      "question": "Моя мама говорить 'надобраніч' увечері",
+      "answer":   "My mum says goodnight in the evening",
+      "startTime": "33:51"
+    }
   ]
 }
