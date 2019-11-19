@@ -336,123 +336,158 @@
       "startTime": "23:53"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>have a rest</b> відпочивати",
+      "startTime": "24:09"
+    },
+    {
       "itemType": "question",
-      "question": "",
+      "question": "Вона відпочиває по неділях",
       "answer":   "She has a rest on Sundays",
-      "startTime": ":"
+      "startTime": "24:14"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Мій дядько почувається добре сьогодні",
       "answer":   "My uncle feels well today",
-      "startTime": ":"
+      "startTime": "24:48"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ніколи не кажи ніколи",
       "answer":   "Never say never",
-      "startTime": ":"
+      "startTime": "25:03"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Люди вірять у гарне майбутнє",
       "answer":   "People believe in a good future",
-      "startTime": ":"
+      "startTime": "25:23"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти завжди вчиш англійську?",
       "answer":   "Do you always study English?",
-      "startTime": ":"
+      "startTime": "25:37"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "Yes,I often study it. Three times a week",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you like travelling abroad?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "It usually snows in this season",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Bob and his friends discuss this problem",
-      "startTime": ":"
+      "question": "Так, я часто вчу.Тричі на тиждень",
+      "answer":   "Yes, I often study it. Three times a week",
+      "startTime": "25:52"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "itemText": "<b>abroad</b> /əˈbɹɔːd/ за кордоном, за кордон",
+      "startTime": "26:18"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти любиш подорожувати за кордон?",
+      "answer":   "Do you like travelling abroad?",
+      "startTime": "26:21"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>season</b> /ˈsiːzən/ сезон",
+      "startTime": "26:40"
+    },
+    {
+      "itemType": "question",
+      "question": "У цьому сезоні зазвичай іде сніг",
+      "answer":   "It usually snows in this season",
+      "startTime": "26:44"
+    },
+    {
+      "itemType": "question",
+      "question": "Боб та його друзі обговорюють цю проблему",
+      "answer":   "Bob and his friends discuss this problem",
+      "startTime": "26:55"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона зустрічає його",
       "answer":   "She meets him",
-      "startTime": ":"
+      "startTime": "28:08"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вони не сідають на таксі вранці",
       "answer":   "They don't catch the taxi in the mornings",
-      "startTime": ":"
+      "startTime": "28:22"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>walk</b> /wɔːk/ ходити (пішки)",
+      "startTime": "28:37"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вони ходять пішки",
       "answer":   "They walk",
-      "startTime": ":"
+      "startTime": "28:40"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>word</b> /wɜːd/ слово",
+      "startTime": "28:46"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Дитина вгадує слово",
       "answer":   "The child guesses a word",
-      "startTime": ":"
+      "startTime": "28:51"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>sit</b> /sɪt/ сидіти",
+      "startTime": "28:57"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вони сидять там?",
       "answer":   "Do they sit there?",
-      "startTime": ":"
+      "startTime": "29:03"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Турист залишає Нью Йорк",
       "answer":   "The tourist leaves New York",
-      "startTime": ":"
+      "startTime": "29:14"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>waiter</b> /ˈweɪtə/ офіціант<br /><b>uniform</b> /ˈjunəˌfɔɹm/ уніформа",
+      "startTime": "29:20"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Офіціант має уніформу",
       "answer":   "The waiter has a uniform",
-      "startTime": ":"
+      "startTime": "29:27"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти бігаєш по ранках?",
       "answer":   "Do you run in the mornings?",
-      "startTime": ":"
+      "startTime": "29:47"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>maybe</b> /ˈmeɪbi/ можливо",
+      "startTime": "29:56"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Можливо вони не їздять верхи на коні",
       "answer":   "Maybe they don't ride a horse",
-      "startTime": ":"
+      "startTime": "30:02"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Інколи ми не виграємо",
       "answer":   "Sometimes we don't win",
-      "startTime": ":"
+      "startTime": "30:21"
     },
   ]
 }
