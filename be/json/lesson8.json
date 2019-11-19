@@ -246,69 +246,94 @@
       "startTime": "17:47"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>Why</b> /waɪ/ чому",
+      "startTime": "18:50"
+    },
+    {
       "itemType": "question",
-      "question": "",
+      "question": "Вони не користуються інструкцією. Чому?",
       "answer":   "They don't use the instruction. Why?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The people leave a country for a journey",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "She looks at a new supermarket",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do we lose a game?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "I hope we win",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Please find the decision of a problem",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do they enjoy these beautiful autumn evenings?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "I don't watch long films",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Autumn gives calmness and rest",
-      "startTime": ":"
+      "startTime": "18:55"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "itemText": "<b>journey</b> /ˈd͡ʒɜːni/ подорож",
+      "startTime": "19:23"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Люди від'їжджають з країни для подорожі",
+      "answer":   "The people leave a country for a journey",
+      "startTime": "19:25"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>supermarket</b> /ˌsuːpəˈmɑːkɪt/ супермаркет",
+      "startTime": "19:48"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона дивиться на новий супермаркет",
+      "answer":   "She looks at a new supermarket",
+      "startTime": "19:50"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>lose</b> /luːz/ втрачати, програвати",
+      "startTime": "20:43"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми програли гру?",
+      "answer":   "Do we lose a game?",
+      "startTime": "20:46"
+    },
+    {
+      "itemType": "question",
+      "question": "Я сподіваюся, що ми виграємо",
+      "answer":   "I hope we win",
+      "startTime": "21:02"
+    },
+    {
+      "itemType": "question",
+      "question": "Будь-ласка, знайди вирішення проблеми",
+      "answer":   "Please find the decision of a problem",
+      "startTime": "21:12"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>these</b> /ðiːz/ ці (вживається для множини)",
+      "startTime": "21:41"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони насолоджуються цими чудовими осінніми вечорами?",
+      "answer":   "Do they enjoy these beautiful autumn evenings?",
+      "startTime": "21:49"
+    },
+    {
+      "itemType": "question",
+      "question": "Я не дивлюся довгі фільми",
+      "answer":   "I don't watch long films",
+      "startTime": "22:33"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>calmness</b> /ˈkɑ(l)mnəs/ спокій<br /><b>rest</b> /ɹɛst/ відпочинок",
+      "startTime": "22:44"
+    },
+    {
+      "itemType": "question",
+      "question": "Осінь дає спокій та відпочинок",
+      "answer":   "Autumn gives calmness and rest",
+      "startTime": "22:47"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти хочеш почати пробіжку?",
       "answer":   "Do you want to start a race?",
-      "startTime": ":"
+      "startTime": "23:53"
     },
     {
       "itemType": "question",
