@@ -85,69 +85,99 @@
       "startTime": "4:19"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>policeman</b> поліцейський",
+      "startTime": "4:32"
+    },
+    {
       "itemType": "question",
-      "question": "",
+      "question": "Цей поліцейський не зупиняє тебе",
       "answer":   "The policeman doesn't stop you",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The worker doesn't fixrepair that bed",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "He usually doesn't go shopping in the evening",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "She doesn't visit me in winter",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "A teacher doesn't teach all the year",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "My sister doesn't have an umbrella",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "He doesn't fly to the USA",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "A seller doesn't sell cigarettes",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The girl doesn't sit",
-      "startTime": ":"
+      "startTime": "4:35"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "itemText": "<b>bed</b> ліжко",
+      "startTime": "5:02"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Робітник не ремонтує (fix) те ліжко",
+      "answer":   "The worker doesn't fix that bed",
+      "startTime": "5:08"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>repair</b> ремонтувати",
+      "startTime": "5:24"
+    },
+    {
+      "itemType": "question",
+      "question": "Зазвичай він не ходить по магазинам ввечері",
+      "answer":   "He usually doesn't go shopping in the evening",
+      "startTime": "5:43"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не відвідує мене взимку",
+      "answer":   "She doesn't visit me in winter",
+      "startTime": "6:00"
+    },
+    {
+      "itemType": "question",
+      "question": "Вчитель не навчає весь рік",
+      "answer":   "A teacher doesn't teach all the year",
+      "startTime": "6:22"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>umbrella</b> парасолька",
+      "startTime": "6:46"
+    },
+    {
+      "itemType": "question",
+      "question": "Моя сестра не має парасольки",
+      "answer":   "My sister doesn't have an umbrella",
+      "startTime": "6:48"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>doesn't have</b> під час заперечень з he/she/it <u>has міняється на have</u><br /><b>DOES не стоїть разом з HAS</b>",
+      "startTime": "7:54"
+    },
+    {
+      "itemType": "question",
+      "question": "Він не летить до США",
+      "answer":   "He doesn't fly to the USA",
+      "startTime": "7:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>sell</b> продавати<br /><b>seller</b> продавець<br /><b>cigarette</b> сигарка",
+      "startTime": "8:11"
+    },
+    {
+      "itemType": "question",
+      "question": "Продавець не продає сигарет",
+      "answer":   "A seller doesn't sell cigarettes",
+      "startTime": "8:14"
+    },
+    {
+      "itemType": "question",
+      "question": "Дівчина не сидить",
+      "answer":   "The girl doesn't sit",
+      "startTime": "8:33"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>cake</b> /kʰeɪk/ тістечко<br /><b>bake</b> /beɪk/ пекти",
+      "startTime": "9:26"
+    },
+    {
+      "itemType": "question",
+      "question": "Моя мама не випікає тістечок",
       "answer":   "My mum doesn't bake cakes",
-      "startTime": ":"
+      "startTime": "9:33"
     },
     {
       "itemType": "question",
