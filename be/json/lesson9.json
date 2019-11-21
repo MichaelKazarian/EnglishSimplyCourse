@@ -1,0 +1,402 @@
+{
+  "lessonId": "lesson",
+  "lessonTitle": "Урок ",
+  "lessonDescription": "Сьогодні ви взнаєте, як вживати He/She/It у заперечній формі",
+  "lessonURL": "bJkSM3g-Tfs",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": "He/She/It + <b>does not</b> + verb",
+      "startTime": "1:05"
+    },
+    {
+      "itemType": "point",
+      "itemText": "does not скорочується до <b>doesn't</b> [daznt]",
+      "startTime": "1:20"
+    },
+    {
+      "itemType": "question",
+      "question": "Він не говорить англійською вільно",
+      "answer":   "He doesn't speak English fluently",
+      "startTime": "1:48"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не розуміє",
+      "answer":   "She doesn't understand",
+      "startTime": "1:57"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>foreigner</b> іноземець, чужинець",
+      "startTime": "2:08"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не розуміє іноземеців",
+      "answer":   "She doesn't understand foreigners",
+      "startTime": "2:11"
+    },
+    {
+      "itemType": "question",
+      "question": "Воно не п'є",
+      "answer":   "It doesn't drink",
+      "startTime": "2:28"
+    },
+    {
+      "itemType": "question",
+      "question": "Воно не п'є молока",
+      "answer":   "It doesn't drink milk",
+      "startTime": "2:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>cold</b> холодний",
+      "startTime": "2:43"
+    },
+    {
+      "itemType": "question",
+      "question": "Піт (Pete) не любить холодні вечори",
+      "answer":   "Pete doesn't like cold evenings",
+      "startTime": "2:52"
+    },
+    {
+      "itemType": "question",
+      "question": "Ліз (Liz) не віддає перевагу довгим зборам",
+      "answer":   "Liz doesn't prefer long meetings",
+      "startTime": "3:05"
+    },
+    {
+      "itemType": "question",
+      "question": "Менеджер не телефонує дуже часто",
+      "answer":   "The manager doesn't call very often",
+      "startTime": "3:22"
+    },
+    {
+      "itemType": "question",
+      "question": "Кіт не літає",
+      "answer":   "A cat doesn't fly",
+      "startTime": "3:34"
+    },
+    {
+      "itemType": "question",
+      "question": "Людина не вірить у погане майбутнє",
+      "answer":   "A man doesn't believe in a bad future",
+      "startTime": "4:19"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The policeman doesn't stop you",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The worker doesn't fixrepair that bed",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He usually doesn't go shopping in the evening",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She doesn't visit me in winter",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "A teacher doesn't teach all the year",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "My sister doesn't have an umbrella",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He doesn't fly to the USA",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "A seller doesn't sell cigarettes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The girl doesn't sit",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "My mum doesn't bake cakes",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The cousin doesn't play volleyball",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "His dog doesn't eat soup",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "That ball doesn't jump",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Her granddad doesn't like thrillers",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She usually doesn't drink alcohol",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Pam doesn't study at night",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "This doctor doesn't work at the weekend",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "It doesn't work",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "His family doesn't live in the countryside",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "They laugh merrily",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you often visit her?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "No, once a week. Kate lives far away",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do Sam and Tina dance together?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "They fly to Chicago",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "You know everything",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Your English gets better",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "They don't study at school.They study at a university",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you want hot chocolate?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "She doesn't imagine this",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He doesn't sing in a choir",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you practise English every day?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "The girl usually doesn't practise it. Why?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "We show the performance on Saturday",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do they leave Canada? I don't know",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you hear it?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "My brother doesn't get upwake up early",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "It doesn't rain today",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you like watching comedies?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "It means",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "It doesn't mean",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you prefer milk or hot chocolate?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He doesn't sleep a lot",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Please share this info",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "My dad doesn't meet me today",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "He sometimes creates something interesting",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "A policeman usually waits for your documents",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you hear me?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "We don't discuss it",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Do you make booking today?",
+      "startTime": ":"
+    },
+  ]
+}
