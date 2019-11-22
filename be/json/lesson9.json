@@ -181,15 +181,25 @@
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Кузен не грає у волейбол",
       "answer":   "The cousin doesn't play volleyball",
-      "startTime": ":"
+      "startTime": "9:53"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>eat</b> /iːt/ істи<br /><b>soup</b> /suːp/ суп",
+      "startTime": "10:02"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Його собака не їсть суп",
       "answer":   "His dog doesn't eat soup",
-      "startTime": ":"
+      "startTime": "10:05"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>soap</b> /soʊp/ мило",
+      "startTime": "10:31"
     },
     {
       "itemType": "question",
