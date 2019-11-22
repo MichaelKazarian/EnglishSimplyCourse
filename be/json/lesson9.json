@@ -202,46 +202,76 @@
       "startTime": "10:31"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>jump</b> /dʒʌmp/ стрибати, стрибок",
+      "startTime": "10:35"
+    },
+    {
       "itemType": "question",
-      "question": "",
+      "question": "Той м'яч не підстрибує",
       "answer":   "That ball doesn't jump",
-      "startTime": ":"
+      "startTime": "10:38"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>thrill</b> thrill тремтіти, збуджуватися, хвилюватися<br/><b>thriller</b> /θrɪlɜ/ трилер",
+      "startTime": "10:53"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Її дідусь не любить трилерів",
       "answer":   "Her granddad doesn't like thrillers",
-      "startTime": ":"
+      "startTime": "10:56"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>alcohol</b> /ˈæl.kə.hɔl/, /ˈæl.kə.hɑl/ алкоголь",
+      "startTime": "11:07"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вона, зазвичай, не п'є алкоголь",
       "answer":   "She usually doesn't drink alcohol",
-      "startTime": ":"
+      "startTime": "11:11"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>night</b> /naɪt/ ніч",
+      "startTime": "11:21"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Пем не навчається вночі",
       "answer":   "Pam doesn't study at night",
-      "startTime": ":"
+      "startTime": "11:24"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>doctor</b> /ˈdɒktə/ лікар, доктор<br/><b>physician</b> /fɪˈzɪʃən/ лікар, медик",
+      "startTime": "11:43"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Цей лікар не працює на вихідних",
       "answer":   "This doctor doesn't work at the weekend",
-      "startTime": ":"
+      "startTime": "11:46"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Це не працює",
       "answer":   "It doesn't work",
-      "startTime": ":"
+      "startTime": "12:00"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>countryside</b> /ˈkʌn.tɹiˌsaɪd/ сільська місцевість",
+      "startTime": "12:08"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Його сім'я не живе у сільській місцевості",
       "answer":   "His family doesn't live in the countryside",
-      "startTime": ":"
+      "startTime": "12:17"
     },
     {
       "itemType": "point",
