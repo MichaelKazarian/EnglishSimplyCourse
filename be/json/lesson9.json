@@ -274,199 +274,270 @@
       "startTime": "12:17"
     },
     {
-      "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
-    },
-    {
       "itemType": "question",
-      "question": "",
+      "question": "Вони сміються весело",
       "answer":   "They laugh merrily",
-      "startTime": ":"
+      "startTime": "14:55"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти часто відвідуєш її?",
       "answer":   "Do you often visit her?",
-      "startTime": ":"
+      "startTime": "15:12"
+    },
+    
+    {
+      "itemType": "point",
+      "itemText": "<b>once</b> /wʌns/, /wʌn(t)s/ раз, один раз<br />><b>away</b> /əˈweɪ/ геть<br/><b>far away</b> /fɑɹ/ далеко",
+      "startTime": "15:33"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ні, раз на рік. Кейт (Kate) живе далеко",
       "answer":   "No, once a week. Kate lives far away",
-      "startTime": ":"
+      "startTime": "15:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>dance</b> /dæns/ танець, танцювати<br /><b>together</b> /tʊˈɡɛð.ə(ɹ)/, /təˈɡɛð.ə(ɹ)/ разом",
+      "startTime": "16:11"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Сем (Sam) та Тіна (Tina) танцюють разом?",
       "answer":   "Do Sam and Tina dance together?",
-      "startTime": ":"
+      "startTime": "16:18"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>fly</b> /flaɪ/ літати, муха",
+      "startTime": "16:30"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вони летять до Чикаго (Chicago)",
       "answer":   "They fly to Chicago",
-      "startTime": ":"
+      "startTime": "16:39"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>everything</b> /ˈɛvɹɪθɪŋ/ усе, все",
+      "startTime": "17:02"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ви знаєте все",
       "answer":   "You know everything",
-      "startTime": ":"
+      "startTime": "17:03"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>your</b> /jɔː/, /jʊə/ ваш, твій<br/><b>better</b> /ˈbɛtə/ краще, кращий<br /><b>get better</b> ставати кращим",
+      "startTime": "17:13"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ваша англійська стає кращою",
       "answer":   "Your English gets better",
-      "startTime": ":"
+      "startTime": "17:15"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>school</b> /skuːl/ школа<br/><b>university</b> /juːnɪˈvɜːsətiː/ університет",
+      "startTime": "17:41"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вони не навчаються в школі. Вони навчаються в університеті",
       "answer":   "They don't study at school.They study at a university",
-      "startTime": ":"
+      "startTime": "17:44"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>hot</b> /hɒt/ гарячий<br /><b>chocolate</b> /ˈt͡ʃɔk(ə)lɪt/ шоколад",
+      "startTime": "17:57"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти хочеш гарячий шоколад?",
       "answer":   "Do you want hot chocolate?",
-      "startTime": ":"
+      "startTime": "18:00"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вона не уявляє цього",
       "answer":   "She doesn't imagine this",
-      "startTime": ":"
+      "startTime": "18:20"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "itemText": "<b>choir</b> /kwaɪə(ɹ)/ хор",
+      "startTime": "19:06"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він не співає у хорі",
       "answer":   "He doesn't sing in a choir",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you practise English every day?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "The girl usually doesn't practise it. Why?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "We show the performance on Saturday",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do they leave Canada? I don't know",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you hear it?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "My brother doesn't get upwake up early",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "It doesn't rain today",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you like watching comedies?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "It means",
-      "startTime": ":"
+      "startTime": "19:11"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "itemText": "<b>practise</b> /ˈpɹæktɪs/ практикувати",
+      "startTime": "19:40"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти практикуєш англійську щодня?",
+      "answer":   "Do you practise English every day?",
+      "startTime": "19:43"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>practice</b> /ˈpɹæktɪs/ практика",
+      "startTime": "20:06"
+    },
+    {
+      "itemType": "question",
+      "question": "Дівчина, зазвичай не практикує. Чому?",
+      "answer":   "The girl usually doesn't practise it. Why?",
+      "startTime": "20:26"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>performance</b> /pəɹ.ˈfɔɹ.məns/ вистава, виконання",
+      "startTime": "20:49"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми показуємо виставу у Суботу",
+      "answer":   "We show the performance on Saturday",
+      "startTime": "20:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони покинули Канаду? Я не знаю",
+      "answer":   "Do they leave Canada? I don't know",
+      "startTime": "21:12"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти чуєш це?",
+      "answer":   "Do you hear it?",
+      "startTime": "21:25"
+    },
+    {
+      "itemType": "question",
+      "question": "Мій брат не прокидається рано",
+      "answer":   "My brother doesn't get up early",
+      "startTime": "21:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>wake up</b> /ˈweɪk/ прокидатися",
+      "startTime": "21:46"
+    },
+    {
+      "itemType": "question",
+      "question": "Сьогодні не йде дощ",
+      "answer":   "It doesn't rain today",
+      "startTime": "21:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>comedy</b> /ˈkɑmədi/ комедія",
+      "startTime": "22:06"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти любиш дивитися комедії?",
+      "answer":   "Do you like watching comedies?",
+      "startTime": "22:08"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>mean</b> /miːn/ означати, значити",
+      "startTime": "22:16"
+    },
+    {
+      "itemType": "question",
+      "question": "Це означає",
+      "answer":   "It means",
+      "startTime": "22:18"
+    },
+    {
+      "itemType": "question",
+      "question": "Це не означає",
       "answer":   "It doesn't mean",
-      "startTime": ":"
+      "startTime": "23:21"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти надаєш перевагу молокові чи гарячому шоколаду?",
       "answer":   "Do you prefer milk or hot chocolate?",
-      "startTime": ":"
+      "startTime": "24:02"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він не спить багато",
       "answer":   "He doesn't sleep a lot",
-      "startTime": ":"
+      "startTime": "21:14"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>please</b> /pliːz/ будь ласка<br/><b>info</b> /ˈɪnfəʊ/ інформація (неформ.)",
+      "startTime": "24:22"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Будь ласка, поділись цією інформацією",
       "answer":   "Please share this info",
-      "startTime": ":"
+      "startTime": "24:25"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Мій тато не зустрічає мене сьогодні",
       "answer":   "My dad doesn't meet me today",
-      "startTime": ":"
+      "startTime": "24:40"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>something</b> /ˈsʌmθɪŋ/ щось, що-небудь, чого-небудь<br/><b>interesting</b> /ˈɪntəɹəstɪŋ/ цікаве",
+      "startTime": "24:56"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він, інколи, створює щось цікаве",
       "answer":   "He sometimes creates something interesting",
-      "startTime": ":"
+      "startTime": "25:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>document</b> /ˈdɑkjʊmɛnt/ документ",
+      "startTime": "25:20"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Поліцейський, зазвичай, чекає на ваші документи",
       "answer":   "A policeman usually waits for your documents",
-      "startTime": ":"
+      "startTime": "25:24"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти чуєш мене?",
       "answer":   "Do you hear me?",
-      "startTime": ":"
+      "startTime": "25:35"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ми не обговорюємо цього?",
       "answer":   "We don't discuss it",
-      "startTime": ":"
+      "startTime": "25:46"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти робиш замовлення сьогодні?",
       "answer":   "Do you make booking today?",
-      "startTime": ":"
-    },
+      "startTime": "25:57"
+    }
   ]
 }

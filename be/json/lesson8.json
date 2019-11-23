@@ -41,6 +41,11 @@
       "startTime": "4:37"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>information</b> /ˌɪnfəˈmeɪʃən/ інформація",
+      "startTime": "5:08"
+    },
+    {
       "itemType": "question",
       "question": "Вчитель пояснює нову інформацію",
       "answer":   "The teacher explains a new information",
