@@ -385,7 +385,7 @@
       "itemText": "<b>there</b> /ðɛɚ/ туди",
       "startTime": "21:06"
     },
-      {
+    {
       "itemType": "question",
       "question": "Ми не йдемо туди",
       "answer":   "We don't go there",
@@ -492,6 +492,6 @@
       "question": "Я знаю телефонний номер",
       "answer":   "I know a phone number",
       "startTime": "25:21"
-    },
+    }
   ]
 }

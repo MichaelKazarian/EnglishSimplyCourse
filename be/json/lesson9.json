@@ -1,8 +1,8 @@
 {
-  "lessonId": "lesson",
-  "lessonTitle": "Урок ",
+  "lessonId": "lesson9",
+  "lessonTitle": "Урок 9",
   "lessonDescription": "Сьогодні ви взнаєте, як вживати He/She/It у заперечній формі",
-  "lessonURL": "bJkSM3g-Tfs",
+  "lessonURL": "DCTjnUlK43o",
   "lessonItems": [
     {
       "itemType": "point",
@@ -285,7 +285,6 @@
       "answer":   "Do you often visit her?",
       "startTime": "15:12"
     },
-    
     {
       "itemType": "point",
       "itemText": "<b>once</b> /wʌns/, /wʌn(t)s/ раз, один раз<br />><b>away</b> /əˈweɪ/ геть<br/><b>far away</b> /fɑɹ/ далеко",

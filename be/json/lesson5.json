@@ -16,7 +16,7 @@
     },
     {
       "itemType": "question",
-      "question": "Кейт (Kate) чекає на мене",
+      "question": "Кейт чекає на мене",
       "answer":   "Kate waits for me",
       "startTime": "1:30"
     },
@@ -218,7 +218,7 @@
       "answer":   "The student watches a game with his friends",
       "startTime": "11:12"
     },
-	{
+    {
       "itemType": "point",
       "itemText": "<b>fix</b> /ˈfɪks/ ремонтувати, лагодити",
       "startTime": "12:02"
