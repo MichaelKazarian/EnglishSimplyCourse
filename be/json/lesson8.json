@@ -1,8 +1,8 @@
 {
   "lessonId": "lesson8",
   "lessonTitle": "Урок 8",
-  "lessonDescription": " ",
-  "lessonURL": "Поки ми опановували He/She/It ви встигли забути, як оперувати з I/We/You/They. Зараз ми це виправимо. Заодно дамо нові слова",
+  "lessonDescription": "Поки ми опановували He/She/It ви встигли забути, як оперувати з I/We/You/They. Зараз ми це виправимо. Заодно дамо нові слова",
+  "lessonURL": "VG_lASmKkBY",
   "lessonItems": [
     {
       "itemType": "question",
@@ -39,6 +39,11 @@
       "question": "Ніколи не кажи 'ні'",
       "answer":   "Never say 'no'",
       "startTime": "4:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>information</b> /ˌɪnfəˈmeɪʃən/ інформація",
+      "startTime": "5:08"
     },
     {
       "itemType": "question",
