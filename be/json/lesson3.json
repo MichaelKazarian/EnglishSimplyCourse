@@ -296,6 +296,11 @@
       "startTime": "13:56"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>homework</b> /ˈhəʊmˌwɜːk/ домашнє завдання",
+      "startTime": "14:05"
+    },
+    {
       "itemType": "question",
       "question": "Я виконую моє англійське домашнє завдання",
       "answer":   "I do my English homework",

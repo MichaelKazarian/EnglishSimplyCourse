@@ -309,11 +309,6 @@
       "startTime": "23:25"
     },
     {
-      "itemType": "point",
-      "itemText": "<b>homework</b> /ˈhəʊmˌwɜːk/ домашнє завдання",
-      "startTime": "23:53"
-    },
-    {
       "itemType": "question",
       "question": "Студент робить (своє) домашнє завдання регулярно",
       "answer":   "The student does his homework regularly",
