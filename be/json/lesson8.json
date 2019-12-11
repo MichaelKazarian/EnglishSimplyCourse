@@ -67,7 +67,12 @@
       "itemType": "question",
       "question": "Вони не хочуть робити це",
       "answer":   "They don't want to do it",
-      "startTime": "8:58"
+      "startTime": "5:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>place</b> /pleɪs/ місце",
+      "startTime": "7:03"
     },
     {
       "itemType": "question",

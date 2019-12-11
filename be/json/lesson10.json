@@ -5,155 +5,165 @@
   "lessonURL": "bJkSM3g-Tfs",
   "lessonItems": [
     {
-      "itemType": "point",
-      "itemText": "* Lesson 10",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Present Simple. Do, don't, doesn't",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 1",
-      "startTime": ":"
-    },
-    {
       "itemType": "question",
-      "question": "",
+      "question": "Він не навчається у школі",
       "answer":   "He doesn't study at school",
-      "startTime": ":"
+      "startTime": "1:38"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вона не співає",
       "answer":   "She doesn't sing",
-      "startTime": ":"
+      "startTime": "1:49"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Це не містить",
       "answer":   "It doesn't include",
-      "startTime": ":"
+      "startTime": "2:00"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Дощ не йде",
       "answer":   "It doesn't rain",
-      "startTime": ":"
+      "startTime": "2:19"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він не знає тебе",
       "answer":   "He doesn't know you",
-      "startTime": ":"
+      "startTime": "2:28"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Мій кузен не грає",
       "answer":   "My cousin doesn't play",
-      "startTime": ":"
+      "startTime": "2:42"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Мій тато не любить шуму",
       "answer":   "The dad doesn't like noise",
-      "startTime": ":"
+      "startTime": "2:55"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>hurry up</b> /ˈhʌ.ɹi/ поспішати",
+      "startTime": "3:04"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Цей офіціант не поспішає",
       "answer":   "The waiter doesn't hurry up",
-      "startTime": ":"
+      "startTime": "3:06"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>tree</b> /tɹiː/ дерево",
+      "startTime": "3:35"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Собака не лазить по деревах",
       "answer":   "A dog doesn't climb a tree",
-      "startTime": ":"
+      "startTime": "3:39"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Люжина не літає",
       "answer":   "A man doesn't fly",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 2",
-      "startTime": ":"
+      "startTime": "3:51"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Його студент не виконує домашнього завдання",
       "answer":   "His student doesn't do the homework",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Her teacher doesn't shout",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Our mum doesn't go shopping",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "I don't have a rest",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "They don't forget suitcases",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Pam doesn't invite you",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "It doesn't snow in June in Ukraine",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "You don't help your sister today",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Ron doesn't go to the shop",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "We don't visit that place",
-      "startTime": ":"
+      "startTime": "4:28"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "itemText": "<b>shout</b> /ʃaʊt/ крик, кричати",
+      "startTime": "4:45"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Її вчитель не кричить",
+      "answer":   "Her teacher doesn't shout",
+      "startTime": "4:49"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>our</b> /ˈaʊə(ɹ)/ наш",
+      "startTime": "5:08"
+    },
+    {
+      "itemType": "question",
+      "question": "Наша мама не скупляється",
+      "answer":   "Our mum doesn't go shopping",
+      "startTime": "5:12"
+    },
+    {
+      "itemType": "question",
+      "question": "Я не маю відпочинку",
+      "answer":   "I don't have a rest",
+      "startTime": "5:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>suitcase</b> /ˈsutkeɪs/ валіза",
+      "startTime": "5:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони не забувають валізи",
+      "answer":   "They don't forget suitcases",
+      "startTime": "5:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>invite</b> /ɪnˈvaɪt/ запрошувати",
+      "startTime": "6:12"
+    },
+    {
+      "itemType": "question",
+      "question": "Пем (Pam) не запрошує тебе",
+      "answer":   "Pam doesn't invite you",
+      "startTime": "6:22"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>June</b> /d͡ʒuːn/ Червень",
+      "startTime": "6:34"
+    },
+    {
+      "itemType": "question",
+      "question": "В Україні у червні не йде сніг",
+      "answer":   "It doesn't snow in June in Ukraine",
+      "startTime": "6:46"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти не допомогаєш своїй сестрі сьогодні",
+      "answer":   "You don't help your sister today",
+      "startTime": "7:00"
+    },
+    {
+      "itemType": "question",
+      "question": "Рон (Ron) не ходить до магазину",
+      "answer":   "Ron doesn't go to the shop",
+      "startTime": "7:21"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми не відвідуємо те місце",
+      "answer":   "We don't visit that place",
+      "startTime": "7:32"
+    },
+    {
+      "itemType": "question",
+      "question": "Я дякую тобі за допомогу",
       "answer":   "I thank you for help",
-      "startTime": ":"
+      "startTime": "8:43"
     },
     {
       "itemType": "question",
