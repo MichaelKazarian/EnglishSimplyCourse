@@ -167,68 +167,78 @@
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Чи ти приєднаєшся до мене у неділю?",
       "answer":   "Do you join me on Sunday?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "He learns the new words every day",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you see him?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you look at him?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "My parents don't like pop music",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "They prefer classical",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "My friend doesn't call today",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "He doesn't share my post",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do they test the new program?",
-      "startTime": ":"
+      "startTime": "9:16"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "itemText": "<b>learn</b> /lɜːn/ вчити, вивчати",
+      "startTime": "9:25"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він вчить нові слова щодня",
+      "answer":   "He learns the new words every day",
+      "startTime": "9:46"
+    },
+    {
+      "itemType": "question",
+      "question": "Чи ти бачиш його?",
+      "answer":   "Do you see him?",
+      "startTime": "10:15"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти дивишся на нього?",
+      "answer":   "Do you look at him?",
+      "startTime": "10:33"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>music</b> /ˈmjuːzɪk/ музика",
+      "startTime": "10:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Мої батьки не люблять поп-музику",
+      "answer":   "My parents don't like pop music",
+      "startTime": "10:54"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони надають перевагу класичній",
+      "answer":   "They prefer classical",
+      "startTime": "11:04"
+    },
+    {
+      "itemType": "question",
+      "question": "Мій друг не телефонує сьогодні",
+      "answer":   "My friend doesn't call today",
+      "startTime": "11:17"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>post</b> /poʊst/ допис, вивішувати, пошта, посада",
+      "startTime": "11:32"
+    },
+    {
+      "itemType": "question",
+      "question": "Він не розповсюджує мій допис",
+      "answer":   "He doesn't share my post",
+      "startTime": "11:36"
+    },
+    {
+      "itemType": "question",
+      "question": "Чи вони тестують нову програму?",
+      "answer":   "Do they test the new program?",
+      "startTime": "11:57"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони не дивляться фільми по вечорах",
       "answer":   "They don't watch films in the evenings",
-      "startTime": ":"
+      "startTime": "12:35"
     },
     {
       "itemType": "question",
