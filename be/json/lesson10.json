@@ -2,7 +2,7 @@
   "lessonId": "lesson10",
   "lessonTitle": "Урок 10",
   "lessonDescription": "Повторення Do/Does/Doesn't",
-  "lessonURL": "bJkSM3g-Tfs",
+  "lessonURL": "mgSecQkgU6k",
   "lessonItems": [
     {
       "itemType": "question",
@@ -241,187 +241,270 @@
       "startTime": "12:35"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>move</b> /muːv/ переміщати, переїжджати, рухатися",
+      "startTime": "12:56"
+    },
+    {
       "itemType": "question",
-      "question": "",
+      "question": "Його батьки переїжджають до Польщі",
       "answer":   "His parents move to Poland",
-      "startTime": ":"
+      "startTime": "13:04"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Джек (Jack) не пояснює правило",
       "answer":   "Jack doesn't explain the rule",
-      "startTime": ":"
+      "startTime": "13:23"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Знайди мою валізу, будь ласка",
       "answer":   "Find my suitcase, please",
-      "startTime": ":"
+      "startTime": "13:26"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Це не коштує дорого",
       "answer":   "It doesn't cost a lot",
-      "startTime": ":"
+      "startTime": "13:49"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ти зазвичай купуєш меблі там",
       "answer":   "You usually buy furniture there",
-      "startTime": ":"
+      "startTime": "14:05"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>blog</b> /blɑɡ/ блог",
+      "startTime": "14:15"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "чи ти створюєш свій блог?",
       "answer":   "Do you create your blog?",
-      "startTime": ":"
+      "startTime": "14:19"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>swimming</b> /ˈswɪmɪŋ/ плавання<br/><b>go swimming</b> займатися плаванням",
+      "startTime": "14:35"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Чи ти займаєшся плаванням?",
       "answer":   "Do you go swimming?",
-      "startTime": ":"
+      "startTime": "14:48"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він хоче полетіти до теплої країни",
       "answer":   "He wants to fly to the warm country",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "100.People like travelling/like to travel",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "startTime": "15:04"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Люди люблять подорожувати",
+      "answer":   [
+        "People like travelling",
+        "People like like to travel"],
+      "startTime": "15:55"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>grow</b> /ɡɹoʊ/ рости, вирощувати",
+      "startTime": "16:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Дерева ростуть",
       "answer":   "Trees grow",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "They follow you",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "My cousin doesn't follow my advice",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you play lawn tennis?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "He doesn't wear a sweater in summer",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "His wife works at home",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Do you watch this football match?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Her husband doesn't work in a restaurant",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "Your son builds a new house",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "",
-      "answer":   "This car doesn't go to an airport",
-      "startTime": ":"
+      "startTime": "16:55"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "itemText": "<b>follow</b> /ˈfɑloʊ/ слідувати за кимось/чимось",
+      "startTime": "17:12"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Вони слідують за тобою",
+      "answer":   "They follow you",
+      "startTime": "17:19"
+    },
+    {
+      "itemType": "question",
+      "question": "Мій кузен не слідує моїй пораді",
+      "answer":   "My cousin doesn't follow my advice",
+      "startTime": "17:32"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>lawn</b> /lɔːn/ газон, галявина<br/><b>tennis</b> /ˈtɛ.nɪs/ теніс",
+      "startTime": "17:43"
+    },
+    {
+      "itemType": "question",
+      "question": "Чи ти граєш у великий теніс?",
+      "answer":   "Do you play lawn tennis?",
+      "startTime": "17:53"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>wear</b> /wɛə(ɹ)/ носити, одяг<br/><b>sweater</b> /ˈswɛtə/ светр",
+      "startTime": "18:05"
+    },
+    {
+      "itemType": "question",
+      "question": "Він не носить светра влітку",
+      "answer":   "He doesn't wear a sweater in summer",
+      "startTime": "18:18"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>work at home</b> працювати вдома",
+      "startTime": "18:31"
+    },
+    {
+      "itemType": "question",
+      "question": "Його дружина працює вдома",
+      "answer":   "His wife works at home",
+      "startTime": "18:38"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти дивишся цей футбольний матч?",
+      "answer":   "Do you watch this football match?",
+      "startTime": "18:51"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>husband</b> /ˈhʌz.bənd/ чоловік",
+      "startTime": "18:59"
+    },
+    {
+      "itemType": "question",
+      "question": "Її чоловік не працює в ресторані",
+      "answer":   "Her husband doesn't work in a restaurant",
+      "startTime": "19:03"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>son</b> /sʌn/ син",
+      "startTime": "19:15"
+    },
+    {
+      "itemType": "question",
+      "question": "Твій син будує новий будинок",
+      "answer":   "Your son builds a new house",
+      "startTime": "19:18"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>airport</b> /ˈɛə.pɔːt/ аеропорт",
+      "startTime": "19:33"
+    },
+    {
+      "itemType": "question",
+      "question": "Ця машина не їде до аеропорту",
+      "answer":   "This car doesn't go to an airport",
+      "startTime": "19:35"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Перед голосними артикль <u>a</u> заміняється на <u>an</u>",
+      "startTime": "19:49"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>them</b> /ðəm/ їх, їм",
+      "startTime": "20:26"
+    },
+    {
+      "itemType": "question",
+      "question": "Чи ти віриш їм?",
       "answer":   "Do you believe them?",
-      "startTime": ":"
+      "startTime": "20:29"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Я не п'ю пиво",
       "answer":   "I don't drink beer",
-      "startTime": ":"
+      "startTime": "20:44"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>wine</b> /waɪn/ вино",
+      "startTime": "20:51"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Я надаю перевагу вину",
       "answer":   "I prefer wine",
-      "startTime": ":"
+      "startTime": "20:54"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>bread</b> /bɹɛd/ хліб<br/><b>market</b> /ˈmɑːkɪt/, /ˈmɑɹkɪt/ маркет, ринок",
+      "startTime": "21:03"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Чи ти купляєш хліб у маркеті?",
       "answer":   "Do you buy bread at the market?",
-      "startTime": ":"
+      "startTime": "21:07"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Я думаю він робить це",
       "answer":   "I think he does it",
-      "startTime": ":"
+      "startTime": "21:27"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Він каже, що знає все",
       "answer":   "He says he knows everything",
-      "startTime": ":"
+      "startTime": "21:40"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>grandma</b> /ˈɡɹænmɑː/ бабуся",
+      "startTime": "21:57"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Моя бабуся не вгадує цю пісню",
       "answer":   "The grandma doesn't guess the song",
-      "startTime": ":"
+      "startTime": "22:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>plan</b> /plæn/ план, планувати",
+      "startTime": "22:15"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Чи ти плануєш свій тиждень?",
       "answer":   "Do you plan your week?",
-      "startTime": ":"
+      "startTime": "22:18"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Ця жінка водить машину дуже добре",
       "answer":   "The woman drives a car very well",
-      "startTime": ":"
+      "startTime": "22:32"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>cross</b> /kɹɔːs/ хрест, перетинати",
+      "startTime": "22:49"
     },
     {
       "itemType": "question",
-      "question": "",
+      "question": "Не переходь вулицю у цьому місці",
       "answer":   "Don't cross the street at this place",
-      "startTime": ":"
-    },
+      "startTime": "23:00"
+    }
   ]
 }

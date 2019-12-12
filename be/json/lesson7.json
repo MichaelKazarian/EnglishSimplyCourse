@@ -116,9 +116,10 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>spend</b> /spɛnd/ витрачати (гроші), проводити (час)",
+      "itemText": "<b>spend</b> /spɛnd/ витрачати (гроші), проводити (час)<br/><b>summer</b> /ˈsʌmə(ɹ)/ літо",
       "startTime": "9:51"
-    },    {
+    },
+    {
       "itemType": "question",
       "question": "Його кузен проводить літо на Середземному морі",
       "answer":   "His cousin spends summer at the Mediterranean Sea",
@@ -346,7 +347,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>team</b> /tiːm/ команда",
+      "itemText": "<b>football</b> /ˈfʊtbɔːl/ футбол<br/><b>team</b> /tiːm/ команда",
       "startTime": "27:31"
     },
     {
