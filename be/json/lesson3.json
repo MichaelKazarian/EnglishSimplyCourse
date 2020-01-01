@@ -1,19 +1,19 @@
 {
   "lessonId": "lesson3",
   "lessonTitle": "Урок 3. Present Simple",
-  "lessonDescription": "Задаємо перші питання. Нові слова теж будуть",
+  "lessonDescription": "Задаємо перші запитання. Нові слова теж будуть",
   "lessonURL": "bPtBDu0E1QA",
   "lessonItems": [
     {
       "itemType": "question",
-      "question": "Ти ідеш туди",
+      "question": "Ти йдеш туди",
       "answer":   "You go there",
       "startTime": "1:03"
     },
     {
       "itemType": "question",
-      "question": "Ти ідеш туди",
-      "answer":   "You don't go there",
+      "question": "Ти йдеш туди?
+      "answer":   "Do you go there?",
       "startTime": "1:40"
     },
     {
@@ -30,7 +30,7 @@
     {
       "itemType": "question",
       "question": "Ти відвідуєш велике місто?",
-      "answer":   "Do you visit a city?",
+      "answer":   "Do you visit a big city?",
       "startTime": "2:55"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти сідаєш на потяг кожного вечора?",
+      "question": "Ти сідаєш до потягу кожного вечора?",
       "answer":   "Do you catch the train every evening?",
       "startTime": "6:25"
     },
@@ -239,7 +239,7 @@
     {
       "itemType": "question",
       "question": "Ти віриш у зміни",
-      "answer":   "You believe in change",
+      "answer":   "You believe in changes",
       "startTime": "12:32"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>noise</b>  /nɔɪz/ шум",
+      "itemText": "<b>noise</b>  /nɔɪz/ шу",
       "startTime": "12:51"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>my</b> /maɪ/ моє, мій",
+      "itemText": "<b>my</b> /maɪ/ мій,моя,моє",
       "startTime": "13:56"
     },
     {
@@ -423,7 +423,7 @@
     },
     {
       "itemType": "question",
-      "question": "Я, зазвичай, роблю замовлення вранці",
+      "question": "Я зазвичай роблю замовлення вранці",
       "answer":   "I usually make booking in the morning",
       "startTime": "19:06"
     },
@@ -517,12 +517,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>change</b> /tʃeɪndʒ/ змінювати<br/>",
+      "itemText": "<b>change</b> /tʃeɪndʒ/ зміна<br/>",
       "startTime": "24:34"
     },
     {
       "itemType": "point",
-      "itemText": "Закінчення <b>s</b> позначає множину.Сhange<b>s</b> зміни",
+      "itemText": "Закінчення <b>s</b> позначає множину.Сhanges<b>s</b> зміни",
       "startTime": "24:36"
     },
     {
@@ -563,7 +563,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "Закінчення <b>s</b> позначає множину.Сhange<b>s</b> зміни",
+      "itemText": "Закінчення <b>s</b> позначає множину.Сhanges<b>s</b> зміни",
       "startTime": "24:36"
     },
     {
@@ -608,7 +608,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>in the morning</b> зранку<br/><b>in the afternoon</b>в обід<br/><b>in the evening</b> ввечері",
+      "itemText": "<b>in the morning</b> зранку<br/><b>in the afternoon</b>в обід<br/><b>in the evening</b> увечері",
       "startTime": "28:28"
     },
     {
@@ -636,7 +636,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти не відповідаєш на це запитання",
+      "question": "Вони не ставлять цього запитання",
       "answer":   "They don't ask this question",
       "startTime": "29:37"
     },
@@ -678,7 +678,7 @@
     },
     {
       "itemType": "question",
-      "question": "Чи ти, зазвичай, починаєш свій забіг увечері?",
+      "question": "Чи ти зазвичай починаєш забіг вранці?",
       "answer":   "Do you usually begin the race in the morning?",
       "startTime": "32:07"
     },
@@ -702,7 +702,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми їздемо на роботу машиною?",
+      "question": "Ми їдемо на роботу машиною?",
       "answer":   "Do we go to work by car?",
       "startTime": "32:55"
     }

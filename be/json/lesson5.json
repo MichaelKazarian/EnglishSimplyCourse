@@ -1,7 +1,7 @@
 {
   "lessonId": "lesson",
   "lessonTitle": "Урок 5",
-  "lessonDescription": "Сьогодні затреновуємо те, що ви взнали на минулому уроці",
+  "lessonDescription": "Сьогодні затреновуємо те, що ви дізналися минулого уроку",
   "lessonURL": "bJkSM3g-Tfs",
   "lessonItems": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>wait for</b> чекати на когось",
+      "itemText": "<b>wait for</b> чекати на когось, на щось",
       "startTime": "1:23"
     },
     {
@@ -76,12 +76,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>change</b> /tʃeɪndʒ/ зміна, змінювати",
+      "itemText": "<b>change</b> /tʃeɪndʒ/ змінювати",
       "startTime": "4:34"
     },
     {
       "itemType": "point",
-      "itemText": "<b>dress</b> /dɹɛs/ сукня, одягати",
+      "itemText": "<b>dress</b> /dɹɛs/ сукня",
       "startTime": "4:53"
     },
     {
@@ -91,12 +91,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>play</b> /pleɪ/ грати, вистава, п'єса",
+      "itemText": "<b>play</b> /pleɪ/ вистава, п'єса",
       "startTime": "4:56"
     },
     {
       "itemType": "question",
-      "question": "Сьзі змінює сукні між частинами п'єси",
+      "question": "Cьюзі змінює сукню між частинами п'єси",
       "answer":   "Susie changes her dress between the parts of the play",
       "startTime": "5:01"
     },
@@ -209,7 +209,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>watch</b> /wɒt͡ʃ/ дивитися (передачу, фільм і т.і.), спостерігати, годинник",
+      "itemText": "<b>watch</b> /wɒt͡ʃ/ дивитися (передачу, фільм і т.і.)",
       "startTime": "10:53"
     },
     {
@@ -235,7 +235,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він хлюється водою",
+      "question": "Він хлюпається водою",
       "answer":   "He splashes water",
       "startTime": "12:51"
     },
@@ -265,7 +265,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>project</b> /ˈpɹɒdʒɛkt/ проект",
+      "itemText": "<b>project</b> /ˈpɹɒdʒɛkt/ проєкт",
       "startTime": "14:49"
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "itemType": "question",
-      "question": "Кошеня (воно) п'є воду",
+      "question": "Кошеня п'є воду",
       "answer":   "Kitten drinks water",
       "startTime": "21:01"
     },

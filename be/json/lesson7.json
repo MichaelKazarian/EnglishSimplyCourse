@@ -6,7 +6,7 @@
   "lessonItems": [
     {
       "itemType": "point",
-      "itemText": "<b>climb</b> /klaɪm/ підніматися, здиратися",
+      "itemText": "<b>climb</b> /klaɪm/ підніматися вгору",
       "startTime": "01:45"
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>snow</b> /snoʊ/ сніг, сніжить",
+      "itemText": "<b>snow</b> /snoʊ/ іде сніг, сніжить",
       "startTime": "3:45"
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>look</b> /lʊk/ дивитися (як чиясь дія)<br/><b>see</b> /siː/ дивитися (як здатність щось побачити)",
+      "itemText": "<b>look</b> /lʊk/ дивитися <br/><b>see</b> /siː/ бачити (як фізична здатність від природи)",
       "startTime": "5:30"
     },
     {
@@ -94,7 +94,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>phone</b> /foʊ̯n/ телефонувати, дзвонити; телефон",
+      "itemText": "<b>phone</b> /foʊ̯n/ телефонувати",
       "startTime": "8:02"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>spend</b> /spɛnd/ витрачати (гроші), проводити (час)<br/><b>summer</b> /ˈsʌmə(ɹ)/ літо",
+      "itemText": "<b>spend</b> /spɛnd/ проводити (час)<br/><b>summer</b> /ˈsʌmə(ɹ)/ літо",
       "startTime": "9:51"
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>leave</b> /liːv/ залишати, відїзжати",
+      "itemText": "<b>leave</b> /liːv/ залишати",
       "startTime": "15:07"
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>know</b> /noʊ/ знати<br/><b>work</b> /wɜːk/ працювати, робити; робота",
+      "itemText": "<b>know</b> /noʊ/ знати<br/><b>work</b> /wɜːk/ робота",
       "startTime": "17:39"
     },
     {
@@ -233,7 +233,7 @@
     {
       "itemType": "question",
       "question": "Фільм закінчується о 9-тій вечора",
-      "answer":   "The movie ends at 9 PM",
+      "answer":   "The movie ends at 9 pm",
       "startTime": "20:39"
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "itemType": "question",
-      "question": "Джейн навчається в Кембріджському університеті",
+      "question": "Джейн навчається у Кембріджському університеті",
       "answer":   "Jane studies at Cambridge University",
       "startTime": "22:10"
     },
@@ -308,7 +308,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>quick</b> /kwɪk/ швидкий, швидка<br/>quick<b><u>ly</u></b> швидко",
+      "itemText": "<b>quick</b> /kwɪk/ швидкий<br/>quick<b><u>ly</u></b> швидко",
       "startTime": "25:13"
     },
     {
@@ -330,7 +330,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона хоче той костюм",
+      "question": "Сью хоче той костюм",
       "answer":   "Sue wants that suit",
       "startTime": "26:39"
     },
@@ -352,7 +352,7 @@
     },
     {
       "itemType": "question",
-      "question": "Джулія грає в футбол у команді",
+      "question": "Джулія грає у футбол у команді",
       "answer":   "Julia plays football in a team",
       "startTime": "27:32"
     },
@@ -375,13 +375,13 @@
     },
     {
       "itemType": "question",
-      "question": "Профессор обговорює це питання",
+      "question": "Професор обговорює це питання",
       "answer":   "The professor discusses this question",
       "startTime": "29:02"
     },
     {
       "itemType": "question",
-      "question": "Він ніколи не купляє це",
+      "question": "Він ніколи не купує це",
       "answer":   "He never buys it",
       "startTime": "30:05"
     },
@@ -393,18 +393,18 @@
     },
     {
       "itemType": "question",
-      "question": "Мій брат часто насолоджується тим фільмом",
+      "question": "Брат часто насолоджується тим фільмом",
       "answer":   "The brother often enjoys that movie",
       "startTime": "31:14"
     },
     {
       "itemType": "point",
-      "itemText": "<b>him</b> /ˈhɪm/ йому, його",
+      "itemText": "<b>him</b> /ˈhɪm/ йому",
       "startTime": "31:39"
     },
     {
       "itemType": "question",
-      "question": "Вона завжди допомогає йому",
+      "question": "Вона завжди допомагає йому",
       "answer":   "She always helps him",
       "startTime": "31:44"
     },
@@ -417,17 +417,17 @@
     {
       "itemType": "question",
       "question": "Жінка зазвичай телефонує в обід",
-      "answer":   "The woman usually phones at the afternoon",
+      "answer":   "The woman usually phones in the afternoon",
       "startTime": "32:21"
     },
     {
       "itemType": "point",
-      "itemText": "<b>call</b> /kɔːl/ телефонувати, дзвонити",
+      "itemText": "<b>call</b> /kɔːl/ телефонувати",
       "startTime": "32:40"
     },
     {
       "itemType": "point",
-      "itemText": "<b>laugh at</b> сміятися над",
+      "itemText": "<b>laugh at</b> сміятися над/із",
       "startTime": "32:53"
     },
     {

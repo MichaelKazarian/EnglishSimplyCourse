@@ -1,7 +1,7 @@
 {
   "lessonId": "lesson9",
   "lessonTitle": "Урок 9",
-  "lessonDescription": "Сьогодні ви взнаєте, як вживати He/She/It у заперечній формі",
+  "lessonDescription": "Сьогодні ви дізнаєтеся, як вживати He/She/It у заперечній формі",
   "lessonURL": "DCTjnUlK43o",
   "lessonItems": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона не розуміє іноземеців",
+      "question": "Вона не розуміє іноземців",
       "answer":   "She doesn't understand foreigners",
       "startTime": "2:11"
     },
@@ -113,7 +113,7 @@
     },
     {
       "itemType": "question",
-      "question": "Зазвичай він не ходить по магазинам ввечері",
+      "question": "Зазвичай він не ходить по магазинах увечері",
       "answer":   "He usually doesn't go shopping in the evening",
       "startTime": "5:43"
     },
@@ -153,7 +153,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>sell</b> продавати<br /><b>seller</b> продавець<br /><b>cigarette</b> сигарка",
+      "itemText": "<b>sell</b> продавати<br /><b>seller</b> продавець<br /><b>cigarette</b> цигарка",
       "startTime": "8:11"
     },
     {
@@ -187,7 +187,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>eat</b> /iːt/ істи<br /><b>soup</b> /suːp/ суп",
+      "itemText": "<b>eat</b> /iːt/ їсти<br /><b>soup</b> /suːp/ суп",
       "startTime": "10:02"
     },
     {
@@ -198,12 +198,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>soap</b> /soʊp/ мило",
+      "itemText": "Будьте уважні: схоже слово <b>soap</b> /soʊp/ мило",
       "startTime": "10:31"
     },
     {
       "itemType": "point",
-      "itemText": "<b>jump</b> /dʒʌmp/ стрибати, стрибок",
+      "itemText": "<b>jump</b> /dʒʌmp/ стрибати",
       "startTime": "10:35"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона, зазвичай, не п'є алкоголь",
+      "question": "Вона зазвичай не п'є алкоголь",
       "answer":   "She usually doesn't drink alcohol",
       "startTime": "11:11"
     },
@@ -247,7 +247,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>doctor</b> /ˈdɒktə/ лікар, доктор<br/><b>physician</b> /fɪˈzɪʃən/ лікар, медик",
+      "itemText": "<b>doctor</b> /ˈdɒktə/ лікар British<br/><b>physician</b> /fɪˈzɪʃən/ лікар American",
       "startTime": "11:43"
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>dance</b> /dæns/ танець, танцювати<br /><b>together</b> /tʊˈɡɛð.ə(ɹ)/, /təˈɡɛð.ə(ɹ)/ разом",
+      "itemText": "<b>dance</b> /dæns/ танцювати<br /><b>together</b> /tʊˈɡɛð.ə(ɹ)/, /təˈɡɛð.ə(ɹ)/ разом",
       "startTime": "16:11"
     },
     {
@@ -309,7 +309,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>fly</b> /flaɪ/ літати, муха",
+      "itemText": "<b>fly</b> /flaɪ/ літати",
       "startTime": "16:30"
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "itemType": "question",
-      "question": "Дівчина, зазвичай не практикує. Чому?",
+      "question": "Дівчина зазвичай не практикує. Чому?",
       "answer":   "The girl usually doesn't practise it. Why?",
       "startTime": "20:26"
     },
@@ -408,7 +408,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми показуємо виставу у Суботу",
+      "question": "Ми показуємо виставу у суботу",
       "answer":   "We show the performance on Saturday",
       "startTime": "20:51"
     },
@@ -471,7 +471,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти надаєш перевагу молокові чи гарячому шоколаду?",
+      "question": "Ти надаєш перевагу молоку чи гарячому шоколаду?",
       "answer":   "Do you prefer milk or hot chocolate?",
       "startTime": "24:02"
     },
@@ -500,12 +500,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>something</b> /ˈsʌmθɪŋ/ щось, що-небудь, чого-небудь<br/><b>interesting</b> /ˈɪntəɹəstɪŋ/ цікаве",
+      "itemText": "<b>something</b> /ˈsʌmθɪŋ/ щось, що-небудь<br/><b>interesting</b> /ˈɪntəɹəstɪŋ/ цікаве",
       "startTime": "24:56"
     },
     {
       "itemType": "question",
-      "question": "Він, інколи, створює щось цікаве",
+      "question": "Він інколи створює щось цікаве",
       "answer":   "He sometimes creates something interesting",
       "startTime": "25:01"
     },
@@ -516,7 +516,7 @@
     },
     {
       "itemType": "question",
-      "question": "Поліцейський, зазвичай, чекає на ваші документи",
+      "question": "Поліцейський зазвичай чекає на ваші документи",
       "answer":   "A policeman usually waits for your documents",
       "startTime": "25:24"
     },
@@ -528,7 +528,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми не обговорюємо цього?",
+      "question": "Ми не обговорюємо цього",
       "answer":   "We don't discuss it",
       "startTime": "25:46"
     },

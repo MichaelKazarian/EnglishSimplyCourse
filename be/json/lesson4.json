@@ -145,7 +145,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона насолоджується осінню",
+      "question": "Вона любить/насолоджується/ осінь",
       "answer":   "She enjoys autumn",
       "startTime": "37:29"
     },
@@ -156,7 +156,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона ходить до спортивного клубу по вихідним",
+      "question": "Вона ходить до спортивного клубу у вихідні дні",
       "answer":   "She goes to the sport club at the weekends",
       "startTime": "38:24"
     },
@@ -197,7 +197,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона встає і снідає о 8-й годині",
+      "question": "Вона встає і снідає о 8-й ранку",
       "answer":   "She gets up and has breakfast at 8 am",
       "startTime": "40:23"
     },

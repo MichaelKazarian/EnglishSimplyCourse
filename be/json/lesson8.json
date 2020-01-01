@@ -1,7 +1,7 @@
 {
   "lessonId": "lesson8",
   "lessonTitle": "Урок 8",
-  "lessonDescription": "Поки ми опановували He/She/It ви встигли забути, як оперувати з I/We/You/They. Зараз ми це виправимо. Заодно дамо нові слова",
+  "lessonDescription": "Поки ми опановували He/She/It ви встигли забути, як оперувати з I/We/You/They. Зараз ми це виправимо. Заодно вивчимо нові слова",
   "lessonURL": "VG_lASmKkBY",
   "lessonItems": [
     {
@@ -18,13 +18,13 @@
     },
     {
       "itemType": "question",
-      "question": "Нажаль, я не роблю цього",
+      "question": "На жаль, я не роблю цього",
       "answer":   "It's a pity, I don't do it",
       "startTime": "3:10"
     },
     {
       "itemType": "question",
-      "question": "Він, зазвичай, відправляє електрону пошту на роботі",
+      "question": "Він зазвичай відправляє листи електронною поштою на роботі",
       "answer":   "He usually emails at work",
       "startTime": "3:51"
     },
@@ -218,7 +218,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>boil</b> /bɔɪl/ кипіти<br/><b>degre</b> /dɛːˈɡreː/ градус",
+      "itemText": "<b>boil</b> /bɔɪl/ кипіти<br/><b>degree</b> /dɛːˈɡreː/ градус",
       "startTime": "14:03"
     },
     {
@@ -251,7 +251,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти часто прокидаєшся рано? Напиши мені скоро, будь ласка",
+      "question": "Ти зазвичай прокидаєшся рано? Напиши мені незабаром, будь ласка",
       "answer":   "Do you usually wake up early? Write me soon, please",
       "startTime": "17:47"
     },
@@ -273,7 +273,7 @@
     },
     {
       "itemType": "question",
-      "question": "Люди від'їжджають з країни для подорожі",
+      "question": "Люди від'їжджають із країни для подорожі",
       "answer":   "The people leave a country for a journey",
       "startTime": "19:25"
     },
@@ -307,7 +307,7 @@
     },
     {
       "itemType": "question",
-      "question": "Будь-ласка, знайди вирішення проблеми",
+      "question": "Будь ласка, знайди вирішення проблеми",
       "answer":   "Please find the decision of a problem",
       "startTime": "21:12"
     },
@@ -399,13 +399,13 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>season</b> /ˈsiːzən/ сезон",
+      "itemText": "<b>season</b> /ˈsiːzən/ сезон, пора року",
       "startTime": "26:40"
     },
     {
       "itemType": "question",
       "question": "У цьому сезоні зазвичай іде сніг",
-      "answer":   "It usually snows in this season",
+      "answer":   "It usually snows this season",
       "startTime": "26:44"
     },
     {
@@ -478,7 +478,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти бігаєш по ранках?",
+      "question": "Ти бігаєш вранці?",
       "answer":   "Do you run in the mornings?",
       "startTime": "29:47"
     },

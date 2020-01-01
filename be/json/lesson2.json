@@ -98,12 +98,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>get up</b> прокидатися, вставати з ліжка",
+      "itemText": "<b>get up</b>підніматися, вставати з ліжка",
       "startTime": "6:42"
     },
     {
       "itemType": "question",
-      "question": "Я піднімаюся з ліжка рано",
+      "question": "Я встаю рано",
       "answer":   "I get up early",
       "startTime": "7:02"
     },
@@ -153,12 +153,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>buy</b> /baɪ/ купляти",
+      "itemText": "<b>buy</b> /baɪ/ купувати",
       "startTime": "10:20"
     },
     {
       "itemType": "question",
-      "question": "Ми купляємо напій",
+      "question": "Ми купуємо напій",
       "answer":   "We buy a drink",
       "startTime": "10:28"
     },
@@ -252,12 +252,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>help</b> /hɛlp/ допомогати",
+      "itemText": "<b>help</b> /hɛlp/ допомагати",
       "startTime": "14:51"
     },
     {
       "itemType": "question",
-      "question": "Ми допомогаєто тобі",
+      "question": "Ми допомагаємо тобі",
       "answer":   "We help you",
       "startTime": "15:01"
     },
@@ -370,7 +370,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти просипаєшся і снідаєш",
+      "question": "Ти встаєш із ліжка та  снідаєш",
       "answer":   "You get up and have breakfast",
       "startTime": "21:06"
     },
