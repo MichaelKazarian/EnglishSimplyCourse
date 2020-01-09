@@ -121,15 +121,15 @@
       "startTime": "7:10"
     },
     {
+      "itemType": "point",
+      "itemText": "Коли мова йде про гру <b>на музичних інструментах</b> ставиться артикль THE",
+      "startTime": "6:12"
+    },
+    {
       "itemType": "question",
       "question": "Я граю на гітарі?",
       "answer":   "Do I play the guitar?",
       "startTime": "7:17"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>hair</b> /hɛɚ/ волосся",
-      "startTime": "7:36"
     },
     {
       "itemType": "point",
