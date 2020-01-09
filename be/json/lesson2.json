@@ -7,319 +7,298 @@
     {
       "itemType": "point",
       "itemText": "I/We/You/They + verb + etc.",
-      "startTime": "1:40"
+      "startTime": "1:23"
     },
     {
       "itemType": "point",
       "itemText": "<b>think</b> /θɪŋk/ думати",
-      "startTime": "1:40"
+      "startTime": "1:52"
     },
     {
       "itemType": "question",
       "question": "Я думаю так",
       "answer":   "I think so",
-      "startTime": "2:57"
+      "startTime": "2:00"
     },
     {
       "itemType": "point",
       "itemText": "<b>try</b> /tɹaɪ/ старатися, намагатися<br/><b>very</b> /ˈvɛɹi/ дуже",
-      "startTime": "3:07"
+      "startTime": "2:16"
     },
     {
       "itemType": "question",
       "question": "Я дуже стараюсь",
       "answer":   "I try very hard",
-      "startTime": "3:29"
+      "startTime": "2:27"
     },
     {
       "itemType": "point",
       "itemText": "<b>enjoy</b> /ənˈd͡ʒɔɪ/ насолоджуватися, любити",
-      "startTime": "3:45"
+      "startTime": "2:48"
     },
     {
       "itemType": "question",
       "question": "Ти насолоджуєшся вечорами",
       "answer":   "You enjoy evenings",
-      "startTime": "4:02"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>warm</b> /wɔːm/ теплий",
-      "startTime": "4:15"
-    },
-    {
-      "itemType": "question",
-      "question": "Тобі подобаються теплі вечори",
-      "answer":   "You enjoy warm evenings",
-      "startTime": "4:18"
+      "startTime": "3:00"
     },
     {
       "itemType": "point",
       "itemText": "<b>go</b> /ɡoʊ/ іти, ходити",
-      "startTime": "4:29"
+      "startTime": "3:12"
     },
     {
       "itemType": "question",
       "question": "Ми йдемо туди",
       "answer":   "We go there",
-      "startTime": "4:48"
+      "startTime": "3:19"
     },
     {
       "itemType": "point",
       "itemText": "<b>cook</b> /kuk/ готувати, куховарити",
-      "startTime": "5:03"
+      "startTime": "3:30"
     },
     {
       "itemType": "question",
       "question": "Вони готують кожного дня",
       "answer":   "They cook every day",
-      "startTime": "5:12"
+      "startTime": "3:39"
     },
     {
       "itemType": "point",
       "itemText": "<b>play</b> /pleɪ/ грати",
-      "startTime": "5:31"
+      "startTime": "3:48"
     },
     {
       "itemType": "question",
       "question": "Ти граєш у волейбол",
       "answer":   "You play volleyball",
-      "startTime": "5:48"
+      "startTime": "4:02"
     },
     {
       "itemType": "point",
       "itemText": "Між <b>play</b> та видами спорту <b>не ставиться</b> артикль the",
-      "startTime": "6:09"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Коли мова йде про гру <b>на музичних інструментах</b> артикль the <b>ставиться</b>",
-      "startTime": "6:17"
+      "startTime": "4:22"
     },
     {
       "itemType": "point",
       "itemText": "<b>get up</b>підніматися, вставати з ліжка",
-      "startTime": "6:42"
+      "startTime": "4:35"
     },
     {
       "itemType": "question",
       "question": "Я встаю рано",
       "answer":   "I get up early",
-      "startTime": "7:02"
+      "startTime": "4:44"
     },
     {
       "itemType": "point",
       "itemText": "<b>catch</b> /kæt͡ʃ/ ловити<br/>catch the train - сідати на потяг",
-      "startTime": "7:59"
+      "startTime": "5:36"
     },
     {
       "itemType": "question",
       "question": "Вони сідають на потяг кожного ранку",
       "answer":   "They catch the train every morning",
-      "startTime": "8:30"
+      "startTime": "5:54"
     },
     {
       "itemType": "point",
       "itemText": "<b>talk</b> /tɔk/ говорити, розмовляти",
-      "startTime": "8:43"
+      "startTime": "6:05"
     },
     {
       "itemType": "question",
       "question": "Ти говориш дуже швидко",
       "answer":   "You talk very fast",
-      "startTime": "8:51"
+      "startTime": "6:13"
     },
     {
       "itemType": "point",
       "itemText": "<b>sleep</b> /sliːp/ ",
-      "startTime": "9:36"
+      "startTime": "7:02"
     },
     {
       "itemType": "question",
       "question": "Вони сплять в обід",
       "answer":   "They sleep in the afternoon",
-      "startTime": "9:42"
+      "startTime": "7:10"
     },
     {
       "itemType": "point",
       "itemText": "<b>have</b> /hæv/ мати, володіти чимось<br/><b>house</b> /haʊs/ будинок",
-      "startTime": "10:00"
+      "startTime": "7:23"
     },
     {
       "itemType": "question",
       "question": "У мене є великий будинок",
       "answer":   "I have a big house",
-      "startTime": "10:07"
+      "startTime": "7:31"
     },
     {
       "itemType": "point",
       "itemText": "<b>buy</b> /baɪ/ купувати",
-      "startTime": "10:20"
+      "startTime": "7:40"
     },
     {
       "itemType": "question",
       "question": "Ми купуємо напій",
       "answer":   "We buy a drink",
-      "startTime": "10:28"
+      "startTime": "7:47"
     },
     {
       "itemType": "point",
-      "itemText": "<b>wash</b> /wɔʃ/ мити",
-      "startTime": "10:41"
+      "itemText": "<b>wash</b> /wɔʃ/ мити<br/><b>hair</b> /hɛɚ/ волосся",
+      "startTime": "7:56"
     },
     {
       "itemType": "question",
-      "question": "Я мию своє волосся",
+      "question": "Я мию (своє) волосся",
       "answer":   "I wash my hair",
-      "startTime": "10:51"
+      "startTime": "8:02"
     },
     {
       "itemType": "point",
       "itemText": "<b>know</b> /noʊ/ знати",
-      "startTime": "11:37"
+      "startTime": "8:24"
     },
     {
       "itemType": "question",
       "question": "Вони знають мій телефонний номер",
       "answer":   "They know my phone number",
-      "startTime": "11:46"
+      "startTime": "8:31"
     },
     {
       "itemType": "point",
       "itemText": "<b>work</b> /wɝk/ працювати",
-      "startTime": "11:58"
+      "startTime": "8:45"
     },
     {
       "itemType": "question",
       "question": "Ви працюєте в магазині",
       "answer":   "You work in a shop",
-      "startTime": "12:15"
+      "startTime": "8:54"
     },
     {
       "itemType": "point",
       "itemText": "<b>like</b> /laɪk/ любити, подобатися",
-      "startTime": "12:27"
+      "startTime": "9:07"
     },
     {
       "itemType": "question",
       "question": "Я люблю великі міста",
       "answer":   "I like big cities",
-      "startTime": "12:35"
+      "startTime": "9:17"
     },
     {
       "itemType": "point",
       "itemText": "<b>build</b> /bɪld/ будувати",
-      "startTime": "12:48"
+      "startTime": "9:26"
     },
     {
       "itemType": "question",
       "question": "Ми будуємо кар'єру",
       "answer":   "We build a career",
-      "startTime": "12:55"
+      "startTime": "9:32"
     },
     {
       "itemType": "point",
       "itemText": "<b>ask</b> <i>Br</i>-/ˈɑːks/ <i>Am</i>-/ˈæsk/ запитувати, задавати питання",
-      "startTime": "13:17"
+      "startTime": "9:54"
     },
     {
       "itemType": "question",
       "question": "Вони задають питання",
       "answer":   "They ask a question",
-      "startTime": "13:24"
+      "startTime": "10:03"
     },
     {
       "itemType": "point",
       "itemText": "<b>write</b> /ɹaɪt/ писати",
-      "startTime": ":"
+      "startTime": "10:13"
     },
     {
       "itemType": "question",
       "question": "Я пишу повідомлення",
       "answer":   "I write a message",
-      "startTime": "13:50"
+      "startTime": "10:19"
     },
     {
       "itemType": "point",
       "itemText": "<b>miss</b> /mɪs/ сумувати",
-      "startTime": "14:35"
+      "startTime": "11:08"
     },
     {
       "itemType": "question",
       "question": "Ти сумуєш за мною",
       "answer":   "You miss me",
-      "startTime": "14:41"
+      "startTime": "11:17"
     },
     {
       "itemType": "point",
       "itemText": "<b>help</b> /hɛlp/ допомагати",
-      "startTime": "14:51"
+      "startTime": "12:26"
     },
     {
       "itemType": "question",
       "question": "Ми допомагаємо тобі",
       "answer":   "We help you",
-      "startTime": "15:01"
+      "startTime": "11:30"
     },
     {
       "itemType": "point",
-      "itemText": "<b>visit</b> /ˈvɪzɪt/ відвідувати",
-      "startTime": "15:12"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>city</b> /ˈsɪti/ велике місто",
-      "startTime": "15:28"
+      "itemText": "<b>visit</b> /ˈvɪzɪt/ відвідувати<br/><b>city</b> /ˈsɪti/ велике місто",
+      "startTime": "11:42"
     },
     {
       "itemType": "question",
-      "question": "Вони відвідують місто",
+      "question": "Вони відвідують велике місто",
       "answer":   "They visit a city",
-      "startTime": "15:29"
+      "startTime": "11:47"
     },
     {
       "itemType": "point",
-      "itemText": "<b>use</b> /juːs/ використовувати, користуватися",
-      "startTime": "15:40"
+      "itemText": "<b>use</b> /juːs/ використовувати, користуватися<br/><b>key</b> /kiː/ ключ",
+      "startTime": "12:06"
     },
     {
       "itemType": "question",
       "question": "Я користуюся ключем",
       "answer":   "I use a key",
-      "startTime": "15:47"
+      "startTime": "12:10"
     },
     {
       "itemType": "point",
       "itemText": "<b>give</b> /ɡɪv/ давати",
-      "startTime": "16:02"
+      "startTime": "12:18"
     },
     {
       "itemType": "point",
       "itemText": "<b>advice</b> /ædˈvaɪs/ порада",
-      "startTime": "16:10"
+      "startTime": "12:24"
     },
     {
       "itemType": "question",
       "question": "Ти даєш пораду",
       "answer":   "You give an advice",
-      "startTime": "16:11"
+      "startTime": "12:30"
     },
     {
       "itemType": "point",
       "itemText": "<b>Negative Sentence</b><br/>I/We/You/They + <b>don't</b> + verb",
-      "startTime": "18:14"
+      "startTime": "14:46"
     },
     {
       "itemType": "question",
-      "question": "Вони не встають з ліжка рано",
+      "question": "Вони не встають рано",
       "answer":   "They don't get up early",
-      "startTime": "18:43"
+      "startTime": "15:15"
     },
     {
       "itemType": "question",
       "question": "Я не читаю англійські книги",
       "answer":   "I don't read English books",
-      "startTime": "18:53"
+      "startTime": "15:41"
     },
     {
       "itemType": "question",
@@ -390,6 +369,11 @@
       "question": "Ми не йдемо туди",
       "answer":   "We don't go there",
       "startTime": "21:51"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>warm</b> /wɔːm/ теплий",
+      "startTime": "4:15"
     },
     {
       "itemType": "question",
