@@ -24,7 +24,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він зазвичай відправляє листи електронною поштою на роботі",
+      "question": "Він зазвичай відправляє електронну пошту на роботі",
       "answer":   "He usually emails at work",
       "startTime": "3:51"
     },
@@ -232,7 +232,7 @@
       "itemText": "<b>Earth</b> /ɜːθ/ Земля<br/><b>round</b> /ˈɹaʊnd/ навкруги, навколо; <i>go round</i> іти кругом, крутитися навколо<br/><b>around</b> /əˈɹaʊnd/ навколо, біля, скрізь",
       "startTime": "14:33"
     },
-    {
+   {
       "itemType": "question",
       "question": "Земля крутиться навколо Сонця",
       "answer":   "The Earth goes round the Sun",
@@ -479,7 +479,7 @@
     {
       "itemType": "question",
       "question": "Ти бігаєш вранці?",
-      "answer":   "Do you run in the mornings?",
+      "answer":   "Do you run in the morning?",
       "startTime": "29:47"
     },
     {
@@ -489,7 +489,7 @@
     },
     {
       "itemType": "question",
-      "question": "Можливо вони не їздять верхи на коні",
+      "question": "Можливо, вони не їздять верхи",
       "answer":   "Maybe they don't ride a horse",
       "startTime": "30:02"
     },
