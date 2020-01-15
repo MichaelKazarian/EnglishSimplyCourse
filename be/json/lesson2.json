@@ -115,7 +115,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>sleep</b> /sliːp/ ",
+      "itemText": "<b>sleep</b> /sliːp/<br/><b>afternoon</b> /ˌɑːf.tə.ˈnuːn/ обідня пора, опівдні",
       "startTime": "7:02"
     },
     {
@@ -304,178 +304,172 @@
       "itemType": "question",
       "question": "Ми не живемо в Україні",
       "answer":   "We don't live in Ukraine",
-      "startTime": "19:04"
+      "startTime": "15:48"
     },
     {
       "itemType": "question",
       "question": "Вони не говорять дуже швидко",
       "answer":   "They don't talk very fast",
-      "startTime": "19:15"
-    },
-    {
-      "itemType": "question",
-      "question": "Я не розумію англійську",
-      "answer":   "I don't understand English",
-      "startTime": "19:25"
+      "startTime": "15:56"
     },
     {
       "itemType": "question",
       "question": "Ти не п'єш воду",
       "answer":   "You don't drink water",
-      "startTime": "19:38"
+      "startTime": "16:04"
     },
     {
       "itemType": "question",
       "question": "Я не сідаю на потяг кожного ранку",
       "answer":   "I don't catch the train every morning",
-      "startTime": "19:49"
+      "startTime": "16:14"
     },
     {
       "itemType": "question",
       "question": "Ми не готуємо їжу",
       "answer":   "We don't cook",
-      "startTime": "20:00"
+      "startTime": "16:22"
     },
     {
       "itemType": "question",
       "question": "Вони не допомогають",
       "answer":   "They don't help",
-      "startTime": "20:07"
+      "startTime": "16:26"
     },
     {
       "itemType": "point",
       "itemText": "<b>breakfast</b> /ˈbɹɛkfəst/ сніданок",
-      "startTime": "21:04"
+      "startTime": "16:59"
     },
     {
       "itemType": "question",
-      "question": "Ти встаєш із ліжка та  снідаєш",
+      "question": "Ти встаєш із ліжка та снідаєш",
       "answer":   "You get up and have breakfast",
-      "startTime": "21:06"
+      "startTime": "17:26"
     },
     {
       "itemType": "question",
       "question": "Я не граю у баскетбол",
       "answer":   "I don't play basketball",
-      "startTime": "21:14"
+      "startTime": "17:38"
     },
     {
       "itemType": "point",
       "itemText": "<b>there</b> /ðɛɚ/ туди",
-      "startTime": "21:06"
+      "startTime": "18:17"
     },
     {
       "itemType": "question",
       "question": "Ми не йдемо туди",
       "answer":   "We don't go there",
-      "startTime": "21:51"
+      "startTime": "18:19"
     },
     {
       "itemType": "point",
       "itemText": "<b>warm</b> /wɔːm/ теплий",
-      "startTime": "4:15"
+      "startTime": "18:24"
     },
     {
       "itemType": "question",
       "question": "Я насолоджуюсь теплими вечорами",
       "answer":   "I enjoy warm evenings",
-      "startTime": "22:01"
+      "startTime": "18:26"
     },
     {
       "itemType": "question",
       "question": "Ми говоримо англійською",
       "answer":   "We speak English",
-      "startTime": "22:09"
+      "startTime": "18:33"
     },
     {
       "itemType": "question",
       "question": "Вони не дуже стараються",
       "answer":   "They don't try very hard",
-      "startTime": "22:19"
+      "startTime": "18:40"
     },
     {
       "itemType": "question",
       "question": "Ти користуєшся ключем",
       "answer":   "You use a key",
-      "startTime": "22:29"
+      "startTime": "18:47"
     },
     {
       "itemType": "question",
       "question": "Я не говорю дуже швидко",
       "answer":   "I don't talk very fast",
-      "startTime": "22:38"
+      "startTime": "18:54"
     },
     {
       "itemType": "question",
       "question": "Ми купуємо напій",
       "answer":   "We buy a drink",
-      "startTime": "22:47"
+      "startTime": "19:00"
     },
     {
       "itemType": "question",
       "question": "Я не сплю в обід",
       "answer":   "I don't sleep in the afternoon",
-      "startTime": "22:55"
+      "startTime": "19:06"
     },
     {
       "itemType": "question",
-      "question": "Ви не йдете туди",
+      "question": "Ти не йдеш туди",
       "answer":   "You don't go there",
-      "startTime": "23:42"
+      "startTime": "19:50"
     },
     {
       "itemType": "question",
       "question": "Ми будуємо кар'єру",
       "answer":   "We build a career",
-      "startTime": "22:49"
+      "startTime": "19:58"
     },
     {
       "itemType": "question",
       "question": "Вони не мають великого будинку ",
       "answer":   "They don't have a big house",
-      "startTime": "24:07"
+      "startTime": "20:05"
     },
     {
       "itemType": "question",
       "question": "Я так не думаю",
       "answer":   "I don't think so",
-      "startTime": "24:17"
+      "startTime": "20:12"
     },
     {
       "itemType": "question",
-      "question": "Ви будуєте кар'єру",
+      "question": "Ти будуєш кар'єру",
       "answer":   "You build a career",
-      "startTime": "24:33"
+      "startTime": "20:35"
     },
     {
       "itemType": "question",
       "question": "Ми не відвідуємо місто",
       "answer":   "We don't visit a city",
-      "startTime": "24:44"
+      "startTime": "20:42"
     },
     {
       "itemType": "question",
-      "question": "Вони не задають питань",
+      "question": "Вони не запитують",
       "answer":   "They don't ask",
-      "startTime": "24:54"
+      "startTime": "20:55"
     },
     {
       "itemType": "question",
       "question": "Я допомогаю тобі",
       "answer":   "I help you",
-      "startTime": "25:04"
+      "startTime": "21:01"
     },
     {
       "itemType": "question",
       "question": "Вони не пишуть повідомлення",
       "answer":   "They don't write a message",
-      "startTime": "25:13"
+      "startTime": "21:27"
     },
     {
       "itemType": "question",
       "question": "Я знаю телефонний номер",
       "answer":   "I know a phone number",
-      "startTime": "25:21"
+      "startTime": "21:35"
     }
   ]
 }
