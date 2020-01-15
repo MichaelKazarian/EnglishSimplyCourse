@@ -12,7 +12,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти йдеш туди?
+      "question": "Ти йдеш туди?",
       "answer":   "Do you go there?",
       "startTime": "1:40"
     },
@@ -29,8 +29,8 @@
     },
     {
       "itemType": "question",
-      "question": "Ти відвідуєш велике місто?",
-      "answer":   "Do you visit a big city?",
+      "question": "Ти відвідуєш (велике) місто?",
+      "answer":   "Do you visit a city?",
       "startTime": "2:55"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>noise</b>  /nɔɪz/ шу",
+      "itemText": "<b>noise</b>  /nɔɪz/ шум",
       "startTime": "12:51"
     },
     {
@@ -292,7 +292,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>my</b> /maɪ/ мій,моя,моє",
+      "itemText": "<b>my</b> /maɪ/ мій, моя, моє",
       "startTime": "13:56"
     },
     {
@@ -517,12 +517,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>change</b> /tʃeɪndʒ/ зміна<br/>",
+      "itemText": "<b>change</b> /tʃeɪndʒ/ зміна",
       "startTime": "24:34"
     },
     {
       "itemType": "point",
-      "itemText": "Закінчення <b>s</b> позначає множину.Сhanges<b>s</b> зміни",
+      "itemText": "Закінчення <b>s</b> позначає множину. Сhanges<b>s</b> зміни",
       "startTime": "24:36"
     },
     {
@@ -560,11 +560,6 @@
       "question": "Ти часто миєш волосся?",
       "answer":   "Do you often wash your hair?",
       "startTime": "25:46"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Закінчення <b>s</b> позначає множину.Сhanges<b>s</b> зміни",
-      "startTime": "24:36"
     },
     {
       "itemType": "point",
