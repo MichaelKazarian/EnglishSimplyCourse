@@ -122,7 +122,7 @@
     },
     {
       "itemType": "question",
-      "question": "Восени часто йде до",
+      "question": "Восени часто йде дощ",
       "answer":   "It often rains in autumn",
       "startTime": "36:11"
     },
@@ -145,7 +145,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона любить/насолоджується/ осінь",
+      "question": "Вона насолоджується осінню",
       "answer":   "She enjoys autumn",
       "startTime": "37:29"
     },
@@ -156,7 +156,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона ходить до спортивного клубу у вихідні дні",
+      "question": "Вона ходить до спортивного клубу у вихідні",
       "answer":   "She goes to the sport club at the weekends",
       "startTime": "38:24"
     },
@@ -213,7 +213,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він їздить на вихідні кожної суботи",
+      "question": "Він їздить на вихідні щосуботи",
       "answer":   "He goes to holidays every Saturday",
       "startTime": "41:49"
     },
