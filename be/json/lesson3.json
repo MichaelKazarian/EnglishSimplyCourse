@@ -123,7 +123,7 @@
     {
       "itemType": "point",
       "itemText": "Коли мова йде про гру <b>на музичних інструментах</b> ставиться артикль THE",
-      "startTime": "6:12"
+      "startTime": "7:12"
     },
     {
       "itemType": "question",
@@ -522,7 +522,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "Закінчення <b>s</b> позначає множину. Сhanges<b>s</b> зміни",
+      "itemText": "Закінчення <b>s</b> позначає множину. Сhange<b>s</b> зміни",
       "startTime": "24:36"
     },
     {
@@ -631,8 +631,8 @@
     },
     {
       "itemType": "question",
-      "question": "Вони не ставлять цього запитання",
-      "answer":   "They don't ask this question",
+      "question": "Вони не запитують",
+      "answer":   "They don't ask",
       "startTime": "29:37"
     },
     {
@@ -673,8 +673,8 @@
     },
     {
       "itemType": "question",
-      "question": "Чи ти зазвичай починаєш забіг вранці?",
-      "answer":   "Do you usually begin the race in the morning?",
+      "question": "Чи ти зазвичай починаєш забіг увечері?",
+      "answer":   "Do you usually begin the race in the evening?",
       "startTime": "32:07"
     },
     {
@@ -697,7 +697,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми їдемо на роботу машиною?",
+      "question": "Ми їздимо на роботу машиною?",
       "answer":   "Do we go to work by car?",
       "startTime": "32:55"
     }
