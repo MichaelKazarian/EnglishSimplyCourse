@@ -65,7 +65,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>this</b> /ðɪs/ цей, цяб це",
+      "itemText": "<b>this</b> /ðɪs/ цей, ця, це",
       "startTime": "4:48"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти сідаєш до потягу кожного вечора?",
+      "question": "Ти сідаєш на потяг кожного вечора?",
       "answer":   "Do you catch the train every evening?",
       "startTime": "6:25"
     },
@@ -104,7 +104,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми гарно стараємося?",
+      "question": "Ми дуже стараємося?",
       "answer":   "Do we try very hard?",
       "startTime": "7:04"
     },
@@ -115,7 +115,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "Коли мова йде про гру <b>на музичних інструментах</b> ставиться артикль THE",
+      "itemText": "Коли мова йде про гру <b>на музичних інструментах</b>, ставиться артикль THE",
       "startTime": "7:30"
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "itemType": "question",
-      "question": "Я купляю напій?",
+      "question": "Я купую напій?",
       "answer":   "Do I buy a drink?",
       "startTime": "10:18"
     },
@@ -454,7 +454,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми їздемо на конях по неділях",
+      "question": "Ми їздимо на конях по неділях",
       "answer":   "We ride the horses on Sundays",
       "startTime": "20:39"
     },
@@ -591,7 +591,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>in the morning</b> зранку<br/><b>in the afternoon</b>в обід<br/><b>in the evening</b> увечері",
+      "itemText": "<b>in the morning</b> зранку<br/><b>in the afternoon</b> в обід<br/><b>in the evening</b> увечері",
       "startTime": "25:12"
     },
     {

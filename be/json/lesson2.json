@@ -18,7 +18,7 @@
       "itemType": "question",
       "question": "Я думаю так",
       "answer":   "I think so",
-      "startTime": "2:00"
+      "startTime": "1:59"
     },
     {
       "itemType": "point",
@@ -166,7 +166,7 @@
       "itemType": "question",
       "question": "Вони знають мій телефонний номер",
       "answer":   "They know my phone number",
-      "startTime": "8:31"
+      "startTime": "8:30"
     },
     {
       "itemType": "point",
@@ -177,7 +177,7 @@
       "itemType": "question",
       "question": "Ви працюєте в магазині",
       "answer":   "You work in a shop",
-      "startTime": "8:54"
+      "startTime": "8:53"
     },
     {
       "itemType": "point",
@@ -188,7 +188,7 @@
       "itemType": "question",
       "question": "Я люблю великі міста",
       "answer":   "I like big cities",
-      "startTime": "9:17"
+      "startTime": "9:16"
     },
     {
       "itemType": "point",
@@ -199,7 +199,7 @@
       "itemType": "question",
       "question": "Ми будуємо кар'єру",
       "answer":   "We build a career",
-      "startTime": "9:32"
+      "startTime": "9:31"
     },
     {
       "itemType": "point",
@@ -210,7 +210,7 @@
       "itemType": "question",
       "question": "Вони задають питання",
       "answer":   "They ask a question",
-      "startTime": "10:03"
+      "startTime": "10:01"
     },
     {
       "itemType": "point",
@@ -351,107 +351,107 @@
       "itemType": "question",
       "question": "Я не граю у баскетбол",
       "answer":   "I don't play basketball",
-      "startTime": "17:38"
+      "startTime": "17:37"
     },
     {
       "itemType": "point",
       "itemText": "<b>there</b> /ðɛɚ/ туди",
-      "startTime": "18:17"
+      "startTime": "18:16"
     },
     {
       "itemType": "question",
       "question": "Ми не йдемо туди",
       "answer":   "We don't go there",
-      "startTime": "18:19"
+      "startTime": "18:17"
     },
     {
       "itemType": "point",
       "itemText": "<b>warm</b> /wɔːm/ теплий",
-      "startTime": "18:24"
+      "startTime": "18:23"
     },
     {
       "itemType": "question",
       "question": "Я насолоджуюсь теплими вечорами",
       "answer":   "I enjoy warm evenings",
-      "startTime": "18:26"
+      "startTime": "18:25"
     },
     {
       "itemType": "question",
       "question": "Ми говоримо англійською",
       "answer":   "We speak English",
-      "startTime": "18:33"
+      "startTime": "18:32"
     },
     {
       "itemType": "question",
       "question": "Вони не дуже стараються",
       "answer":   "They don't try very hard",
-      "startTime": "18:40"
+      "startTime": "18:38"
     },
     {
       "itemType": "question",
       "question": "Ти користуєшся ключем",
       "answer":   "You use a key",
-      "startTime": "18:47"
+      "startTime": "18:46"
     },
     {
       "itemType": "question",
       "question": "Я не говорю дуже швидко",
       "answer":   "I don't talk very fast",
-      "startTime": "18:54"
+      "startTime": "18:53"
     },
     {
       "itemType": "question",
       "question": "Ми купуємо напій",
       "answer":   "We buy a drink",
-      "startTime": "19:00"
+      "startTime": "18:59"
     },
     {
       "itemType": "question",
       "question": "Я не сплю в обід",
       "answer":   "I don't sleep in the afternoon",
-      "startTime": "19:06"
+      "startTime": "19:05"
     },
     {
       "itemType": "question",
       "question": "Ти не йдеш туди",
       "answer":   "You don't go there",
-      "startTime": "19:50"
+      "startTime": "19:49"
     },
     {
       "itemType": "question",
       "question": "Ми будуємо кар'єру",
       "answer":   "We build a career",
-      "startTime": "19:58"
+      "startTime": "19:57"
     },
     {
       "itemType": "question",
       "question": "Вони не мають великого будинку ",
       "answer":   "They don't have a big house",
-      "startTime": "20:05"
+      "startTime": "20:03"
     },
     {
       "itemType": "question",
       "question": "Я так не думаю",
       "answer":   "I don't think so",
-      "startTime": "20:12"
+      "startTime": "20:11"
     },
     {
       "itemType": "question",
       "question": "Ти будуєш кар'єру",
       "answer":   "You build a career",
-      "startTime": "20:35"
+      "startTime": "20:34"
     },
     {
       "itemType": "question",
       "question": "Ми не відвідуємо місто",
       "answer":   "We don't visit a city",
-      "startTime": "20:42"
+      "startTime": "20:41"
     },
     {
       "itemType": "question",
       "question": "Вони не запитують",
       "answer":   "They don't ask",
-      "startTime": "20:55"
+      "startTime": "20:54"
     },
     {
       "itemType": "question",
@@ -463,13 +463,13 @@
       "itemType": "question",
       "question": "Вони не пишуть повідомлення",
       "answer":   "They don't write a message",
-      "startTime": "21:27"
+      "startTime": "21:25"
     },
     {
       "itemType": "question",
       "question": "Я знаю телефонний номер",
       "answer":   "I know a phone number",
-      "startTime": "21:35"
+      "startTime": "21:33"
     }
   ]
 }

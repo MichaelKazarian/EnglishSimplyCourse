@@ -2,7 +2,7 @@
   "lessonId": "lesson1",
   "lessonTitle": "Урок 1",
   "lessonDescription": "1. Present Simple. Урок.",
-  "lessonURL": "bJkSM3g-Tfs",
+  "lessonURL": "O2GnlVYdrqE",
   "lessonItems": [
     {
       "itemType": "point",
@@ -13,117 +13,117 @@
       "itemType": "question",
       "question": "Ти говориш англійською",
       "answer":   "You speak English",
-      "startTime": 232
+      "startTime": "3:53"
     },
     {
       "itemType": "question",
       "question": "Ми говоримо англійською",
       "answer":   "We speak English",
-      "startTime": 243
+      "startTime": "4:04"
     },
     {
       "itemType": "question",
       "question": "Вони говорять англійською",
       "answer":   "They speak English",
-      "startTime": 251
+      "startTime": "4:11"
     },
     {
       "itemType": "point",
       "itemText": "<b>Understand</b> — розуміти",
-      "startTime": 261
+      "startTime": "4:19"
     },
     {
       "itemType": "question",
       "question": "Я розумію англійську",
       "answer":   "I understand English.",
-      "startTime": 265
+      "startTime": "4:25"
     },
     {
       "itemType": "question",
       "question": "Ви розумієте англійську",
       "answer":   "You understand English",
-      "startTime": 272
+      "startTime": "4:33"
     },
     {
       "itemType": "question",
       "question": "Ми розуміємо англійську",
       "answer":   "We understand English.",
-      "startTime": 281
+      "startTime": "4:42"
     },
     {
       "itemType": "question",
       "question": "Вони розуміють англійську",
       "answer":   "They understand English.",
-      "startTime": 289
+      "startTime": "4:50"
     },
     {
       "itemType": "point",
       "itemText": "<b>Жити</b> — live",
-      "startTime": 332
+      "startTime": "5:29"
     },
     {
       "itemType": "question",
       "question": "Я живу в Україні",
       "answer":   "I live in Ukraine.",
-      "startTime": 342
+      "startTime": "5:43"
     },
     {
       "itemType": "question",
       "question": "Ви живете в Україні",
       "answer":   "You live in Ukraine.",
-      "startTime": 351
+      "startTime": "5:52"
     },
     {
       "itemType": "point",
       "itemText": "<b>You</b> — ти/ви (однина)<br/><b>You</b> — ви (множина)",
-      "startTime": 393
+      "startTime": "6:07"
     },
     {
       "itemType": "question",
       "question": "Ми живемо в Україні",
       "answer":   "We live in Ukraine.",
-      "startTime": 409
+      "startTime": "6:49"
     },
     {
       "itemType": "question",
       "question": "Вони живуть в Україні",
       "answer":   "They live in Ukraine.",
-      "startTime": 417
+      "startTime": "6:57"
     },
     {
       "itemType": "point",
       "itemText": "<b>Read</b> — читати<br/><b>Books</b> — книги",
-      "startTime": 430
+      "startTime": "7:06"
     },
     {
       "itemType": "question",
       "question": "Я читаю англійські книги",
       "answer":   "I read English books.",
-      "startTime": 433
+      "startTime": "7:15"
     },
     {
       "itemType": "question",
       "question": "Вони читають англійські книги",
       "answer":   "They read English books.",
-      "startTime": 444
+      "startTime": "7:24"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви читаєте англійські книги",
       "answer":   "You read English books.",
-      "startTime": 455
+      "startTime": "7:35"
     },
     {
       "itemType": "question",
       "question": "Ми читаємо англійські книги",
       "answer":   [
         "We read English books"],
-      "startTime": 465
+      "startTime": "7:45"
     },
     {
       "itemType": "point",
       "itemText": "<b>Drink</b> — пити<br/><b>Water</b> — вода",
-      "startTime": 504
+      "startTime": "8:20"
     },
     {
       "itemType": "question",
@@ -131,405 +131,406 @@
       "answer":   [
         "I drink water."
       ],
-      "startTime": 508
+      "startTime": "8:28"
     },
     {
       "itemType": "question",
       "question": "Вони п’ють воду",
       "answer":   "They drink water.",
-      "startTime": 517
+      "startTime": "8:38"
     },
     {
       "itemType": "question",
       "question": "Ми п’ємо воду",
       "answer":   "We drink water.",
-      "startTime": 525
+      "startTime": "8:45"
     },
     {
       "itemType": "question",
       "question": "Ви п’єте воду",
       "answer":   "You drink water.",
-      "startTime": 535
+      "startTime": "8:56"
     },
     {
       "itemType": "point",
-      "itemText": "<b>Breakfast</b> — сніданок<br/><b>Have breakfast</b> — снідати (буквально <b>мати сніданок</b>)<br/><b>Today</b> — сьогодні",
-      "startTime": 549
+      "itemText": "<b>breakfast</b> — сніданок<br/><b>have breakfast</b> — снідати (буквально <b>мати сніданок</b>)<br/><b>today</b> — сьогодні",
+      "startTime": "9:04"
     },
     {
       "itemType": "question",
       "question": "Я снідаю сьогодні",
       "answer":   "I have breakfast today.",
-      "startTime": 553
+      "startTime": "9:14"
     },
     {
       "itemType": "question",
       "question": "Ми снідаємо сьогодні",
       "answer":   "We have breakfast today.",
-      "startTime": 561
+      "startTime": "9:22"
     },
     {
       "itemType": "question",
       "question": "Вони снідають сьогодні",
       "answer":   "They have breakfast today.",
-      "startTime": 569
+      "startTime": "9:30"
     },
     {
       "itemType": "question",
       "question": "Ти снідаєш сьогодні",
       "answer":   "You have breakfast today.",
-      "startTime": 579
+      "startTime": "9:40"
     },
     {
       "itemType": "point",
-      "itemText": "<b>Car</b> — машина<br/><b>Drive</b> — водити",
-      "startTime": 617
+      "itemText": "<b>car</b> — машина<br/><b>drive</b> — водити",
+      "startTime": "10:17"
     },
     {
       "itemType": "question",
       "question": "Вони водять машину",
       "answer":   "They drive a car.",
-      "startTime": 619
+      "startTime": "10:21"
     },
     {
       "itemType": "question",
       "question": "Я воджу машину",
       "answer":   "I drive a car.",
-      "startTime": 629
+      "startTime": "10:29"
     },
     {
       "itemType": "question",
       "question": "Ви водите машину",
       "answer":   "You drive a car.",
-      "startTime": 637
+      "startTime": "10:37"
     },
     {
       "itemType": "question",
       "question": "Ми водимо машину",
       "answer":   "We drive a car.",
-      "startTime": 643
+      "startTime": "10:44"
     },
     {
       "itemType": "point",
-      "itemText": "<b>Money</b> — гроші<br/><b>pay</b> — платити",
-      "startTime": 656
+      "itemText": "<b>money</b> — гроші<br/><b>pay</b> — платити",
+      "startTime": "10:53"
     },
     {
       "itemType": "question",
       "question": "Я плачу гроші",
       "answer":   "I pay money.",
-      "startTime": 658
+      "startTime": "10:58"
     },
     {
       "itemType": "question",
       "question": "Ми платимо гроші",
       "answer":   "We pay money.",
-      "startTime": 665
+      "startTime": "11:05"
     },
     {
       "itemType": "question",
       "question": "Ти платиш гроші",
       "answer":   "You pay money.",
-      "startTime": 673
+      "startTime": "11:13"
     },
     {
       "itemType": "question",
       "question": "Вони платять гроші",
       "answer":   "They pay money.",
-      "startTime": 679
+      "startTime": "11:20"
     },
     {
       "itemType": "point",
       "itemText": "Підмет + <b>do not</b> + присудок<br/>do not скорочується до <b>do not</b>",
-      "startTime": 755
+      "startTime": "12:35"
     },
     {
       "itemType": "question",
       "question": "Я не розумію англійську",
       "answer":   "I don't understand English.",
-      "startTime": 763
+      "startTime": "12:43"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не розумієте англійську",
       "answer":   "You don't understand English.",
-      "startTime": 776
+      "startTime": "12:56"
     },
     {
       "itemType": "question",
       "question": "Ми не розуміємо англійську",
       "answer":   "We don't understand English.",
-      "startTime": 786
+      "startTime": "13:06"
     },
     {
       "itemType": "question",
       "question": "Вони не розуміють англійську",
       "answer":   "They don't understand English.",
-      "startTime": 794
+      "startTime": "13:15"
     },
     {
       "itemType": "question",
       "question": "Я не говорю англійською",
       "answer":   "I don't speak English.",
-      "startTime": 804
+      "startTime": "13:25"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не говорите англійською",
       "answer":   "You don't speak English.",
-      "startTime": 814
+      "startTime": "13:34"
     },
     {
       "itemType": "question",
       "question": "Ми не говоримо англійською",
       "answer":   "We don't speak English.",
-      "startTime": 821
+      "startTime": "13:42"
     },
     {
       "itemType": "question",
       "question": "Вони не говорять англійською",
       "answer":   "They don't speak English.",
-      "startTime": 827
+      "startTime": "13:48"
     },
     {
       "itemType": "question",
       "question": "Я не живу в Україні",
       "answer":   "I don't live in Ukraine.",
-      "startTime": 870
+      "startTime": "14:30"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не живите в Україні",
       "answer":   "You don't live in Ukraine.",
-      "startTime": 880
-    },
-    {
-      "itemType": "question",
-      "question": "Вони не живуть в Україні",
-      "answer":   "They don't live in Ukraine.",
-      "startTime": 888
+      "startTime": "14:40"
     },
     {
       "itemType": "question",
       "question": "Ми не живемо в Україні",
       "answer":   "We don't live in Ukraine.",
-      "startTime": 896
+      "startTime": "14:49"
     },
+    {
+      "itemType": "question",
+      "question": "Вони не живуть в Україні",
+      "answer":   "They don't live in Ukraine.",
+      "startTime": "14:57"
+    },
+
     {
       "itemType": "question",
       "question": "Я не читаю англійські книги",
       "answer":   "I don't read English books.",
-      "startTime": 914
+      "startTime": "15:15"
     },
     {
       "itemType": "question",
       "question": "Вони не читають англійські книги",
       "answer":   "They don't read English books.",
-      "startTime": 924
+      "startTime": "15:24"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не читаєте англійські книги",
       "answer":   "You don't read English books.",
-      "startTime": 933
+      "startTime": "15:34"
     },
     {
       "itemType": "question",
       "question": "Ми не читаємо англійські книги",
       "answer":   "We don't read English books.",
-      "startTime": 943
+      "startTime": "15:44"
     },
     {
       "itemType": "question",
       "question": "Я не п'ю воду",
       "answer":   "I don't drink water.",
-      "startTime": 988
+      "startTime": "16:29"
     },
     {
       "itemType": "question",
       "question": "Вони не п'ють воду",
       "answer":   "They don't drink water.",
-      "startTime": 994
+      "startTime": "16:35"
     },
     {
       "itemType": "question",
       "question": "Ми не п'ємо воду",
       "answer":   "We don't drink water.",
-      "startTime": 1001
+      "startTime": "16:42"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не п'єте воду",
       "answer":   "You don't drink water.",
-      "startTime": 1009
+      "startTime": "16:50"
     },
     {
       "itemType": "question",
       "question": "Я не снідаю сьогодні",
       "answer":   "I don't have breakfast today.",
-      "startTime": 1016
+      "startTime": "16:57"
     },
     {
       "itemType": "question",
       "question": "Ми не снідаємо сьогодні",
       "answer":   "We don't have breakfast today.",
-      "startTime": 1025
+      "startTime": "17:05"
     },
     {
       "itemType": "question",
       "question": "Вони не снідають сьогодні",
       "answer":   "They don't have breakfast today.",
-      "startTime": 1033
+      "startTime": "17:13"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не снідаєте сьогодні",
       "answer":   "You don't have breakfast today.",
-      "startTime": 1044
+      "startTime": "17:25"
     },
     {
       "itemType": "question",
       "question": "Вони не водять машину",
       "answer":   "They don't drive a car.",
-      "startTime": 1098
+      "startTime": "18:19"
     },
     {
       "itemType": "question",
       "question": "Я не воджу машину",
       "answer":   "I don't drive a car.",
-      "startTime": 1106
+      "startTime": "18:26"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не водите машину",
       "answer":   "You don't drive a car.",
-      "startTime": 1114
+      "startTime": "18:34"
     },
     {
       "itemType": "question",
       "question": "Ми не водимо машину",
       "answer":   "We don't drive a car.",
-      "startTime": 1121
+      "startTime": "18:42"
     },
     {
       "itemType": "question",
       "question": "Я не плачу гроші",
       "answer":   "I don't pay money.",
-      "startTime": 1128
+      "startTime": "18:48"
     },
     {
       "itemType": "question",
       "question": "Ми не платимо гроші",
       "answer":   "We don't pay money.",
-      "startTime": 1134
+      "startTime": "18:55"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не платите гроші",
       "answer":   "You don't pay money.",
-      "startTime": 1142
+      "startTime": "19:03"
     },
     {
       "itemType": "question",
       "question": "Вони не платять гроші",
       "answer":   "They don't pay money.",
-      "startTime": 1149
+      "startTime": "19:09"
     },
     {
       "itemType": "question",
       "question": "Я розумію англійську",
       "answer":   "I understand English.",
-      "startTime": 1214
+      "startTime": "20:14"
     },
     {
       "itemType": "question",
       "question": "Ми не говоримо англійською",
       "answer":   "We don't speak English.",
-      "startTime": 1224
+      "startTime": "20:24"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не читаєте англійські книги",
       "answer":   "You don't read English books.",
-      "startTime": 1235
+      "startTime": "20:35"
     },
     {
       "itemType": "question",
       "question": "Вони п'ють воду",
       "answer":   "They drink water.",
-      "startTime": 1246
+      "startTime": "20:46"
     },
     {
       "itemType": "question",
       "question": "Вони не снідають сьогодні",
       "answer":   "They don't have breakfast today.",
-      "startTime": 1255
+      "startTime": "20:56"
     },
     {
       "itemType": "question",
       "question": "Я воджу машину",
       "answer":   "I drive a car.",
-      "startTime": 1263
+      "startTime": "24:04"
     },
     {
       "itemType": "question",
       "question": "Ти не живеш в Україні",
       "answer":   "You don't live in Ukraine.",
-      "startTime": 1271
+      "startTime": "21:12"
     },
     {
       "itemType": "question",
       "question": "Ми платимо гроші",
       "answer":   "We pay money.",
-      "startTime": 1278
+      "startTime": "21:18"
     },
     {
       "itemType": "question",
       "question": "Вони не водять машину",
       "answer":   "They don't drive a car.",
-      "startTime": 1311
+      "startTime": "12:51"
     },
     {
       "itemType": "question",
       "question": "Ми живемо в Україні",
       "answer":   "We live in Ukraine.",
-      "startTime": 1319
+      "startTime": "21:59"
     },
     {
       "itemType": "question",
       "question": "Я п'ю воду",
       "answer":   "I drink water.",
-      "startTime": 1324
+      "startTime": "22:05"
     },
     {
       "itemType": "question",
       "question": "Ти/Ви не снідаєте сьогодні",
       "answer":   "You don't have breakfast today.",
-      "startTime": 1339
+      "startTime": "22:19"
     },
     {
       "itemType": "question",
       "question": "Вони не водять машину",
       "answer":   "They don't drive a car.",
-      "startTime": 1349
+      "startTime": "22:30"
     },
     {
       "itemType": "question",
       "question": "Ми читаємо англійські книги",
       "answer":   "We read English books.",
-      "startTime": 1357
+      "startTime": "22:38"
     },
     {
       "itemType": "question",
       "question": "Вони не п'ють воду",
       "answer":   "They don't drink water.",
-      "startTime": 1365
+      "startTime": "22:46"
     },
     {
       "itemType": "question",
       "question": "Я не плачу гроші",
       "answer":   "I don't pay money.",
-      "startTime": 1372
+      "startTime": "22:53"
     }
   ]
 }
