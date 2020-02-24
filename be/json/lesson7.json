@@ -33,7 +33,7 @@
     },
     {
       "itemType": "question",
-      "question": "Хлопець часто зустрічає тебе тут",
+      "question": "(Цей) хлопець часто зустрічає тебе тут",
       "answer":   "The boy often meets you here",
       "startTime": "3:24"
     },
@@ -93,7 +93,7 @@
     },
     {
       "itemType": "question",
-      "question": "Чоловік уявляє майбутнє",
+      "question": "(Цей) чоловік уявляє (це) майбутнє",
       "answer":   "The man imagines the future",
       "startTime": "7:21"
     },
@@ -104,7 +104,7 @@
     },
     {
       "itemType": "question",
-      "question": "Менеджер телефонує кожного ранку",
+      "question": "(Цей) менеджер телефонує кожного ранку",
       "answer":   "The manager phones every morning",
       "startTime": "8:12"
     },
@@ -115,7 +115,7 @@
     },
     {
       "itemType": "question",
-      "question": "Студент покращує англійську",
+      "question": "(Цей) студент покращує англійську",
       "answer":   "The student improves English",
       "startTime": "8:55"
     },
@@ -217,7 +217,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він знає результат своєї роботи",
+      "question": "Він знає (цей) результат своєї роботи",
       "answer":   "He knows the result of his work",
       "startTime": "17:47"
     },
@@ -234,13 +234,13 @@
     },
     {
       "itemType": "question",
-      "question": "Він часто дивиться старі фільми",
+      "question": "Він часто дивиться (ці) старі фільми",
       "answer":   "He often watches the old films",
       "startTime": "20:07"
     },
     {
       "itemType": "question",
-      "question": "Фільм закінчується о 9-тій вечора",
+      "question": "(Цей) фільм закінчується о 9-тій вечора",
       "answer":   "The movie ends at 9 PM",
       "startTime": "20:38"
     },
@@ -288,7 +288,7 @@
     },
     {
       "itemType": "question",
-      "question": "Працівник телефонує регулярно",
+      "question": "(Цей) працівник телефонує регулярно",
       "answer":   "The worker phones regularly",
       "startTime": "23:38"
     },
@@ -369,7 +369,7 @@
     },
     {
       "itemType": "question",
-      "question": "Її бабуся уявляє ідеальну сім'ю",
+      "question": "Її бабуся уявляє (цю) ідеальну сім'ю",
       "answer":   "Her grandmother imagines the ideal family",
       "startTime": "27:52"
     },
@@ -386,7 +386,7 @@
     },
     {
       "itemType": "question",
-      "question": "Професор обговорює це питання",
+      "question": "(Цей) професор обговорює це питання",
       "answer":   "The professor discusses this question",
       "startTime": "29:01"
     },
@@ -430,7 +430,7 @@
     },
     {
       "itemType": "question",
-      "question": "Жінка зазвичай телефонує в обід",
+      "question": "(Ця) жінка зазвичай телефонує в обід",
       "answer":   [
         "The woman usually phones at the afternoon",
         "The woman usually calls at the afternoon"

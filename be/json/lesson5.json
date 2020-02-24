@@ -43,7 +43,7 @@
     },
     {
       "itemType": "question",
-      "question": "Дівчина малює фарбами прекрасно",
+      "question": "(Ця) дівчина малює фарбами прекрасно",
       "answer":   "The girl paints beautifully",
       "startTime": "2:40"
     },
@@ -70,7 +70,7 @@
     },
     {
       "itemType": "question",
-      "question": "Фільм закінчується о 10-й ранку",
+      "question": "(Цей) фільм закінчується о 10-й ранку",
       "answer":   "The movie ends at 10 am",
       "startTime": "3:49"
     },
@@ -94,12 +94,12 @@
       "itemText": "<b>play</b> /pleɪ/ грати, вистава, п'єса",
       "startTime": "4:56"
     },
-    {
-      "itemType": "question",
-      "question": "Сьзі (Susie) змінює сукні між частинами п'єси",
-      "answer":   "Susie changes her dress between the parts of the play",
-      "startTime": "5:00"
-    },
+    // {
+    //   "itemType": "question",
+    //   "question": "Сьзі (Susie) змінює сукні між (цими) частинами (цієї) п'єси",
+    //   "answer":   "Susie changes her dress between the parts of the play",
+    //   "startTime": "5:00"
+    // },
     {
       "itemType": "point",
       "itemText": "<b>explain</b> /ɪkˈspleɪn/ пояснювати",
@@ -112,7 +112,7 @@
     },
     {
       "itemType": "question",
-      "question": "Хлопець пояснює мені це правило",
+      "question": "(Цей) хлопець пояснює мені це правило",
       "answer":   "The boy explains me this rule",
       "startTime": "6:09"
     },
@@ -128,7 +128,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він знаходить рішення",
+      "question": "Він знаходить (це) рішення",
       "answer":   "He finds the decision",
       "startTime": "6:54"
     },
@@ -214,7 +214,7 @@
     },
     {
       "itemType": "question",
-      "question": "Студент дивиться гру з (своїми) друзями",
+      "question": "(Цей) студент дивиться гру з (своїми) друзями",
       "answer":   "The student watches a game with his friends",
       "startTime": "11:11"
     },
@@ -224,7 +224,7 @@
       "startTime": "12:02"
     },    {
       "itemType": "question",
-      "question": "Робітник ремонтує стіл",
+      "question": "(Цей) робітник ремонтує стіл",
       "answer":   "The worker fixes a table",
       "startTime": "12:12"
     },
@@ -340,7 +340,7 @@
     },
     {
       "itemType": "question",
-      "question": "Жінка відвідує великі міста",
+      "question": "(Ця) жінка відвідує великі міста",
       "answer":   "The woman visits big cities",
       "startTime": "21:29"
     },
@@ -368,12 +368,12 @@
       "answer":   "This woman paints beautifully",
       "startTime": "23:23"
     },
-    {
-      "itemType": "question",
-      "question": "Сьюзі змінює сукню між частинами п'єси",
-      "answer":   "Susie changes her dress between the parts of the play",
-      "startTime": "23:39"
-    },
+    // {
+    //   "itemType": "question",
+    //   "question": "Сьюзі змінює сукню між (цими) частинами (цієї) п'єси",
+    //   "answer":   "Susie changes her dress between the parts of the play",
+    //   "startTime": "23:39"
+    // },
     {
       "itemType": "question",
       "question": "Вона обговорює ситуацію",
@@ -387,7 +387,7 @@
     },
     {
       "itemType": "question",
-      "question": "Хлопець має проект для дорослих",
+      "question": "(Цей) хлопець має проект для дорослих",
       "answer":   "The boy has a project for adults",
       "startTime": "24:06"
     },
@@ -411,7 +411,7 @@
     },
     {
       "itemType": "question",
-      "question": "Фільм закінчується о 10-й вечора",
+      "question": "(Цей) Фільм закінчується о 10-й вечора",
       "answer":   "The movie ends at 10 pm",
       "startTime": "25:11"
     }

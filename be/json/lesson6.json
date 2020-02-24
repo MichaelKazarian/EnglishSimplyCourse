@@ -81,7 +81,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона ходить в спортивний клуб по вихідним",
+      "question": "Вона ходить в (цей) спортивний клуб по вихідним",
       "answer":   "She goes to the sport club at the weekends",
       "startTime": "8:15"
     },
@@ -111,7 +111,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він змінює ситуацію",
+      "question": "Він змінює (цю) ситуацію",
       "answer":   "He changes the situation",
       "startTime": "10:59"
     },
@@ -140,7 +140,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона пише листи по вихідних",
+      "question": "Вона пише листи по (цих) вихідних",
       "answer":   "She writes letters at the weekends",
       "startTime": "12:54"
     },
@@ -152,19 +152,19 @@
     },
     {
       "itemType": "question",
-      "question": "Жінка показує (представляє) проект",
+      "question": "(Ця) жінка показує (представляє) проект",
       "answer":   "The woman shows a project",
       "startTime": "13:43"
     },
     {
       "itemType": "question",
-      "question": "Чоловік платить гроші в магазині",
+      "question": "(Цей) чоловік платить гроші в магазині",
       "answer":   "The man pays money in a shop",
       "startTime": "13:57"
     },
     {
       "itemType": "question",
-      "question": "Фільм починаєтья о 10-й ранку",
+      "question": "(Цей) фільм починаєтья о 10-й ранку",
       "answer":   "The movie starts at 10 am",
       "startTime": "14:19"
     },
@@ -175,7 +175,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він розливає воду на підлогу",
+      "question": "Він розливає воду на (цю) підлогу",
       "answer":   "He splashes water on the floor",
       "startTime": "14:52"
     },
@@ -186,7 +186,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вона грає на скрипці",
+      "question": "Вона грає на (цій) скрипці",
       "answer":   "She plays the violin",
       "startTime": "16:16"
     },
@@ -220,7 +220,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вчитель пояснює це правило",
+      "question": "(Цей) вчитель пояснює це правило",
       "answer":   "The teacher explains this rule",
       "startTime": "18:15"
     },
@@ -231,7 +231,7 @@
     },
     {
       "itemType": "question",
-      "question": "Маленька дитина часто цілує батьків",
+      "question": "(Ця) маленька дитина часто цілує (цих) батьків",
       "answer":   "The baby often kisses the parents",
       "startTime": "18:37"
     },
@@ -318,7 +318,7 @@
     },
     {
       "itemType": "question",
-      "question": "Студент робить (своє) домашнє завдання регулярно",
+      "question": "(Цей) студент робить (своє) домашнє завдання регулярно",
       "answer":   "The student does his homework regularly",
       "startTime": "23:55"
     },

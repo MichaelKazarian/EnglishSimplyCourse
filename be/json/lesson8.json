@@ -51,7 +51,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вчитель пояснює нову інформацію",
+      "question": "(Цей) вчитель пояснює нову інформацію",
       "answer":   "The teacher explains a new information",
       "startTime": "1:54"
     },
@@ -86,7 +86,7 @@
     },
     {
       "itemType": "question",
-      "question": "Дитина дивиться мультфільм",
+      "question": "(Ця) дитина дивиться мультфільм",
       "answer":   [
         "The baby watches a cartoon",
         "The child watches a cartoon",
@@ -119,7 +119,7 @@
     },
     {
       "itemType": "question",
-      "question": "Жінка сумує за ним",
+      "question": "(Ця) жінка сумує за ним",
       "answer":   "The woman misses him",
       "startTime": "4:36"
     },
@@ -182,7 +182,7 @@
     },
     {
       "itemType": "question",
-      "question": "Королева Англії живе у Букінгемському Палаці",
+      "question": "(Ця) королева Англії живе у Букінгемському Палаці",
       "answer":   "The Queen of England lives in Buckingham Palace",
       "startTime": "8:07"
     },
@@ -215,7 +215,7 @@
     },
     {
       "itemType": "question",
-      "question": "Сніг розтає навесні",
+      "question": "(Цей) сніг розтає навесні",
       "answer":   "The snow melts in spring",
       "startTime": "8:48"
     },
@@ -226,7 +226,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вода кипить при ста градусах",
+      "question": "(Ця) вода кипить при ста градусах",
       "answer":   "The water boils at 100 degrees",
       "startTime": "9:00"
     },
@@ -243,7 +243,7 @@
     },
     {
       "itemType": "question",
-      "question": "Президент має свій офіс",
+      "question": "(Цей) Президент має свій офіс",
       "answer":   "The President has his office",
       "startTime": "9:46"
     },
@@ -265,7 +265,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вони не користуються інструкцією. Чому?",
+      "question": "Вони не користуються (цією) інструкцією. Чому?",
       "answer":   "They don't use the instruction. Why?",
       "startTime": "12:04"
     },
@@ -276,7 +276,7 @@
     },
     {
       "itemType": "question",
-      "question": "Люди від'їжджають із країни для подорожі",
+      "question": "(Ці) люди від'їжджають із країни для подорожі",
       "answer":   "The people leave a country for a journey",
       "startTime": "12:24"
     },
@@ -310,7 +310,7 @@
     },
     {
       "itemType": "question",
-      "question": "Будь ласка, знайди вирішення проблеми",
+      "question": "Будь ласка, знайди (це) вирішення проблеми",
       "answer":   [
         "Please find the decision of a problem",
         "Please find a problem's decision"
@@ -453,7 +453,7 @@
     },
     {
       "itemType": "question",
-      "question": "Дитина вгадує слово",
+      "question": "(Ця) дитина вгадує слово",
       "answer":   [
         "The child guesses a word",
         "The kid guesses a word",
@@ -474,7 +474,7 @@
     },
     {
       "itemType": "question",
-      "question": "Турист залишає Нью Йорк",
+      "question": "(Цей) турист залишає Нью Йорк",
       "answer":   "The tourist leaves New York",
       "startTime": "18:57"
     },
@@ -485,7 +485,7 @@
     },
     {
       "itemType": "question",
-      "question": "Офіціант має уніформу",
+      "question": "(Цей) офіціант має уніформу",
       "answer":   "The waiter has a uniform",
       "startTime": "19:12"
     },

@@ -68,7 +68,7 @@
     },
     {
       "itemType": "question",
-      "question": "Менеджер не телефонує дуже часто",
+      "question": "(Цей) менеджер не телефонує дуже часто",
       "answer":   [
         "The manager doesn't call very often",
         "The manager doesn't phone very often"
@@ -94,7 +94,7 @@
     },
     {
       "itemType": "question",
-      "question": "Цей поліцейський не зупиняє тебе",
+      "question": "(Цей) поліцейський не зупиняє тебе",
       "answer":   "The policeman doesn't stop you",
       "startTime": "4:34"
     },
@@ -105,7 +105,7 @@
     },
     {
       "itemType": "question",
-      "question": "Робітник не ремонтує (fix) те ліжко",
+      "question": "(Цей) робітник не ремонтує (fix) те ліжко",
       "answer":   [
         "The worker doesn't fix that bed",
         "The worker doesn't repair that bed"
@@ -131,7 +131,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вчитель не навчає весь рік",
+      "question": "Вчитель не навчає весь (цей) рік",
       "answer":   "A teacher doesn't teach all the year",
       "startTime": "6:21"
     },
@@ -170,7 +170,7 @@
     },
     {
       "itemType": "question",
-      "question": "Дівчина не сидить",
+      "question": "(Ця) дівчина не сидить",
       "answer":   "The girl doesn't sit",
       "startTime": "8:32"
     },
@@ -191,7 +191,7 @@
     },
     {
       "itemType": "question",
-      "question": "Кузен не грає у волейбол",
+      "question": "(Цей) кузен не грає у волейбол",
       "answer":   "The cousin doesn't play volleyball",
       "startTime": "9:52"
     },
@@ -265,7 +265,7 @@
     },
     {
       "itemType": "question",
-      "question": "Цей лікар не працює на вихідних",
+      "question": "Цей лікар не працює на (цих) вихідних",
       "answer":   "This doctor doesn't work at the weekend",
       "startTime": "11:45"
     },
@@ -282,7 +282,7 @@
     },
     {
       "itemType": "question",
-      "question": "Його сім'я не живе у сільській місцевості",
+      "question": "Його сім'я не живе у (цій) сільській місцевості",
       "answer":   "His family doesn't live in the countryside",
       "startTime": "12:16"
     },
@@ -416,10 +416,10 @@
     },
     {
       "itemType": "question",
-      "question": "(Ця) дівчина зазвичай не практикує (це). Чому?",
+      "question": "(Ця) дівчина зазвичай не практикує це. Чому?",
       "answer":   [
         "The girl usually doesn't practice it. Why?",
-        "The girl usually doesn't practise it. Why?"
+        "The girl usually doesn't practise this. Why?"
       ],
       "startTime": "20:25"
     },
@@ -430,7 +430,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми показуємо виставу у суботу",
+      "question": "Ми показуємо (цю) виставу у суботу",
       "answer":   "We show the performance on Saturday",
       "startTime": "20:50"
     },

@@ -389,7 +389,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти показуєш мені дорогу",
+      "question": "Ти показуєш мені (цю) дорогу",
       "answer":   "You show me the way",
       "startTime": "17:54"
     },
@@ -454,7 +454,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ми їздимо на конях по неділях",
+      "question": "Ми їздимо на (цих) конях по неділях",
       "answer":   "We ride the horses on Sundays",
       "startTime": "20:38"
     },
@@ -575,7 +575,7 @@
     },
     {
       "itemType": "question",
-      "question": "Вони не показують мені) дорогу",
+      "question": "Вони не показують мені (цю) дорогу",
       "answer":   "They don't show me the way",
       "startTime": "25:03"
     },
@@ -656,7 +656,7 @@
     },
     {
       "itemType": "question",
-      "question": "Чи ти зазвичай починаєш забіг увечері?",
+      "question": "Чи ти зазвичай починаєш (цей) забіг увечері?",
       "answer":   "Do you usually begin the race in the evening?",
       "startTime": "27:31"
     },
