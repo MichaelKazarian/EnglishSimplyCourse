@@ -74,13 +74,13 @@
       "itemType": "question",
       "question": "Вона почувається добре",
       "answer":   "She feels well",
-      "startTime": "34:11"
+      "startTime": "34:10"
     },
     {
       "itemType": "question",
       "question": "Він користується цим ключем",
       "answer":   "He uses this key",
-      "startTime": "34:30"
+      "startTime": "34:29"
     },
     {
       "itemType": "point",
@@ -91,13 +91,13 @@
       "itemType": "question",
       "question": "Кошеня (it) п'є молоко",
       "answer":   "The kitten drinks milk",
-      "startTime": "34:51"
+      "startTime": "34:50"
     },
     {
       "itemType": "question",
       "question": "Він часто грає на гітарі",
       "answer":   "He often plays the guitar",
-      "startTime": "35:16"
+      "startTime": "35:15"
     },
     {
       "itemType": "point",
@@ -108,7 +108,7 @@
       "itemType": "question",
       "question": "Вона ніколи не відвідує великих міст",
       "answer":   "She never visits big cities",
-      "startTime": "35:37"
+      "startTime": "35:36"
     },
     {
       "itemType": "point",
@@ -124,7 +124,7 @@
       "itemType": "question",
       "question": "Восени часто йде дощ",
       "answer":   "It often rains in autumn",
-      "startTime": "36:10"
+      "startTime": "36:09"
     },
     {
       "itemType": "point",
@@ -135,19 +135,19 @@
       "itemType": "question",
       "question": "Вона розуміє мою проблему",
       "answer":   "She understands my problem",
-      "startTime": "36:44"
+      "startTime": "36:43"
     },
     {
       "itemType": "question",
       "question": "Він вільно говорить англійською",
       "answer":   "He speaks English fluently",
-      "startTime": "37:04"
+      "startTime": "37:03"
     },
     {
       "itemType": "question",
       "question": "Вона насолоджується осінню",
       "answer":   "She enjoys autumn",
-      "startTime": "37:29"
+      "startTime": "37:28"
     },
     {
       "itemType": "point",
@@ -158,48 +158,48 @@
       "itemType": "question",
       "question": "Вона ходить до спортивного клубу у вихідні",
       "answer":   "She goes to the sport club at the weekends",
-      "startTime": "38:24"
+      "startTime": "38:23"
     },
     {
       "itemType": "point",
-      "itemText": "<b>slow</b> /sloʊ/ повільно",
+      "itemText": "<b>slow</b> /sloʊ/ повільний",
       "startTime": "38:46"
     },
     {
       "itemType": "question",
       "question": "Він говорить повільно",
       "answer":   "He talks slowly",
-      "startTime": "38:49"
+      "startTime": "38:48"
     },
     {
       "itemType": "question",
       "question": "Він ніколи не спить в обід",
       "answer":   "He never sleeps in the afternoon",
-      "startTime": "39:11"
+      "startTime": "39:10"
     },
     {
       "itemType": "question",
       "question": "Вона їздить на роботу машиною",
       "answer":   "She goes to work by car",
-      "startTime": "39:30"
+      "startTime": "39:29"
     },
     {
       "itemType": "question",
       "question": "Він живе у Києві",
       "answer":   "He lives in Kyiv",
-      "startTime": "39:45"
+      "startTime": "39:44"
     },
     {
       "itemType": "question",
       "question": "Вона п'є воду",
       "answer":   "She drinks water",
-      "startTime": "40:00"
+      "startTime": "39:59"
     },
     {
       "itemType": "question",
       "question": "Вона встає і снідає о 8-й ранку",
       "answer":   "She gets up and has breakfast at 8 am",
-      "startTime": "40:23"
+      "startTime": "40:22"
     },
     {
       "itemType": "point",
@@ -215,13 +215,13 @@
       "itemType": "question",
       "question": "Він їздить на вихідні щосуботи",
       "answer":   "He goes to holidays every Saturday",
-      "startTime": "41:49"
+      "startTime": "41:48"
     },
     {
       "itemType": "question",
       "question": "Вона спить в обід",
       "answer":   "She sleeps in the afternoon",
-      "startTime": "42:14"
+      "startTime": "42:13"
     },
     {
       "itemType": "point",
@@ -232,7 +232,7 @@
       "itemType": "question",
       "question": "Він готує страви",
       "answer":   "He cooks dishes",
-      "startTime": "42:30"
+      "startTime": "42:29"
     }
   ]
 }

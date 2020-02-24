@@ -43,72 +43,77 @@
       "itemType": "question",
       "question": "Він живе в Лондоні",
       "answer":   "He lives in London",
-      "startTime": "6:18"
+      "startTime": "6:17"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>fast</b> /fæst/, /fɑːst/ швидко",
+      "startTime": "6:27"
     },
     {
       "itemType": "question",
       "question": "Він говорить швидко",
       "answer":   "He talks fast",
-      "startTime": "6:31"
+      "startTime": "6:30"
     },
     {
       "itemType": "point",
       "itemText": "<b>beer</b> /bɪɹ/, /bɪə/ пиво",
-      "startTime": "6:58"
+      "startTime": "6:56"
     },
     {
       "itemType": "question",
       "question": "Він п'є пиво",
       "answer":   "He drinks beer",
-      "startTime": "7:00"
+      "startTime": "6:58"
     },
     {
       "itemType": "question",
       "question": "Він ніколи не спить в обід",
       "answer":   "He never sleeps in the afternoon",
-      "startTime": "7:17"
+      "startTime": "7:16"
     },
     {
       "itemType": "question",
       "question": "Вона їде на роботу автобусом",
       "answer":   "She goes to work by bus",
-      "startTime": "7:36"
+      "startTime": "7:35"
     },
     {
       "itemType": "question",
       "question": "Вона ходить в спортивний клуб по вихідним",
       "answer":   "She goes to the sport club at the weekends",
-      "startTime": "8:16"
+      "startTime": "8:15"
     },
     {
       "itemType": "question",
       "question": "Вона встає і снідає о 8-й ранку",
       "answer":   "She gets up and has breakfast at 8 am",
-      "startTime": "8:44"
+      "startTime": "8:43"
     },
     {
       "itemType": "question",
       "question": "Він водить нову машину",
       "answer":   "He drives a new car",
-      "startTime": "9:32"
+      "startTime": "9:31"
     },
     {
       "itemType": "question",
       "question": "Вона спить в обід",
       "answer":   "She sleeps in the afternoon",
-      "startTime": "9:51"
+      "startTime": "9:49"
     },
     {
       "itemType": "question",
       "question": "Вона готує страви",
       "answer":   "She cooks dishes",
-      "startTime": "10:01"
+      "startTime": "10:00"
     },
     {
       "itemType": "question",
       "question": "Він змінює ситуацію",
       "answer":   "He changes the situation",
-      "startTime": "11:00"
+      "startTime": "10:59"
     },
     {
       "itemType": "point",
@@ -119,49 +124,49 @@
       "itemType": "question",
       "question": "Вона насолоджується візитом до кафе",
       "answer":   "She enjoys visiting a cafe",
-      "startTime": "11:26"
+      "startTime": "11:25"
     },
     {
       "itemType": "question",
       "question": "Цей чоловік відсилає листи електроною поштою на роботі",
       "answer":   "This man emails at work",
-      "startTime": "11:57"
+      "startTime": "11:56"
     },
     {
       "itemType": "question",
-      "question": "Кріс має уроки малювання кожної п'ятниці",
+      "question": "Кріс (Chris) має уроки малювання кожної п'ятниці",
       "answer":   "Chris has painting lessons every Friday",
-      "startTime": "12:21"
+      "startTime": "12:19"
     },
     {
       "itemType": "question",
       "question": "Вона пише листи по вихідних",
       "answer":   "She writes letters at the weekends",
-      "startTime": "12:55"
+      "startTime": "12:54"
     },
     {
       "itemType": "question",
       "question": "Моя сестра викладає в університеті",
       "answer":   "My sister teaches at a university",
-      "startTime": "13:22"
+      "startTime": "13:21"
     },
     {
       "itemType": "question",
       "question": "Жінка показує (представляє) проект",
       "answer":   "The woman shows a project",
-      "startTime": "13:44"
+      "startTime": "13:43"
     },
     {
       "itemType": "question",
       "question": "Чоловік платить гроші в магазині",
       "answer":   "The man pays money in a shop",
-      "startTime": "13:58"
+      "startTime": "13:57"
     },
     {
       "itemType": "question",
       "question": "Фільм починаєтья о 10-й ранку",
       "answer":   "The movie starts at 10 am",
-      "startTime": "14:20"
+      "startTime": "14:19"
     },
     {
       "itemType": "point",
@@ -172,7 +177,7 @@
       "itemType": "question",
       "question": "Він розливає воду на підлогу",
       "answer":   "He splashes water on the floor",
-      "startTime": "14:53"
+      "startTime": "14:52"
     },
     {
       "itemType": "point",
@@ -183,7 +188,7 @@
       "itemType": "question",
       "question": "Вона грає на скрипці",
       "answer":   "She plays the violin",
-      "startTime": "16:17"
+      "startTime": "16:16"
     },
     {
       "itemType": "point",
@@ -194,7 +199,7 @@
       "itemType": "question",
       "question": "Він має маленьку квартиру",
       "answer":   "He has a small flat",
-      "startTime": "16:43"
+      "startTime": "16:41"
     },
     {
       "itemType": "point",
@@ -205,19 +210,19 @@
       "itemType": "question",
       "question": "Мері подорожує до теплих країн кожного липня",
       "answer":   "Mary travels to warm countries every July",
-      "startTime": "17:05"
+      "startTime": "17:04"
     },
     {
       "itemType": "question",
       "question": "Його друг ходить по магазинах у місті",
       "answer":   "His friend goes shopping in a city",
-      "startTime": "17:39"
+      "startTime": "17:38"
     },
     {
       "itemType": "question",
       "question": "Вчитель пояснює це правило",
       "answer":   "The teacher explains this rule",
-      "startTime": "18:16"
+      "startTime": "18:15"
     },
     {
       "itemType": "point",
@@ -228,7 +233,7 @@
       "itemType": "question",
       "question": "Маленька дитина часто цілує батьків",
       "answer":   "The baby often kisses the parents",
-      "startTime": "18:38"
+      "startTime": "18:37"
     },
     {
       "itemType": "point",
@@ -239,7 +244,7 @@
       "itemType": "question",
       "question": "Мій друг живе тут постійно",
       "answer":   "My friend lives here full-time",
-      "startTime": "19:01"
+      "startTime": "19:00"
     },
     {
       "itemType": "point",
@@ -255,13 +260,13 @@
     {
       "itemType": "point",
       "itemText": "<b>uncle</b> /ˈʌŋ.kəl/ дядько<br/><b>not so well</b> не дуже добре",
-      "startTime": "20:12"
+      "startTime": "20:11"
     },
     {
       "itemType": "question",
       "question": "Мій дядько почувається не дуже добре",
       "answer":   "My uncle feels not so well",
-      "startTime": "20:14"
+      "startTime": "20:12"
     },
     {
       "itemType": "point",
@@ -272,7 +277,7 @@
       "itemType": "question",
       "question": "Моя тітка навчається в Оксфордському університеті",
       "answer":   "My aunt studies at Oxford University",
-      "startTime": "20:37"
+      "startTime": "20:36"
     },
     {
       "itemType": "point",
@@ -283,7 +288,7 @@
       "itemType": "question",
       "question": "Його брат часто носить важкі речі",
       "answer":   "His brother often carries heavy things",
-      "startTime": "21:48"
+      "startTime": "21:47"
     },
     {
       "itemType": "point",
@@ -294,19 +299,22 @@
       "itemType": "question",
       "question": "Джекі (Jackie) ніколи не дивиться фільми жахів",
       "answer":   "Jackie never watches horror films",
-      "startTime": "22:43"
+      "startTime": "22:41"
     },
     {
       "itemType": "question",
       "question": "Вона завжди сподівається",
       "answer":   "She always hopes",
-      "startTime": "23:08"
+      "startTime": "23:07"
     },
     {
       "itemType": "question",
       "question": "Він рідко відвідує мене",
-      "answer":   "He seldom visits me",
-      "startTime": "23:25"
+      "answer": [
+        "He seldom visits me",
+        "He seldom visits my place"
+      ],
+      "startTime": "23:24"
     },
     {
       "itemType": "question",
@@ -316,9 +324,9 @@
     },
     {
       "itemType": "question",
-      "question": "Рон починає новий проект кожного року",
+      "question": "Рон (Ron) починає новий проект кожного року",
       "answer":   "Ron begins a new project every year",
-      "startTime": "24:21"
+      "startTime": "24:20"
     },
     {
       "itemType": "point",
@@ -329,7 +337,7 @@
       "itemType": "question",
       "question": "Вона, зазвичай, представляє новачків",
       "answer":   "She usually introduces newcomers",
-      "startTime": "24:51"
+      "startTime": "24:50"
     },
     {
       "itemType": "point",
@@ -340,7 +348,7 @@
       "itemType": "question",
       "question": "Комп'ютер використовує вхідну інформацію",
       "answer":   "A computer uses input data",
-      "startTime": "25:33"
+      "startTime": "25:32"
     },
     {
       "itemType": "point",
@@ -351,7 +359,7 @@
       "itemType": "question",
       "question": "Він сміється весело",
       "answer":   "He laughs merrily",
-      "startTime": "26:07"
+      "startTime": "26:06"
     },
     {
       "itemType": "point",
@@ -362,7 +370,7 @@
       "itemType": "question",
       "question": "Цей чоловік одружується з прекрасною жінкою",
       "answer":   "This man marries a beautiful woman",
-      "startTime": "26:32"
+      "startTime": "26:31"
     }
   ]
 }

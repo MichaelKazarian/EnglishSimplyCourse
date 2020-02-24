@@ -8,37 +8,41 @@
       "itemType": "question",
       "question": "Я нудьгую за тобою",
       "answer":   "I miss you",
-      "startTime": "0:52"
+      "startTime": "0:51"
     },
     {
       "itemType": "question",
       "question": "Ти вдосконалюєш свої навички?",
       "answer":   "Do you improve your skills?",
-      "startTime": "1:02"
+      "startTime": "1:01"
     },
     {
       "itemType": "question",
       "question": "На жаль, я не роблю цього",
       "answer":   "It's a pity, I don't do it",
-      "startTime": "1:10"
+      "startTime": "1:09"
     },
     {
       "itemType": "question",
       "question": "Він зазвичай відправляє електронну пошту на роботі",
       "answer":   "He usually emails at work",
-      "startTime": "1:21"
+      "startTime": "1:20"
     },
     {
       "itemType": "question",
       "question": "У листопаді часто іде дощ",
       "answer":   "It often rains in November",
-      "startTime": "1:30"
+      "startTime": "1:29"
     },
     {
       "itemType": "question",
       "question": "Ніколи не кажи 'ні'",
-      "answer":   "Never say 'no'",
-      "startTime": "1:47"
+      "answer":   [
+        "Never say 'no'",
+        "Never say \"no\"",
+        "Never say no"
+      ],
+      "startTime": "1:46"
     },
     {
       "itemType": "point",
@@ -49,25 +53,25 @@
       "itemType": "question",
       "question": "Вчитель пояснює нову інформацію",
       "answer":   "The teacher explains a new information",
-      "startTime": "1:55"
+      "startTime": "1:54"
     },
     {
       "itemType": "question",
       "question": "Вона сміється багато",
       "answer":   "She laughs a lot",
-      "startTime": "2:03"
+      "startTime": "2:02"
     },
     {
       "itemType": "question",
       "question": "Вона любить його",
       "answer":   "She loves him",
-      "startTime": "2:09"
+      "startTime": "2:08"
     },
     {
       "itemType": "question",
       "question": "Вони не хочуть робити це",
       "answer":   "They don't want to do it",
-      "startTime": "2:14"
+      "startTime": "2:13"
     },
     {
       "itemType": "point",
@@ -78,13 +82,17 @@
       "itemType": "question",
       "question": "Я не відвідую того місця",
       "answer":   "I don't visit that place",
-      "startTime": "3:26"
+      "startTime": "3:25"
     },
     {
       "itemType": "question",
       "question": "Дитина дивиться мультфільм",
-      "answer":   "The baby watches a cartoon",
-      "startTime": "3:37"
+      "answer":   [
+        "The baby watches a cartoon",
+        "The child watches a cartoon",
+        "The kid watches a cartoon"
+      ],
+      "startTime": "3:36"
     },
     {
       "itemType": "point",
@@ -95,25 +103,25 @@
       "itemType": "question",
       "question": "Вони часто ремонтують меблі",
       "answer":   "They often fix furniture",
-      "startTime": "4:13"
+      "startTime": "4:12"
     },
     {
       "itemType": "question",
       "question": "Ти платиш гроші в цьому магазині?",
       "answer":   "Do you pay money in this shop?",
-      "startTime": "4:23"
+      "startTime": "4:22"
     },
     {
       "itemType": "question",
       "question": "Ми віримо у зміни",
       "answer":   "We believe in changes",
-      "startTime": "4:30"
+      "startTime": "4:29"
     },
     {
       "itemType": "question",
       "question": "Жінка сумує за ним",
       "answer":   "The woman misses him",
-      "startTime": "4:37"
+      "startTime": "4:36"
     },
     {
       "itemType": "point",
@@ -124,19 +132,19 @@
       "itemType": "question",
       "question": "Запитай мене, якщо ти хочеш",
       "answer":   "Ask me if you want",
-      "startTime": "5:05"
+      "startTime": "5:04"
     },
     {
       "itemType": "question",
       "question": "Пем (Pam) летить до Канади",
       "answer":   "Pam flies to Canada",
-      "startTime": "5:12"
+      "startTime": "5:11"
     },
     {
       "itemType": "question",
       "question": "Вона уявляє дизайн нової квартири",
       "answer":   "She imagines a design of a new flat",
-      "startTime": "5:37"
+      "startTime": "5:36"
     },
     {
       "itemType": "point",
@@ -147,7 +155,7 @@
       "itemType": "question",
       "question": "Ми не залишаємо цього містечка",
       "answer":   "We don't leave this town",
-      "startTime": "6:02"
+      "startTime": "6:01"
     },
     {
       "itemType": "point",
@@ -158,25 +166,25 @@
       "itemType": "question",
       "question": "Сонце світить влітку",
       "answer":   "The sun shines in summer",
-      "startTime": "7:28"
+      "startTime": "7:26"
     },
     {
       "itemType": "question",
       "question": "Взимку йде сніг",
       "answer":   "It snows in winter",
-      "startTime": "7:49"
+      "startTime": "7:48"
     },
     {
       "itemType": "question",
       "question": "Восени йде дощ",
       "answer":   "It rains in autumn",
-      "startTime": "7:57"
+      "startTime": "7:56"
     },
     {
       "itemType": "question",
       "question": "Королева Англії живе у Букінгемському Палаці",
       "answer":   "The Queen of England lives in Buckingham Palace",
-      "startTime": "8:08"
+      "startTime": "8:07"
     },
     {
       "itemType": "point",
@@ -187,7 +195,7 @@
       "itemType": "question",
       "question": "Собака має чотири ноги",
       "answer":   "A dog has four legs",
-      "startTime": "8:25"
+      "startTime": "8:24"
     },
     {
       "itemType": "point",
@@ -198,7 +206,7 @@
       "itemType": "question",
       "question": "Риба плаває",
       "answer":   "A fish swims",
-      "startTime": "8:32"
+      "startTime": "8:31"
     },
     {
       "itemType": "point",
@@ -209,7 +217,7 @@
       "itemType": "question",
       "question": "Сніг розтає навесні",
       "answer":   "The snow melts in spring",
-      "startTime": "8:49"
+      "startTime": "8:48"
     },
     {
       "itemType": "point",
@@ -220,24 +228,24 @@
       "itemType": "question",
       "question": "Вода кипить при ста градусах",
       "answer":   "The water boils at 100 degrees",
-      "startTime": "9:01"
+      "startTime": "9:00"
     },
     {
       "itemType": "point",
       "itemText": "<b>Earth</b> /ɜːθ/ Земля<br/><b>round</b> /ˈɹaʊnd/ навкруги, навколо; <i>go round</i> іти кругом, крутитися навколо<br/><b>around</b> /əˈɹaʊnd/ навколо, біля, скрізь",
       "startTime": "9:14"
     },
-   {
+    {
       "itemType": "question",
       "question": "Земля крутиться навколо Сонця",
       "answer":   "The Earth goes round the Sun",
-      "startTime": "9:25"
+      "startTime": "9:24"
     },
     {
       "itemType": "question",
       "question": "Президент має свій офіс",
       "answer":   "The President has his office",
-      "startTime": "9:47"
+      "startTime": "9:46"
     },
     {
       "itemType": "point",
@@ -248,7 +256,7 @@
       "itemType": "question",
       "question": "Ти зазвичай прокидаєшся рано? Напиши мені незабаром, будь ласка",
       "answer":   "Do you usually wake up early? Write me soon, please",
-      "startTime": "11:38"
+      "startTime": "11:36"
     },
     {
       "itemType": "point",
@@ -259,7 +267,7 @@
       "itemType": "question",
       "question": "Вони не користуються інструкцією. Чому?",
       "answer":   "They don't use the instruction. Why?",
-      "startTime": "12:05"
+      "startTime": "12:04"
     },
     {
       "itemType": "point",
@@ -270,7 +278,7 @@
       "itemType": "question",
       "question": "Люди від'їжджають із країни для подорожі",
       "answer":   "The people leave a country for a journey",
-      "startTime": "12:25"
+      "startTime": "12:24"
     },
     {
       "itemType": "point",
@@ -281,7 +289,7 @@
       "itemType": "question",
       "question": "Вона дивиться на новий супермаркет",
       "answer":   "She looks at a new supermarket",
-      "startTime": "12:59"
+      "startTime": "12:58"
     },
     {
       "itemType": "point",
@@ -290,9 +298,9 @@
     },
     {
       "itemType": "question",
-      "question": "Ми програли гру?",
+      "question": "Ми програємо гру?",
       "answer":   "Do we lose a game?",
-      "startTime": "13:08"
+      "startTime": "13:07"
     },
     {
       "itemType": "question",
@@ -303,8 +311,11 @@
     {
       "itemType": "question",
       "question": "Будь ласка, знайди вирішення проблеми",
-      "answer":   "Please find the decision of a problem",
-      "startTime": "13:24"
+      "answer":   [
+        "Please find the decision of a problem",
+        "Please find a problem's decision"
+      ],
+      "startTime": "13:23"
     },
     {
       "itemType": "point",
@@ -315,13 +326,13 @@
       "itemType": "question",
       "question": "Вони насолоджуються цими чудовими осінніми вечорами?",
       "answer":   "Do they enjoy these beautiful autumn evenings?",
-      "startTime": "13:58"
+      "startTime": "13:57"
     },
     {
       "itemType": "question",
       "question": "Я не дивлюся довгі фільми",
       "answer":   "I don't watch long films",
-      "startTime": "14:11"
+      "startTime": "14:10"
     },
     {
       "itemType": "point",
@@ -332,13 +343,13 @@
       "itemType": "question",
       "question": "Осінь дає спокій та відпочинок",
       "answer":   "Autumn gives calmness and rest",
-      "startTime": "14:40"
+      "startTime": "14:39"
     },
     {
       "itemType": "question",
       "question": "Ти хочеш почати пробіжку?",
       "answer":   "Do you want to start a race?",
-      "startTime": "15:28"
+      "startTime": "15:27"
     },
     {
       "itemType": "point",
@@ -349,37 +360,37 @@
       "itemType": "question",
       "question": "Вона відпочиває по неділях",
       "answer":   "She has a rest on Sundays",
-      "startTime": "15:53"
+      "startTime": "15:52"
     },
     {
       "itemType": "question",
       "question": "Мій дядько почувається добре сьогодні",
       "answer":   "My uncle feels well today",
-      "startTime": "16:01"
+      "startTime": "16:00"
     },
     {
       "itemType": "question",
       "question": "Ніколи не кажи ніколи",
       "answer":   "Never say never",
-      "startTime": "16:13"
+      "startTime": "16:12"
     },
     {
       "itemType": "question",
       "question": "Люди вірять у гарне майбутнє",
       "answer":   "People believe in a good future",
-      "startTime": "16:20"
+      "startTime": "16:19"
     },
     {
       "itemType": "question",
       "question": "Ти завжди вчиш англійську?",
       "answer":   "Do you always study English?",
-      "startTime": "16:28"
+      "startTime": "16:27"
     },
     {
       "itemType": "question",
       "question": "Так, я часто вчу. Тричі на тиждень",
       "answer":   "Yes, I often study it. Three times a week",
-      "startTime": "16:38"
+      "startTime": "16:37"
     },
     {
       "itemType": "point",
@@ -389,8 +400,11 @@
     {
       "itemType": "question",
       "question": "Ти любиш подорожувати за кордон?",
-      "answer":   "Do you like travelling abroad?",
-      "startTime": "17:01"
+      "answer":   [
+        "Do you like travelling abroad?",
+        "Do you like traveling abroad?"
+      ],
+      "startTime": "17:00"
     },
     {
       "itemType": "point",
@@ -400,26 +414,26 @@
     {
       "itemType": "question",
       "question": "У цьому сезоні зазвичай іде сніг",
-      "answer":   "It usually snows this season",
-      "startTime": "17:11"
+      "answer":   "It usually snows in this season",
+      "startTime": "17:10"
     },
     {
       "itemType": "question",
       "question": "Боб (Bob) та його друзі обговорюють цю проблему",
       "answer":   "Bob and his friends discuss this problem",
-      "startTime": "17:21"
+      "startTime": "17:20"
     },
     {
       "itemType": "question",
       "question": "Вона зустрічає його",
       "answer":   "She meets him",
-      "startTime": "18:02"
+      "startTime": "18:01"
     },
     {
       "itemType": "question",
       "question": "Вони не сідають на таксі вранці",
-      "answer":   "They don't catch the taxi in the mornings",
-      "startTime": "18:09"
+      "answer":   "They don't catch the taxi in the morning",
+      "startTime": "18:08"
     },
     {
       "itemType": "point",
@@ -430,7 +444,7 @@
       "itemType": "question",
       "question": "Вони ходять пішки",
       "answer":   "They walk",
-      "startTime": "18:28"
+      "startTime": "18:27"
     },
     {
       "itemType": "point",
@@ -440,8 +454,12 @@
     {
       "itemType": "question",
       "question": "Дитина вгадує слово",
-      "answer":   "The child guesses a word",
-      "startTime": "18:33"
+      "answer":   [
+        "The child guesses a word",
+        "The kid guesses a word",
+        "The baby guesses a word"
+      ],
+      "startTime": "18:32"
     },
     {
       "itemType": "point",
@@ -452,13 +470,13 @@
       "itemType": "question",
       "question": "Вони сидять там?",
       "answer":   "Do they sit there?",
-      "startTime": "18:51"
+      "startTime": "18:50"
     },
     {
       "itemType": "question",
       "question": "Турист залишає Нью Йорк",
       "answer":   "The tourist leaves New York",
-      "startTime": "18:58"
+      "startTime": "18:57"
     },
     {
       "itemType": "point",
@@ -469,13 +487,13 @@
       "itemType": "question",
       "question": "Офіціант має уніформу",
       "answer":   "The waiter has a uniform",
-      "startTime": "19:13"
+      "startTime": "19:12"
     },
     {
       "itemType": "question",
       "question": "Ти бігаєш вранці?",
       "answer":   "Do you run in the morning?",
-      "startTime": "19:21"
+      "startTime": "19:20"
     },
     {
       "itemType": "point",
@@ -486,13 +504,13 @@
       "itemType": "question",
       "question": "Можливо, вони не їздять верхи",
       "answer":   "Maybe they don't ride a horse",
-      "startTime": "19:38"
+      "startTime": "19:37"
     },
     {
       "itemType": "question",
       "question": "Інколи ми не виграємо",
       "answer":   "Sometimes we don't win",
-      "startTime": "19:52"
+      "startTime": "19:51"
     }
   ]
 }

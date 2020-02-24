@@ -1,50 +1,53 @@
 {
   "lessonId": "lesson10",
   "lessonTitle": "Урок 10",
-  "lessonDescription": "Повторення Do/Does/Doesn't",
+  "lessonDescription": "Практикуємо використання Do/Does/Doesn't",
   "lessonURL": "mgSecQkgU6k",
   "lessonItems": [
     {
       "itemType": "question",
       "question": "Він не навчається у школі",
       "answer":   "He doesn't study at school",
-      "startTime": "1:38"
+      "startTime": "1:37"
     },
     {
       "itemType": "question",
       "question": "Вона не співає",
       "answer":   "She doesn't sing",
-      "startTime": "1:49"
+      "startTime": "1:48"
     },
     {
       "itemType": "question",
       "question": "Це не містить",
       "answer":   "It doesn't include",
-      "startTime": "2:00"
+      "startTime": "1:59"
     },
     {
       "itemType": "question",
       "question": "Дощ не йде",
       "answer":   "It doesn't rain",
-      "startTime": "2:19"
+      "startTime": "2:18"
     },
     {
       "itemType": "question",
       "question": "Він не знає тебе",
       "answer":   "He doesn't know you",
-      "startTime": "2:28"
+      "startTime": "2:27"
     },
     {
       "itemType": "question",
       "question": "Мій кузен не грає",
       "answer":   "My cousin doesn't play",
-      "startTime": "2:42"
+      "startTime": "2:41"
     },
     {
       "itemType": "question",
       "question": "Мій тато не любить шуму",
-      "answer":   "The dad doesn't like noise",
-      "startTime": "2:55"
+      "answer": [
+        "My dad doesn't like noise",
+        "My father doesn't like noise"
+      ],
+      "startTime": "2:54"
     },
     {
       "itemType": "point",
@@ -53,9 +56,9 @@
     },
     {
       "itemType": "question",
-      "question": "Цей офіціант не поспішає",
+      "question": "(Цей) офіціант не поспішає",
       "answer":   "The waiter doesn't hurry up",
-      "startTime": "3:06"
+      "startTime": "3:05"
     },
     {
       "itemType": "point",
@@ -66,30 +69,30 @@
       "itemType": "question",
       "question": "Собака не лазить по деревах",
       "answer":   "A dog doesn't climb a tree",
-      "startTime": "3:39"
+      "startTime": "3:38"
     },
     {
       "itemType": "question",
       "question": "Людина не літає",
       "answer":   "A man doesn't fly",
-      "startTime": "3:51"
+      "startTime": "3:50"
     },
     {
       "itemType": "question",
-      "question": "Його студент не виконує домашнього завдання",
+      "question": "Його студент не виконує (цього) домашнього завдання",
       "answer":   "His student doesn't do the homework",
-      "startTime": "4:28"
+      "startTime": "4:26"
     },
     {
       "itemType": "point",
-      "itemText": "<b>shout</b> /ʃaʊt/ кричати",
+      "itemText": "<b>shout</b> /ʃaʊt/ крик, кричати",
       "startTime": "4:45"
     },
     {
       "itemType": "question",
       "question": "Її вчитель не кричить",
       "answer":   "Her teacher doesn't shout",
-      "startTime": "4:49"
+      "startTime": "4:48"
     },
     {
       "itemType": "point",
@@ -98,15 +101,19 @@
     },
     {
       "itemType": "question",
-      "question": "Наша мама не ходить по магазинах",
-      "answer":   "Our mum doesn't go shopping",
-      "startTime": "5:12"
+      "question": "Наша мама не скупляється",
+      "answer":   [
+        "Our mom doesn't go shopping",
+        "Our mother doesn't go shopping",
+        "Our mum doesn't go shopping"
+      ],
+      "startTime": "5:11"
     },
     {
       "itemType": "question",
       "question": "Я не маю відпочинку",
       "answer":   "I don't have a rest",
-      "startTime": "5:37"
+      "startTime": "5:36"
     },
     {
       "itemType": "point",
@@ -117,7 +124,7 @@
       "itemType": "question",
       "question": "Вони не забувають валізи",
       "answer":   "They don't forget suitcases",
-      "startTime": "5:58"
+      "startTime": "5:57"
     },
     {
       "itemType": "point",
@@ -128,7 +135,7 @@
       "itemType": "question",
       "question": "Пем (Pam) не запрошує тебе",
       "answer":   "Pam doesn't invite you",
-      "startTime": "6:22"
+      "startTime": "6:21"
     },
     {
       "itemType": "point",
@@ -139,37 +146,37 @@
       "itemType": "question",
       "question": "В Україні у червні не йде сніг",
       "answer":   "It doesn't snow in June in Ukraine",
-      "startTime": "6:46"
+      "startTime": "6:45"
     },
     {
       "itemType": "question",
       "question": "Ти не допомогаєш своїй сестрі сьогодні",
       "answer":   "You don't help your sister today",
-      "startTime": "7:00"
+      "startTime": "6:59"
     },
     {
       "itemType": "question",
-      "question": "Рон (Ron) не ходить до магазину",
+      "question": "Рон (Ron) не ходить до (цього) магазину",
       "answer":   "Ron doesn't go to the shop",
-      "startTime": "7:21"
+      "startTime": "7:20"
     },
     {
       "itemType": "question",
       "question": "Ми не відвідуємо те місце",
       "answer":   "We don't visit that place",
-      "startTime": "7:32"
+      "startTime": "7:31"
     },
     {
       "itemType": "question",
       "question": "Я дякую тобі за допомогу",
       "answer":   "I thank you for help",
-      "startTime": "8:43"
+      "startTime": "8:42"
     },
     {
       "itemType": "question",
       "question": "Чи ти приєднаєшся до мене у неділю?",
       "answer":   "Do you join me on Sunday?",
-      "startTime": "9:16"
+      "startTime": "9:15"
     },
     {
       "itemType": "point",
@@ -178,21 +185,21 @@
     },
     {
       "itemType": "question",
-      "question": "Він вчить нові слова щодня",
+      "question": "Він вчить (ці) нові слова щодня",
       "answer":   "He learns the new words every day",
-      "startTime": "9:46"
+      "startTime": "9:45"
     },
     {
       "itemType": "question",
       "question": "Чи ти бачиш його?",
       "answer":   "Do you see him?",
-      "startTime": "10:15"
+      "startTime": "10:14"
     },
     {
       "itemType": "question",
       "question": "Ти дивишся на нього?",
       "answer":   "Do you look at him?",
-      "startTime": "10:33"
+      "startTime": "10:32"
     },
     {
       "itemType": "point",
@@ -203,77 +210,83 @@
       "itemType": "question",
       "question": "Мої батьки не люблять поп-музику",
       "answer":   "My parents don't like pop music",
-      "startTime": "10:54"
+      "startTime": "10:53"
     },
     {
       "itemType": "question",
       "question": "Вони надають перевагу класичній",
       "answer":   "They prefer classical",
-      "startTime": "11:04"
+      "startTime": "11:03"
     },
     {
       "itemType": "question",
       "question": "Мій друг не телефонує сьогодні",
-      "answer":   "My friend doesn't call today",
-      "startTime": "11:17"
+      "answer":   [
+        "My friend doesn't call today",
+        "My friend doesn't phone today"
+      ],
+      "startTime": "11:16"
     },
     {
       "itemType": "point",
-      "itemText": "<b>post</b> /poʊst/ допис",
+      "itemText": "<b>post</b> /poʊst/ допис, вивішувати, пошта, посада",
       "startTime": "11:32"
     },
     {
       "itemType": "question",
       "question": "Він не розповсюджує мій допис",
       "answer":   "He doesn't share my post",
-      "startTime": "11:36"
+      "startTime": "11:35"
     },
     {
       "itemType": "question",
-      "question": "Чи вони тестують нову програму?",
+      "question": "Чи вони тестують (цю) нову програму?",
       "answer":   "Do they test the new program?",
-      "startTime": "11:57"
+      "startTime": "11:56"
     },
     {
       "itemType": "question",
       "question": "Вони не дивляться фільми по вечорах",
-      "answer":   "They don't watch films in the evenings",
-      "startTime": "12:35"
+      "answer":   [
+        "They don't watch films in the evenings",
+        "They don't watch movies in the evenings"
+      ],
+      "startTime": "12:34"
     },
     {
       "itemType": "point",
-      "itemText": "<b>move</b> /muːv/ переміщати, переїжджати",
+      "itemText": "<b>move</b> /muːv/ переміщати, переїжджати, рухатися",
       "startTime": "12:56"
     },
     {
       "itemType": "question",
       "question": "Його батьки переїжджають до Польщі",
       "answer":   "His parents move to Poland",
-      "startTime": "13:04"
+      "startTime": "13:03"
     },
     {
       "itemType": "question",
-      "question": "Джек (Jack) не пояснює правило",
+      "question": "Джек (Jack) не пояснює (це) правило",
       "answer":   "Jack doesn't explain the rule",
-      "startTime": "13:23"
+      "startTime": "13:21"
     },
     {
       "itemType": "question",
       "question": "Знайди мою валізу, будь ласка",
       "answer":   "Find my suitcase, please",
-      "startTime": "13:26"
+      "startTime": "13:34"
     },
     {
       "itemType": "question",
       "question": "Це не коштує дорого",
       "answer":   "It doesn't cost a lot",
-      "startTime": "13:49"
+      "startTime": "13:47"
     },
     {
       "itemType": "question",
       "question": "Ти зазвичай купуєш меблі там",
       "answer":   "You usually buy furniture there",
-      "startTime": "14:05"
+      "startTime": "14:03"
     },
     {
       "itemType": "point",
@@ -284,7 +297,7 @@
       "itemType": "question",
       "question": "Чи ти створюєш свій блог?",
       "answer":   "Do you create your blog?",
-      "startTime": "14:19"
+      "startTime": "14:17"
     },
     {
       "itemType": "point",
@@ -295,32 +308,33 @@
       "itemType": "question",
       "question": "Чи ти займаєшся плаванням?",
       "answer":   "Do you go swimming?",
-      "startTime": "14:48"
+      "startTime": "14:47"
     },
     {
       "itemType": "question",
-      "question": "Він хоче полетіти до теплої країни",
+      "question": "Він хоче полетіти до (цієї) теплої країни",
       "answer":   "He wants to fly to the warm country",
-      "startTime": "15:04"
+      "startTime": "15:03"
     },
     {
       "itemType": "question",
       "question": "Люди люблять подорожувати",
       "answer":   [
+        "People like traveling",
         "People like travelling",
         "People like to travel"],
-      "startTime": "15:55"
+      "startTime": "15:54"
     },
     {
       "itemType": "point",
-      "itemText": "<b>grow</b> /ɡɹoʊ/ рости",
+      "itemText": "<b>grow</b> /ɡɹoʊ/ рости, вирощувати",
       "startTime": "16:51"
     },
     {
       "itemType": "question",
       "question": "Дерева ростуть",
       "answer":   "Trees grow",
-      "startTime": "16:55"
+      "startTime": "16:54"
     },
     {
       "itemType": "point",
@@ -331,13 +345,13 @@
       "itemType": "question",
       "question": "Вони слідують за тобою",
       "answer":   "They follow you",
-      "startTime": "17:19"
+      "startTime": "17:18"
     },
     {
       "itemType": "question",
       "question": "Мій кузен не слідує моїй пораді",
       "answer":   "My cousin doesn't follow my advice",
-      "startTime": "17:32"
+      "startTime": "17:31"
     },
     {
       "itemType": "point",
@@ -348,18 +362,18 @@
       "itemType": "question",
       "question": "Чи ти граєш у великий теніс?",
       "answer":   "Do you play lawn tennis?",
-      "startTime": "17:53"
+      "startTime": "17:52"
     },
     {
       "itemType": "point",
-      "itemText": "<b>wear</b> /wɛə(ɹ)/ носити одяг<br/><b>sweater</b> /ˈswɛtə/ светр",
+      "itemText": "<b>wear</b> /wɛə(ɹ)/ носити, одяг<br/><b>sweater</b> /ˈswɛtə/ светр",
       "startTime": "18:05"
     },
     {
       "itemType": "question",
-      "question": "Він не носить светр влітку",
+      "question": "Він не носить светра влітку",
       "answer":   "He doesn't wear a sweater in summer",
-      "startTime": "18:18"
+      "startTime": "18:17"
     },
     {
       "itemType": "point",
@@ -370,13 +384,13 @@
       "itemType": "question",
       "question": "Його дружина працює вдома",
       "answer":   "His wife works at home",
-      "startTime": "18:38"
+      "startTime": "18:37"
     },
     {
       "itemType": "question",
       "question": "Ти дивишся цей футбольний матч?",
       "answer":   "Do you watch this football match?",
-      "startTime": "18:51"
+      "startTime": "18:50"
     },
     {
       "itemType": "point",
@@ -387,7 +401,7 @@
       "itemType": "question",
       "question": "Її чоловік не працює в ресторані",
       "answer":   "Her husband doesn't work in a restaurant",
-      "startTime": "19:03"
+      "startTime": "19:02"
     },
     {
       "itemType": "point",
@@ -398,7 +412,7 @@
       "itemType": "question",
       "question": "Твій син будує новий будинок",
       "answer":   "Your son builds a new house",
-      "startTime": "19:18"
+      "startTime": "19:17"
     },
     {
       "itemType": "point",
@@ -409,12 +423,12 @@
       "itemType": "question",
       "question": "Ця машина не їде до аеропорту",
       "answer":   "This car doesn't go to an airport",
-      "startTime": "19:35"
+      "startTime": "19:34"
     },
     {
       "itemType": "point",
       "itemText": "Перед голосними артикль <u>a</u> заміняється на <u>an</u>",
-      "startTime": "19:49"
+      "startTime": "19:48"
     },
     {
       "itemType": "point",
@@ -425,13 +439,13 @@
       "itemType": "question",
       "question": "Чи ти віриш їм?",
       "answer":   "Do you believe them?",
-      "startTime": "20:29"
+      "startTime": "20:28"
     },
     {
       "itemType": "question",
       "question": "Я не п'ю пиво",
       "answer":   "I don't drink beer",
-      "startTime": "20:44"
+      "startTime": "20:43"
     },
     {
       "itemType": "point",
@@ -442,7 +456,7 @@
       "itemType": "question",
       "question": "Я надаю перевагу вину",
       "answer":   "I prefer wine",
-      "startTime": "20:54"
+      "startTime": "20:53"
     },
     {
       "itemType": "point",
@@ -451,21 +465,24 @@
     },
     {
       "itemType": "question",
-      "question": "Чи ти купуєш хліб на ринку?",
+      "question": "Чи ти купляєш хліб у (цьому) маркеті?",
       "answer":   "Do you buy bread at the market?",
-      "startTime": "21:07"
+      "startTime": "21:06"
     },
     {
       "itemType": "question",
       "question": "Я думаю він робить це",
-      "answer":   "I think he does it",
-      "startTime": "21:27"
+      "answer":   [
+        "I think he does it",
+        "I think he does this"
+      ],
+      "startTime": "21:26"
     },
     {
       "itemType": "question",
       "question": "Він каже, що знає все",
       "answer":   "He says he knows everything",
-      "startTime": "21:40"
+      "startTime": "21:39"
     },
     {
       "itemType": "point",
@@ -474,37 +491,37 @@
     },
     {
       "itemType": "question",
-      "question": "Моя бабуся не вгадує цю пісню",
-      "answer":   "The grandma doesn't guess the song",
-      "startTime": "22:01"
+      "question": "Моя бабуся не вгадує (цю) пісню",
+      "answer":   "My grandma doesn't guess the song",
+      "startTime": "22:00"
     },
     {
       "itemType": "point",
-      "itemText": "<b>plan</b> /plæn/ планувати",
+      "itemText": "<b>plan</b> /plæn/ план, планувати",
       "startTime": "22:15"
     },
     {
       "itemType": "question",
       "question": "Чи ти плануєш свій тиждень?",
       "answer":   "Do you plan your week?",
-      "startTime": "22:18"
+      "startTime": "22:17"
     },
     {
       "itemType": "question",
-      "question": "Ця жінка водить машину дуже добре",
+      "question": "(Ця) жінка водить машину дуже добре",
       "answer":   "The woman drives a car very well",
-      "startTime": "22:32"
+      "startTime": "22:31"
     },
     {
       "itemType": "point",
-      "itemText": "<b>cross</b> /kɹɔːs/ переходити, перетинати",
+      "itemText": "<b>cross</b> /kɹɔːs/ хрест, перетинати",
       "startTime": "22:49"
     },
     {
       "itemType": "question",
-      "question": "Не переходь вулицю у цьому місці",
+      "question": "Не переходь (цю) вулицю у цьому місці",
       "answer":   "Don't cross the street at this place",
-      "startTime": "23:00"
+      "startTime": "22:59"
     }
   ]
 }
