@@ -1,240 +1,277 @@
 {
-  "lessonId": "lesson",
-  "lessonTitle": "Урок ",
+  "lessonId": "lesson11",
+  "lessonTitle": "Урок 11",
   "lessonDescription": " ",
-  "lessonURL": "bJkSM3g-Tfs",
+  "lessonURL": "",
   "lessonItems": [
     {
       "itemType": "point",
-      "itemText": "* Lesson 11",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Present Simple. Does...?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Does + h<i>e///she</i>it + присудок..?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 1",
-      "startTime": ":"
+      "itemText": "Does + <i>he/she/it</i> + присудок + ?",
+      "startTime": "01:41"
     },
     {
       "itemType": "question",
       "question": "Він говорить англійською?",
       "answer":   "Does he speak English?",
-      "startTime": ":"
+      "startTime": "02:19"
     },
     {
       "itemType": "question",
       "question": "Вона розуміє французьку?",
       "answer":   "Does she understand French?",
-      "startTime": ":"
+      "startTime": "2:39"
     },
     {
       "itemType": "question",
       "question": "Воно (тварина) п'є воду?",
       "answer":   "Does it drink water?",
-      "startTime": ":"
+      "startTime": "03:11"
     },
     {
       "itemType": "question",
-      "question": "Мама готує піцу по суботах?",
-      "answer":   "Does the  mum cook pizza on Saturdays?",
-      "startTime": ":"
+      "question": "(Ця) мама готує піцу по суботах?",
+      "answer":   "Does the mum cook pizza on Saturdays?",
+      "startTime": "03:23"
     },
     {
       "itemType": "question",
-      "question": "Джон летить до Африки?",
+      "question": "Джон (John) летить до Африки?",
       "answer":   "Does John fly to Africa?",
-      "startTime": ":"
+      "startTime": "03:38"
     },
     {
       "itemType": "question",
       "question": "Наталі переїжджає до Словакії?",
       "answer":   "Does Natalie move to Slovakia?",
-      "startTime": ":"
+      "startTime": "03:52"
     },
     {
       "itemType": "question",
       "question": "Твій тато зустрічає тебе сьогодні?",
-      "answer":   "Does your dad meet you today?",
-      "startTime": ":"
+      "answer":   [
+        "Does your dad meet you today?",
+        "Does your father meet you today?",
+      ],
+      "startTime": "04:05"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>mice</b> /maɪs/ миші<br /><b>mouse</b> /maʊs/ миша",
+      "startTime": "04:14"
     },
     {
       "itemType": "question",
       "question": "Кіт ловить мишей?",
       "answer":   "Does a cat catch mice?",
-      "startTime": ":"
+      "startTime": "04:17"
     },
     {
       "itemType": "question",
       "question": "Він покращує англійську?",
       "answer":   "Does he improve English?",
-      "startTime": ":"
+      "startTime": "04:47"
+    },
+    {
+      "itemType": "question",
+      "question": "(Ця) жінка любить тебе?",
+      "answer":   "Does the woman love you?",
+      "startTime": "04:56"
     },
     {
       "itemType": "point",
-      "itemText": "10.Does the woman love you? ; Ця жінка любить тебе?",
-      "startTime": ":"
+      "itemText": "<b>birthday</b> /ˈbɜːθ.deɪ/ день народження<br /><b>party</b> /ˈpɑː.ti/ (UK), /ˈpɑɹ.ti/ (US) вечірка, тусовка",
+      "startTime": "5:48"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 2",
-      "startTime": ":"
+      "itemText": "<b>us</b> /əs/ нас, нам",
+      "startTime": "5:56"
     },
     {
       "itemType": "question",
       "question": "Ліз запрошує нас на день народження?",
       "answer":   "Does Liz invite us to a birthday party?",
-      "startTime": ":"
+      "startTime": "06:05"
     },
     {
       "itemType": "question",
-      "question": "Він говорить правду?",
+      "question": "Він говорить (цю) правду?",
       "answer":   "Does he say the truth?",
-      "startTime": ":"
+      "startTime": "6:35"
     },
     {
       "itemType": "question",
       "question": "Дівчина отримує насолоду від цієї страви?",
       "answer":   "Does the girl enjoy this dish?",
-      "startTime": ":"
+      "startTime": "6:51"
     },
     {
       "itemType": "question",
       "question": "Твій друг зазвичай телефонує тобі?",
       "answer":   "Does your boyfriend usually call you?",
-      "startTime": ":"
+      "startTime": "7:19"
     },
     {
       "itemType": "question",
       "question": "Вона часто говорить із ним?",
       "answer":   "Does she often talk to him?",
-      "startTime": ":"
+      "startTime": "7:44"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>neighbour</b> /ˈneɪbə/ сусід",
+      "startTime": "08:08"
     },
     {
       "itemType": "question",
-      "question": "Сусід сідає у таксі тут?",
+      "question": "(Цей) сусід сідає у таксі тут?",
       "answer":   "Does the neighbour catch the taxi here?",
-      "startTime": ":"
+      "startTime": "08:12"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>here</b> /hɪə(ɹ)/, /hɪː(ɹ)/ тут<br /><b>there</b> /ðɛə(ɹ)/, /ðɛː(ɹ)/ там",
+      "startTime": "8:37"
     },
     {
       "itemType": "question",
       "question": "Її брат створює вебсайт?",
       "answer":   "Does her brother create a website?",
-      "startTime": ":"
+      "startTime": "8:57"
     },
     {
       "itemType": "question",
       "question": "Вона займається плаванням?",
       "answer":   "Does she go swimming?",
-      "startTime": ":"
+      "startTime": "09:09"
     },
     {
       "itemType": "question",
-      "question": "Себастьян грає у великий теніс?",
+      "question": "Себастьян (Sebastian) грає у великий теніс?",
       "answer":   "Does Sebastian play lawn tennis?",
-      "startTime": ":"
+      "startTime": "09:29"
     },
     {
       "itemType": "question",
       "question": "Він любить дощову погоду?",
       "answer":   "Does he like a rainy weather?",
-      "startTime": ":"
+      "startTime": "9:52"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "itemText": "<b>dance</b> /dæns/ танцювати",
+      "startTime": "10:39"
     },
     {
       "itemType": "question",
       "question": "Та чарівна дівчина танцює?",
       "answer":   "Does that beautiful girl dance?",
-      "startTime": ":"
+      "startTime": "10:52"
     },
     {
       "itemType": "question",
-      "question": "Той студент вивчає Present Simple?",
+      "question": "(Той) студент вивчає Present Simple?",
       "answer":   "Does the student learn Present Simple?",
-      "startTime": ":"
+      "startTime": "11:15"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>weather</b> /ˈwɛðə/ погода",
+      "startTime": "11:45"
     },
     {
       "itemType": "question",
       "question": "Він чекає сонячної погоди?",
       "answer":   "Does he wait for a sunny weather?",
-      "startTime": ":"
+      "startTime": "11:47"
     },
     {
       "itemType": "question",
-      "question": "Хлопець подорожує за кордон?",
+      "question": "(Цей) хлопець подорожує за кордон?",
       "answer":   "Does the boy travel abroad?",
-      "startTime": ":"
+      "startTime": "12:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>cut</b> /kʌt/, різати, вирізати",
+      "startTime": "12:22"
     },
     {
       "itemType": "question",
       "question": "Він ріже хліб?",
       "answer":   "Does he cut bread?",
-      "startTime": ":"
+      "startTime": "12:27"
     },
     {
       "itemType": "question",
       "question": "Він хоче випити вина?",
       "answer":   "Does he want to drink wine?",
-      "startTime": ":"
+      "startTime": "12:43"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>writer</b> /ˈɹaɪ.təɹ/ письменник",
+      "startTime": "13:02"
     },
     {
       "itemType": "question",
       "question": "Письменник пише книги?",
       "answer":   "Does a writer write books?",
-      "startTime": ":"
+      "startTime": "13:04"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>nurse</b> /nɜːs/ медична сестра",
+      "startTime": "13:27"
     },
     {
       "itemType": "question",
       "question": "Медична сестра допомагає людям?",
       "answer":   "Does a nurse help people?",
-      "startTime": ":"
+      "startTime": "13:38"
     },
     {
       "itemType": "question",
       "question": "Він показує гарний результат?",
       "answer":   "Does he show a good result?",
-      "startTime": ":"
+      "startTime": "14:01"
     },
     {
       "itemType": "question",
       "question": "Твій батько відкриває новий центр?",
-      "answer":   "Does your dad open a new centre?",
-      "startTime": ":"
+      "answer":   [
+        "Does your dad open a new centre?",
+        "Does your father open a new centre?",
+      ]
+      "startTime": "14:11"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "itemText": "Does <i>з'їдає</i> закінчення <s>s</s> у дієслова:<br />The girl dances ⇨ dance<s>s</s> ⇨ Does the girl dance?",
+      "startTime": "15:11"
     },
     {
       "itemType": "question",
       "question": "Він часто пише мені повідомлення",
       "answer":   "He often writes me messages",
-      "startTime": ":"
+      "startTime": "17:08"
     },
     {
       "itemType": "question",
       "question": "Я люблю його",
       "answer":   "I love him",
-      "startTime": ":"
+      "startTime": "17:43"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>prompt</b> /pɹɒmpt/ підказка",
+      "startTime": "18:00"
     },
     {
       "itemType": "question",
       "question": "Він не користується моєю підказкою",
       "answer":   "He doesn't use my prompt",
-      "startTime": ":"
+      "startTime": "18:08"
     },
     {
       "itemType": "question",
