@@ -1,0 +1,412 @@
+{
+  "lessonId": "lesson",
+  "lessonTitle": "Урок ",
+  "lessonDescription": " ",
+  "lessonURL": "bJkSM3g-Tfs",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": "* Lesson 11",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Present Simple. Does...?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Does + h<i>e///she</i>it + присудок..?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 1",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він говорить англійською?",
+      "answer":   "Does he speak English?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона розуміє французьку?",
+      "answer":   "Does she understand French?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Воно (тварина) п'є воду?",
+      "answer":   "Does it drink water?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Мама готує піцу по суботах?",
+      "answer":   "Does the  mum cook pizza on Saturdays?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Джон летить до Африки?",
+      "answer":   "Does John fly to Africa?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Наталі переїжджає до Словакії?",
+      "answer":   "Does Natalie move to Slovakia?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Твій тато зустрічає тебе сьогодні?",
+      "answer":   "Does your dad meet you today?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Кіт ловить мишей?",
+      "answer":   "Does a cat catch mice?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він покращує англійську?",
+      "answer":   "Does he improve English?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "10.Does the woman love you? ; Ця жінка любить тебе?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 2",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ліз запрошує нас на день народження?",
+      "answer":   "Does Liz invite us to a birthday party?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він говорить правду?",
+      "answer":   "Does he say the truth?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Дівчина отримує насолоду від цієї страви?",
+      "answer":   "Does the girl enjoy this dish?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Твій друг зазвичай телефонує тобі?",
+      "answer":   "Does your boyfriend usually call you?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона часто говорить із ним?",
+      "answer":   "Does she often talk to him?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Сусід сідає у таксі тут?",
+      "answer":   "Does the neighbour catch the taxi here?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Її брат створює вебсайт?",
+      "answer":   "Does her brother create a website?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона займається плаванням?",
+      "answer":   "Does she go swimming?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Себастьян грає у великий теніс?",
+      "answer":   "Does Sebastian play lawn tennis?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він любить дощову погоду?",
+      "answer":   "Does he like a rainy weather?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Та чарівна дівчина танцює?",
+      "answer":   "Does that beautiful girl dance?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Той студент вивчає Present Simple?",
+      "answer":   "Does the student learn Present Simple?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він чекає сонячної погоди?",
+      "answer":   "Does he wait for a sunny weather?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хлопець подорожує за кордон?",
+      "answer":   "Does the boy travel abroad?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він ріже хліб?",
+      "answer":   "Does he cut bread?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він хоче випити вина?",
+      "answer":   "Does he want to drink wine?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Письменник пише книги?",
+      "answer":   "Does a writer write books?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Медична сестра допомагає людям?",
+      "answer":   "Does a nurse help people?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він показує гарний результат?",
+      "answer":   "Does he show a good result?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Твій батько відкриває новий центр?",
+      "answer":   "Does your dad open a new centre?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він часто пише мені повідомлення",
+      "answer":   "He often writes me messages",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я люблю його",
+      "answer":   "I love him",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він не користується моєю підказкою",
+      "answer":   "He doesn't use my prompt",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він знає все?",
+      "answer":   "Does he know everything?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Репортер бере інтерв'ю в людей",
+      "answer":   "The reporter interviews people",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти дякуєш її сестрі?",
+      "answer":   "Do you thank her sister?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Восени йде сніг?",
+      "answer":   "Does it snow in autumn?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Мій маленький брат не дивиться наукову фантастику",
+      "answer":   "My little brother doesn't watch science fiction",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Її маленька сестра витратила всі гроші?",
+      "answer":   "Does her little sister spend all the money?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я не знаю",
+      "answer":   "I don't know this",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не грає у волейбол гарно",
+      "answer":   "She doesn't play volleyball very well",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Люк миє машину регулярно",
+      "answer":   "Luke washes his car regularly",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він купує торт на день народження?",
+      "answer":   "Does he buy a birthday cake?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми зазвичай їздимо на роботу машиною",
+      "answer":   "We usually go to work by car",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти часто її бачиш?",
+      "answer":   "Do you often see her?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Подивись на цю гітару!",
+      "answer":   "Look at this guitar!",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона(it-3 ос.одн.) звучить чудово",
+      "answer":   "It sounds beautiful",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не дає йому номер телефону",
+      "answer":   "Sue doesn't give him a phone number",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він працює наполегливо",
+      "answer":   "He works very hard",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не вірить їм",
+      "answer":   "She doesn't believe them",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ці студенти навчаються в університеті Оксфорда",
+      "answer":   "These students study at Oxford University",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не говорить швидко",
+      "answer":   "She doesn't talk very fast",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ви практикуєте англійську регулярно?",
+      "answer":   "Do you practise English regularly?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він планує свій день?",
+      "answer":   "Does he plan his day?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти знаєш значення слова",
+      "answer":   "You know the meaning of the word",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він поспішає кожного ранку",
+      "answer":   "He hurries up every morning",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти малюєш фарбами вдома?",
+      "answer":   "Do you paint at home?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він працює вдома (віддалено)",
+      "answer":   "He works from home",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Твоя бабуся почувається добре?",
+      "answer":   "Does your granny feel well?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони підходять один одному",
+      "answer":   "They match each other",
+      "startTime": ":"
+    },
+  ]
+}
