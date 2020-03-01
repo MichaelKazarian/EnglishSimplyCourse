@@ -277,173 +277,188 @@
       "itemType": "question",
       "question": "Він знає все?",
       "answer":   "Does he know everything?",
-      "startTime": ":"
+      "startTime": "18:35"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>reporter</b> /ɹɪˈpɔːtə/ репортер<br /><b>interview</b> /ˈɪntəvjuː/ інтерв'ю",
+      "startTime": "18:55"
     },
     {
       "itemType": "question",
       "question": "Репортер бере інтерв'ю в людей",
       "answer":   "The reporter interviews people",
-      "startTime": ":"
+      "startTime": "19:02"
     },
     {
       "itemType": "question",
       "question": "Ти дякуєш її сестрі?",
       "answer":   "Do you thank her sister?",
-      "startTime": ":"
+      "startTime": "19:38"
     },
     {
       "itemType": "question",
       "question": "Восени йде сніг?",
       "answer":   "Does it snow in autumn?",
-      "startTime": ":"
+      "startTime": "19:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>little</b> /ˈlɪtəl/ малий<br /><b>science</b> /ˈsaɪəns/ наука<br /><b>fiction</b> /ˈfɪk.ʃən/ художня література",
+      "startTime": "20:25"
     },
     {
       "itemType": "question",
       "question": "Мій маленький брат не дивиться наукову фантастику",
       "answer":   "My little brother doesn't watch science fiction",
-      "startTime": ":"
+      "startTime": "20:34"
     },
     {
       "itemType": "question",
-      "question": "Її маленька сестра витратила всі гроші?",
+      "question": "Її маленька сестра витратила всі (ці) гроші?",
       "answer":   "Does her little sister spend all the money?",
-      "startTime": ":"
+      "startTime": "21:03"
     },
     {
       "itemType": "question",
-      "question": "Я не знаю",
+      "question": "Я не знаю (цього)",
       "answer":   "I don't know this",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "startTime": "21:23"
     },
     {
       "itemType": "question",
       "question": "Вона не грає у волейбол гарно",
       "answer":   "She doesn't play volleyball very well",
-      "startTime": ":"
+      "startTime": "22:03"
     },
     {
       "itemType": "question",
-      "question": "Люк миє машину регулярно",
+      "question": "Люк (Luke) миє машину регулярно",
       "answer":   "Luke washes his car regularly",
-      "startTime": ":"
+      "startTime": "22:13"
     },
     {
       "itemType": "question",
       "question": "Він купує торт на день народження?",
       "answer":   "Does he buy a birthday cake?",
-      "startTime": ":"
+      "startTime": "22:24"
     },
     {
       "itemType": "question",
       "question": "Ми зазвичай їздимо на роботу машиною",
       "answer":   "We usually go to work by car",
-      "startTime": ":"
+      "startTime": "22:37"
     },
     {
       "itemType": "question",
       "question": "Ти часто її бачиш?",
       "answer":   "Do you often see her?",
-      "startTime": ":"
+      "startTime": "22:48"
     },
     {
       "itemType": "question",
       "question": "Подивись на цю гітару!",
       "answer":   "Look at this guitar!",
-      "startTime": ":"
+      "startTime": "23:04"
     },
     {
       "itemType": "question",
-      "question": "Вона(it-3 ос.одн.) звучить чудово",
-      "answer":   "It sounds beautiful",
-      "startTime": ":"
+      "question": "Вона (it) звучить чудово",
+      "answer":   "It sounds beautifully",
+      "startTime": "23:36"
     },
     {
       "itemType": "question",
-      "question": "Вона не дає йому номер телефону",
+      "question": "Сью (Sue) йому номер телефону",
       "answer":   "Sue doesn't give him a phone number",
-      "startTime": ":"
+      "startTime": "24:09"
     },
     {
       "itemType": "question",
       "question": "Він працює наполегливо",
       "answer":   "He works very hard",
-      "startTime": ":"
+      "startTime": "24:22"
     },
     {
       "itemType": "question",
       "question": "Вона не вірить їм",
       "answer":   "She doesn't believe them",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "startTime": "24:30"
     },
     {
       "itemType": "question",
       "question": "Ці студенти навчаються в університеті Оксфорда",
       "answer":   "These students study at Oxford University",
-      "startTime": ":"
+      "startTime": "25:20"
     },
     {
       "itemType": "question",
       "question": "Вона не говорить швидко",
       "answer":   "She doesn't talk very fast",
-      "startTime": ":"
+      "startTime": "25:34"
     },
     {
       "itemType": "question",
       "question": "Ви практикуєте англійську регулярно?",
       "answer":   "Do you practise English regularly?",
-      "startTime": ":"
+      "startTime": "25:46"
     },
     {
       "itemType": "question",
       "question": "Він планує свій день?",
       "answer":   "Does he plan his day?",
-      "startTime": ":"
+      "startTime": "25:56"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>meaning</b> /ˈmiːnɪŋ/ значення",
+      "startTime": "26:04"
     },
     {
       "itemType": "question",
       "question": "Ти знаєш значення слова",
       "answer":   "You know the meaning of the word",
-      "startTime": ":"
+      "startTime": "26:06"
     },
     {
       "itemType": "question",
       "question": "Він поспішає кожного ранку",
       "answer":   "He hurries up every morning",
-      "startTime": ":"
+      "startTime": "26:34"
     },
     {
       "itemType": "question",
       "question": "Ти малюєш фарбами вдома?",
       "answer":   "Do you paint at home?",
-      "startTime": ":"
+      "startTime": "26:44"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>work from home</b> працювати <b>з</b> дому",
+      "startTime": "26:52"
     },
     {
       "itemType": "question",
-      "question": "Він працює вдома (віддалено)",
+      "question": "Він працює з дому",
       "answer":   "He works from home",
+      "startTime": "26:55"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>granny</b> /ˈɡɹæni/ бабуся",
       "startTime": ":"
     },
     {
       "itemType": "question",
       "question": "Твоя бабуся почувається добре?",
       "answer":   "Does your granny feel well?",
-      "startTime": ":"
+      "startTime": "26:46"
     },
     {
       "itemType": "question",
       "question": "Вони підходять один одному",
       "answer":   "They match each other",
-      "startTime": ":"
+      "startTime": "28:20"
     },
   ]
 }
