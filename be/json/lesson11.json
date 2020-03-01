@@ -1,7 +1,7 @@
 {
   "lessonId": "lesson11",
   "lessonTitle": "Урок 11",
-  "lessonDescription": " ",
+  "lessonDescription": "He, she та it задають питання",
   "lessonURL": "",
   "lessonItems": [
     {
@@ -364,7 +364,7 @@
     {
       "itemType": "question",
       "question": "Вона (it) звучить чудово",
-      "answer":   "It sounds beautifully",
+      "answer":   "It sounds beautiful",
       "startTime": "23:36"
     },
     {
