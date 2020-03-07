@@ -94,12 +94,6 @@
       "itemText": "<b>play</b> /pleɪ/ грати, вистава, п'єса",
       "startTime": "4:56"
     },
-    // {
-    //   "itemType": "question",
-    //   "question": "Сьзі (Susie) змінює сукні між (цими) частинами (цієї) п'єси",
-    //   "answer":   "Susie changes her dress between the parts of the play",
-    //   "startTime": "5:00"
-    // },
     {
       "itemType": "point",
       "itemText": "<b>explain</b> /ɪkˈspleɪn/ пояснювати",
@@ -368,12 +362,6 @@
       "answer":   "This woman paints beautifully",
       "startTime": "23:23"
     },
-    // {
-    //   "itemType": "question",
-    //   "question": "Сьюзі змінює сукню між (цими) частинами (цієї) п'єси",
-    //   "answer":   "Susie changes her dress between the parts of the play",
-    //   "startTime": "23:39"
-    // },
     {
       "itemType": "question",
       "question": "Вона обговорює ситуацію",
