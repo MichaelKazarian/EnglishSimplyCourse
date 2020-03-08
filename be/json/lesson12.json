@@ -1,0 +1,489 @@
+{
+  "lessonId": "lesson12",
+  "lessonTitle": "Урок 12",
+  "lessonDescription": "У He, She та It ще багато питань...",
+  "lessonURL": "",
+  "lessonItems": [
+    {
+      "itemType": "question",
+      "question": "Вона грає на (цьому) піаніно?",
+      "answer":   "Does she play the piano?",
+      "startTime": "1:32"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона сподівається?",
+      "answer":   "Does she hope?",
+      "startTime": "1:39"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>apartment</b> <i>Am</i> /əˈpɑːt.mənt/ квартира<br /><b>flat</b> <i>Br</i> /flæt/ квартира",
+      "startTime": "1:49"
+    },
+    {
+      "itemType": "question",
+      "question": "Твоя мама прибирає (цю) квартиру кожного тижня?",
+      "answer":   [
+        "Does your mum clean the apartment every week?",
+        "Does your mom clean the apartment every week?",
+        "Does your mother clean the apartment every week?",
+      ]
+      "startTime": "2:07"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>arrive</b> /əˈɹaɪv/ прибувати, повертатися",
+      "startTime": "2:25"
+    },
+    {
+      "itemType": "question",
+      "question": "Ден (Den) прибуває в обід?",
+      "answer":   "Does Den arrive in the afternoon?",
+      "startTime": "2:39"
+    },
+    {
+      "itemType": "question",
+      "question": "(Цей) учитель пояснює гарно?",
+      "answer":   "Does the teacher explain well?",
+      "startTime": "2:59"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона водить авто?",
+      "answer":   "Does she drive a car?",
+      "startTime": "3:10"
+    },
+    {
+      "itemType": "question",
+      "question": "Він бере інтерв'ю у дітей?",
+      "answer":   "Does he interview children?",
+      "startTime": "3:18"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>correct</b> /kəˈɹɛkt/ виправляти, коригувати",
+      "startTime": "3:44"
+    },
+    {
+      "itemType": "question",
+      "question": "(Цей) студент виправляє свою роботу?",
+      "answer":   "Does the student correct his work?",
+      "startTime": "3:53"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>stand</b> /stænd/ стояти",
+      "startTime": "4:04"
+    },
+    {
+      "itemType": "question",
+      "question": "(Цей) чоловік стоїть там?",
+      "answer":   "Does the man stand there?",
+      "startTime": "4:14"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>come</b> /kʌm/ приходити",
+      "startTime": "4:25"
+    },
+    {
+      "itemType": "question",
+      "question": "Його кузен приходить до тебе?",
+      "answer":   "Does his cousin come to you?",
+      "startTime": "4:29"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>exercise</b> /ˈɛk.sə.saɪz/ практикувати",
+      "startTime": "5:14"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти практикуєш англійську граматику?",
+      "answer":   [
+        "Do you practise English grammar?",
+        "Do you exercise English grammar?",
+      ],
+      "startTime": "5:27"
+    },
+    {
+      "itemType": "question",
+      "question": "Я знаю, ви/ти робите багато",
+      "answer":   "I know you do a lot",
+      "startTime": "5:51"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>much</b> /mʌt͡ʃ/ багато (необчіслювальні)<br/><b>many</b> /ˈmɛni/ багато (обчислювальні)",
+      "startTime": "5:57"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>but</b> /bʌt/ але",
+      "startTime": "6:03"
+    },
+    {
+      "itemType": "question",
+      "question": "Але ви намагаєтеся",
+      "answer":   "But you try",
+      "startTime": "6:06"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми сподіваємося на ваш прогрес",
+      "answer":   "We hope for your progress",
+      "startTime": "6:22"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>complete</b> /kəmˈpliːt/ завершувати",
+      "startTime": "6:34"
+    },
+    {
+      "itemType": "question",
+      "question": "Він не завершив домашнього завдання",
+      "answer":   "He doesn't complete the homework",
+      "startTime": "6:47"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>other</b> /ˈʌðə(ɹ)/ інший",
+      "startTime": "6:56"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти допомагаєш іншим людям?",
+      "answer":   "Do you help other people?",
+      "startTime": "6:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>next</b> /nɛkst/ наступний",
+      "startTime": "7:11"
+    },
+    {
+      "itemType": "question",
+      "question": "Плануй твій наступний день увечері",
+      "answer":   "Plan your next day in the evening",
+      "startTime": "7:27"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони дякують тобі",
+      "answer":   "They thank you",
+      "startTime": "7:36"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>somebody</b> /ˈsʌmbʌdi/, /ˈsʌmbədi/ хтось, дехто",
+      "startTime": "7:48"
+    },
+    {
+      "itemType": "question",
+      "question": "Дехто любить подорожувати до Індії (India)",
+      "answer":   [
+        "Somebody likes to travel to India",
+        "Somebody likes traveling to India",
+      ],
+      "startTime": "7:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>stay</b> /steɪ/ залишатися",
+      "startTime": "8:48"
+    },
+    {
+      "itemType": "question",
+      "question": "Моя сестра любить залишатися вдома",
+      "answer":   "My sister likes to stay at home",
+      "startTime": "8:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>introduce</b> /ˌɪntɹəˈdus/ представляти щось або когось",
+      "startTime": "9:27"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти не представив свого друга. Чому?",
+      "answer":   "You don't introduce your friend. Why?",
+      "startTime": "9:41"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>presentation</b> /ˌpɹɛzənˈteɪʃən/ презентація",
+      "startTime": "9:53"
+    },
+    {
+      "itemType": "question",
+      "question": "Він дивиться цікаві презентації",
+      "answer":   "He watches interesting presentations",
+      "startTime": "9:57"
+    },
+    {
+      "itemType": "question",
+      "question": "У нього своя компанія?",
+      "answer":   "Does he have his own company?",
+      "startTime": "10:16"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>keep</b> /kiːp/ зберігати, тримати, продовжувати щось робити",
+      "startTime": "10:30"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти зберігаєш секрет?",
+      "answer":   "Do you keep a secret?",
+      "startTime": "10:42"
+    },
+    {
+      "itemType": "question",
+      "question": "Сніг не йде",
+      "answer":   "It doesn't snow",
+      "startTime": "10:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Він ремонтує стілець?",
+      "answer":   [
+        "Does he fix a chair?",
+        "Does he repair a chair?",
+      ]
+      "startTime": "11:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>listen to</b> слухати когось або щось",
+      "startTime": "11:19"
+    },
+    {
+      "itemType": "question",
+      "question": "Я слухаю тебе",
+      "answer":   "I listen to you",
+      "startTime": "11:28"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони завершують груповий проект",
+      "answer":   "They finish a group project",
+      "startTime": "11:47"
+    },
+    {
+      "itemType": "question",
+      "question": "Лікар допомагає людям",
+      "answer":   "A doctor helps people",
+      "startTime": "12:30"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>funny</b> /ˈfʌni/ смішний, забавний<br/><b>girlfriend</b> /ˈɡɜːlfɹɛnd/ дівчина",
+      "startTime": "12:43"
+    },
+    {
+      "itemType": "question",
+      "question": "Його дівчина створює смішні мультфільми",
+      "answer":   "His girlfriend creates funny cartoons",
+      "startTime": "12:51"
+    },
+    {
+      "itemType": "question",
+      "question": "Це працює?",
+      "answer":   "Does it work?",
+      "startTime": "13:03"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не думає так",
+      "answer":   "She doesn't think so",
+      "startTime": "13:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>profession</b> /pɹəˈfɛʃən/ професія",
+      "startTime": "13:28"
+    },
+    {
+      "itemType": "question",
+      "question": "Він любить свою професію",
+      "answer":   "He likes his profession",
+      "startTime": "13:30"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>happiness</b> /ˈhæpinəs/ щастя, радість",
+      "startTime": "13:39"
+    },
+    {
+      "itemType": "question",
+      "question": "Люди часто відчувають щастя",
+      "answer":   "People often feel happiness",
+      "startTime": "13:53"
+    },
+    {
+      "itemType": "question",
+      "question": "Кейт (Kate) не працює у неділю",
+      "answer":   "Kate doesn't work on Sundays",
+      "startTime": "14:03"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>relative</b> /ˈɹɛl.ə.tɪv/ родич",
+      "startTime": "14:12"
+    },
+    {
+      "itemType": "question",
+      "question": "Дівчина зустрічає родичів",
+      "answer":   "The girl meets relatives",
+      "startTime": "14:22"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>matter</b> /ˈmætə/ мати значення, речовина, матеріал",
+      "startTime": "14:30"
+    },
+    {
+      "itemType": "question",
+      "question": "Це не має значення",
+      "answer":   "It doesn't matter",
+      "startTime": "14:33"
+    },
+    {
+      "itemType": "question",
+      "question": "Він любить сміятися?",
+      "answer":   "Does he like laughing?",
+      "startTime": "15:07"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Піт любить гарну компанію",
+      "answer":   "Pete enjoys a good company",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він часто виїжджає за місто?",
+      "answer":   "Does he often go out of a city?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми намагаємося виїжджати за місто кожного вихідного",
+      "answer":   "We try to go out of a city every weekend",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми робимо все належне від нас",
+      "answer":   "We do our best",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він робить усе належне від нього",
+      "answer":   "He does his best",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона пише захоплюючу історію",
+      "answer":   "She writes an exciting story",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти вивчаєш англійську у школі",
+      "answer":   "You study English at school",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона вивчає французьку у школі",
+      "answer":   "She studies French at a university",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Джулія вивчає німецьку?",
+      "answer":   "Does Julia study German?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони не слідують за тобою",
+      "answer":   "They don't follow you",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Працівники будують новий супермаркет",
+      "answer":   "The workers build a new supermarket",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Зазвичай іде дощ у листопаді?",
+      "answer":   "Does it usually rain in November?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Софі рідко пише повідомлення",
+      "answer":   "Sophie rarely writes messages",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона надає перевагу розмові",
+      "answer":   "She prefers conversation",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони вибирають нову квартиру?",
+      "answer":   "Do they choose a new apartment?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я не представляю цю людину",
+      "answer":   "I don't introduce this person",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона не вірить нам",
+      "answer":   "She doesn't believe us",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти хочеш запитати мене?",
+      "answer":   "Do you want to ask me?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Моя племінниця має багато хобі",
+      "answer":   "My niece has a lot of hobbies",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я люблю подорожувати до столиці України",
+      "answer":   "I like to traveltravelling to the capital of Ukraine",
+      "startTime": ":"
+    },
+  ]
+}
