@@ -85,6 +85,11 @@
       "startTime": "3:25"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>cartoon</b> /kɑːˈtuːn/ мультфільм",
+      "startTime": "3:35"
+    },
+    {
       "itemType": "question",
       "question": "(Ця) дитина дивиться мультфільм",
       "answer":   [

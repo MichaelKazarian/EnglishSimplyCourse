@@ -356,134 +356,172 @@
       "startTime": "15:07"
     },
     {
-      "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
-    },
-    {
       "itemType": "question",
-      "question": "Піт любить гарну компанію",
+      "question": "Піт (Pete) любить гарну компанію",
       "answer":   "Pete enjoys a good company",
-      "startTime": ":"
+      "startTime": "16:13"
     },
     {
       "itemType": "question",
       "question": "Він часто виїжджає за місто?",
       "answer":   "Does he often go out of a city?",
-      "startTime": ":"
+      "startTime": "16:58"
     },
     {
       "itemType": "question",
       "question": "Ми намагаємося виїжджати за місто кожного вихідного",
       "answer":   "We try to go out of a city every weekend",
-      "startTime": ":"
+      "startTime": "17:26"
+    },
+    
+    {
+      "itemType": "point",
+      "itemText": "<b>do our best</b> робити все належне від нас",
+      "startTime": "17:45"
     },
     {
       "itemType": "question",
       "question": "Ми робимо все належне від нас",
       "answer":   "We do our best",
-      "startTime": ":"
+      "startTime": "18:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>do <i>one's</i> best</b> хтось/щось робить як найкраще. Отже, one's заміняється на I/You/He/She і т.д.",
+      "startTime": "18:12"
     },
     {
       "itemType": "question",
       "question": "Він робить усе належне від нього",
       "answer":   "He does his best",
-      "startTime": ":"
+      "startTime": "18:49"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>exciting</b> /ɪkˈsaɪtɪŋ/ захопливий",
+      "startTime": "19:40"
     },
     {
       "itemType": "question",
       "question": "Вона пише захоплюючу історію",
       "answer":   "She writes an exciting story",
-      "startTime": ":"
+      "startTime": "19:47"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>French</b> /fɹɛnt͡ʃ/ французька мова",
+      "startTime": "20:18"
     },
     {
       "itemType": "question",
-      "question": "Ти вивчаєш англійську у школі",
-      "answer":   "You study English at school",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "Вона вивчає французьку у школі",
+      "question": "Вона вивчає французьку в університеті",
       "answer":   "She studies French at a university",
-      "startTime": ":"
+      "startTime": "20:33"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>German</b> /ˈd͡ʒɜːmən/ німецька мова",
+      "startTime": "21:20"
     },
     {
       "itemType": "question",
       "question": "Джулія вивчає німецьку?",
       "answer":   "Does Julia study German?",
-      "startTime": ":"
+      "startTime": "21:29"
     },
     {
       "itemType": "question",
       "question": "Вони не слідують за тобою",
       "answer":   "They don't follow you",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "startTime": "21:39"
     },
     {
       "itemType": "question",
       "question": "Працівники будують новий супермаркет",
       "answer":   "The workers build a new supermarket",
-      "startTime": ":"
+      "startTime": "22:30"
     },
     {
       "itemType": "question",
       "question": "Зазвичай іде дощ у листопаді?",
       "answer":   "Does it usually rain in November?",
-      "startTime": ":"
+      "startTime": "22:42"
     },
     {
       "itemType": "question",
-      "question": "Софі рідко пише повідомлення",
+      "question": "Софі (Sophie) рідко пише повідомлення",
       "answer":   "Sophie rarely writes messages",
-      "startTime": ":"
+      "startTime": "22:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>conversation</b> /ˌkɑn.vəɹˈseɪ.ʃən/ розмова",
+      "startTime": "23:09"
     },
     {
       "itemType": "question",
       "question": "Вона надає перевагу розмові",
       "answer":   "She prefers conversation",
-      "startTime": ":"
+      "startTime": "23:18"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>choose</b> /t͡ʃuːz/ вибирати",
+      "startTime": "23:31"
     },
     {
       "itemType": "question",
       "question": "Вони вибирають нову квартиру?",
       "answer":   "Do they choose a new apartment?",
-      "startTime": ":"
+      "startTime": "23:39"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>person</b> /ˈpɜːsən/ персона, людина",
+      "startTime": "23:46"
     },
     {
       "itemType": "question",
       "question": "Я не представляю цю людину",
       "answer":   "I don't introduce this person",
-      "startTime": ":"
+      "startTime": "23:48"
     },
     {
       "itemType": "question",
       "question": "Вона не вірить нам",
       "answer":   "She doesn't believe us",
-      "startTime": ":"
+      "startTime": "24:03"
     },
     {
       "itemType": "question",
       "question": "Ти хочеш запитати мене?",
       "answer":   "Do you want to ask me?",
-      "startTime": ":"
+      "startTime": "24:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>niece</b> /niːs/ племінниця<br />hobby /ˈhɑ.bi/ хоббі",
+      "startTime": "24:26"
     },
     {
       "itemType": "question",
       "question": "Моя племінниця має багато хобі",
       "answer":   "My niece has a lot of hobbies",
-      "startTime": ":"
+      "startTime": "24:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>capital</b> /ˈkæp.ɪ.təl/ столиця",
+      "startTime": "24:47"
     },
     {
       "itemType": "question",
       "question": "Я люблю подорожувати до столиці України",
-      "answer":   "I like to traveltravelling to the capital of Ukraine",
-      "startTime": ":"
-    },
+      "answer":   [
+        "I like travelling to the capital of Ukraine",
+        "I like to travel to the capital of Ukraine",
+      ],
+      "startTime": "24:54"
+    }
   ]
 }
