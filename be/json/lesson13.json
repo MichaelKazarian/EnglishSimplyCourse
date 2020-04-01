@@ -1,0 +1,423 @@
+{
+  "lessonId": "lesson13",
+  "lessonTitle": "Урок 13",
+  "lessonDescription": " ",
+  "lessonURL": "bJkSM3g-Tfs",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": " Present Simple. Special questions",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Why<i>//What///Where///When///How + do//</i>does + subject + verb + ...?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Wh-questions",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 1",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому ти ходиш туди?",
+      "answer":   "Why do you go there?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому ми співаємо цю пісню?",
+      "answer":   "Why do we sing this song?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що вони роблять, чим займаються?",
+      "answer":   "What do they do?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де ти зазвичай бігаєш?",
+      "answer":   "Where do you usually run?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли у них заняття?",
+      "answer":   "When do they have classes?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як ти робиш це?",
+      "answer":   "How do you make it?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли ми  показуємо виставу?",
+      "answer":   "When do we show a performance?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому ти виправляєш це?",
+      "answer":   "Why do you correct it?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "WHO (ХТО) - запитання без підмета, без do<i>//does, до  присудка додаємо -s</i>-es",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто живе тут?",
+      "answer":   " WHO LIVES HERE?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто любить тебе?",
+      "answer":   "WHO LOVES YOU?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 2",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто запрошує нас?",
+      "answer":   "Who invites us?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто відчиняє двері?",
+      "answer":   "Who opens the door?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто сподівається на краще?",
+      "answer":   "Who hopes for better?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто будує багатоповерхівку?",
+      "answer":   "Who builds a block of flats?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто допомагає?",
+      "answer":   "Who helps?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто готує смачну піцу?",
+      "answer":   "Who cooks a tasty pizza?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто надсилає повідомлення?",
+      "answer":   "Who sends a message?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто слухає пісні?",
+      "answer":   "Who listens to the songs?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто створює вебсайт?",
+      "answer":   "Who creates a website?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто обіймає тебе?",
+      "answer":   "Who hugs you?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли ти встаєш із ліжка?",
+      "answer":   "When do you get up?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як вони добираються до роботи?",
+      "answer":   "How do they get to work?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що студенти роблять?",
+      "answer":   "What do the students do?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому ці вчителі часто поспішають?",
+      "answer":   "Why do these teachers often hurry up?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто плаває у басейні?",
+      "answer":   "Who swims in a pool?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де вони навчаються?",
+      "answer":   "Where do they study?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що ти любиш їсти?",
+      "answer":   "What do you like to eat?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто лазить по деревах?",
+      "answer":   "Who climbs a tree?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де вони живуть у США?",
+      "answer":   "Where do they live in the USA?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як ти пишеш блог?",
+      "answer":   "How do you write a blog?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "does",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли він телефонує?",
+      "answer":   "When does he call?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що вона робить?",
+      "answer":   "What does she do?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де він обідає?",
+      "answer":   "Where does he have lunch?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як вона танцює?",
+      "answer":   "How does she dance?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому вона летить туди?",
+      "answer":   "Why does she fly there?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що любить Сем?",
+      "answer":   "What does Sam like?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де Ліз займається спортом?",
+      "answer":   "Where does Liz go in for sport?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли вона катається на велосипеді?",
+      "answer":   "When does she ride a bike?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як вона створює це?",
+      "answer":   "How does she create it?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому брат часто кричить?",
+      "answer":   "Why does the brother often shout?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто любить подорожувати?",
+      "answer":   "Who loves travelling?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому дівчина вивчає німецьку?",
+      "answer":   "Why does the girl study German?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Куди він ходить?",
+      "answer":   "Where does he go?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому він прибуває пізно?",
+      "answer":   "Why does he arrive late?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що компанія рекомендує?",
+      "answer":   "What does a company recommend?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли твій друг святкує день народження?",
+      "answer":   "When does your friend celebrate a birthday?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як вона покращує навики?",
+      "answer":   "How does she improve skills?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що він шукає кожного ранку?",
+      "answer":   "What does he look for every morning?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де твоя мама працює?",
+      "answer":   "Where does your mum work?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому він бігає сам?",
+      "answer":   "Why does he run alone?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де той чоловік живе?",
+      "answer":   "Where does that man live?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто часто телефонує тобі?",
+      "answer":   "Who often calls you ?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли твій батько приходить додому?",
+      "answer":   "When does your father come home?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому вчитель дає багато домашнього завдання?",
+      "answer":   "Why does the teacher give much homework?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто надає перевагу швидкій ході?",
+      "answer":   "Who prefers jogging?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де вона навчається?",
+      "answer":   "Where does she study?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як це працює?",
+      "answer":   "How does it work?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто ходить по магазинах з тобою?",
+      "answer":   "Who goes shopping with you?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли він тренується вранці?",
+      "answer":   "When does he train in the morning?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому сніг тане?",
+      "answer":   "Why does the snow melt?",
+      "startTime": ":"
+    },
+  ]
+}
