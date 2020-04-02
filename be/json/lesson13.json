@@ -1,8 +1,8 @@
 {
   "lessonId": "lesson13",
   "lessonTitle": "Урок 13",
-  "lessonDescription": "Special question. Питаємо про що, де й коли",
-  "lessonURL": "",
+  "lessonDescription": "Special question: питаємо про що, де й коли",
+  "lessonURL": "o0H3u_apii0",
   "lessonItems": [
     {
       "itemType": "point",
@@ -342,120 +342,145 @@
       "itemType": "question",
       "question": "Чому дівчина вивчає німецьку?",
       "answer":   "Why does the girl study German?",
-      "startTime": ":"
+      "startTime": "17:02"
     },
     {
       "itemType": "question",
       "question": "Куди він ходить?",
       "answer":   "Where does he go?",
-      "startTime": ":"
+      "startTime": "17:12"
     },
     {
       "itemType": "question",
       "question": "Чому він прибуває пізно?",
       "answer":   "Why does he arrive late?",
-      "startTime": ":"
+      "startTime": "17:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>recommend</b> /ɹɛkəˈmɛnd/ рекомендувати",
+      "startTime": "17:37"
     },
     {
       "itemType": "question",
       "question": "Що компанія рекомендує?",
       "answer":   "What does a company recommend?",
-      "startTime": ":"
+      "startTime": "17:49"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>celebrate</b> /ˈsɛl.ɪ.bɹeɪt/, /ˈsɛl.ə.bɹeɪt/ святкувати",
+      "startTime": "17:57"
     },
     {
       "itemType": "question",
       "question": "Коли твій друг святкує день народження?",
       "answer":   "When does your friend celebrate a birthday?",
-      "startTime": ":"
+      "startTime": "18:00"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>skill</b> /skɪl/ вміння, навик",
+      "startTime": "18:10"
     },
     {
       "itemType": "question",
       "question": "Як вона покращує навики?",
       "answer":   "How does she improve skills?",
-      "startTime": ":"
+      "startTime": "18:12"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>look for</b> шукати",
+      "startTime": "18:26"
     },
     {
       "itemType": "question",
       "question": "Що він шукає кожного ранку?",
       "answer":   "What does he look for every morning?",
-      "startTime": ":"
+      "startTime": "18:44"
     },
     {
       "itemType": "question",
       "question": "Де твоя мама працює?",
       "answer":   "Where does your mum work?",
-      "startTime": ":"
+      "startTime": "18:55"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>alone</b>  /əˈləʊn/, /əˈloʊn/ сам, один",
+      "startTime": "19:00"
     },
     {
       "itemType": "question",
       "question": "Чому він бігає сам?",
       "answer":   "Why does he run alone?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "startTime": "19:02"
     },
     {
       "itemType": "question",
       "question": "Де той чоловік живе?",
       "answer":   "Where does that man live?",
-      "startTime": ":"
+      "startTime": "19:51"
     },
     {
       "itemType": "question",
       "question": "Хто часто телефонує тобі?",
       "answer":   "Who often calls you ?",
-      "startTime": ":"
+      "startTime": "20:07"
     },
     {
       "itemType": "question",
       "question": "Коли твій батько приходить додому?",
       "answer":   "When does your father come home?",
-      "startTime": ":"
+      "startTime": "20:17"
     },
     {
       "itemType": "question",
       "question": "Чому вчитель дає багато домашнього завдання?",
       "answer":   "Why does the teacher give much homework?",
-      "startTime": ":"
+      "startTime": "20:27"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>jogging</b> /ˈdʒɒ.ɡɪŋ/ біг підтюпцем, швидка хода, джоґінґ",
+      "startTime": "20:35"
     },
     {
       "itemType": "question",
       "question": "Хто надає перевагу швидкій ході?",
       "answer":   "Who prefers jogging?",
-      "startTime": ":"
+      "startTime": "20:50"
     },
     {
       "itemType": "question",
       "question": "Де вона навчається?",
       "answer":   "Where does she study?",
-      "startTime": ":"
+      "startTime": "20:58"
     },
     {
       "itemType": "question",
       "question": "Як це працює?",
       "answer":   "How does it work?",
-      "startTime": ":"
+      "startTime": "21:06"
     },
     {
       "itemType": "question",
       "question": "Хто ходить по магазинах з тобою?",
       "answer":   "Who goes shopping with you?",
-      "startTime": ":"
+      "startTime": "21:14"
     },
     {
       "itemType": "question",
       "question": "Коли він тренується вранці?",
       "answer":   "When does he train in the morning?",
-      "startTime": ":"
+      "startTime": "21:23"
     },
     {
       "itemType": "question",
       "question": "Чому сніг тане?",
       "answer":   "Why does the snow melt?",
-      "startTime": ":"
-    },
+      "startTime": "21:32"
+    }
   ]
 }
