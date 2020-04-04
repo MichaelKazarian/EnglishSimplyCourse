@@ -6,11 +6,6 @@
   "lessonItems": [
     {
       "itemType": "point",
-      "itemText": " Present Simple. Special questions",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
       "itemText": "<i>Why/What/Where/When/How</i> + do/does + subject + verb + ...?",
       "startTime": "0:50"
     },
@@ -127,7 +122,7 @@
     },
     {
       "itemType": "question",
-      "question": "Хто відчиняє двері?",
+      "question": "Хто відчиняє (ці) двері?",
       "answer":   "Who opens the door?",
       "startTime": "7:22"
     },
@@ -178,7 +173,7 @@
     },
     {
       "itemType": "question",
-      "question": "Хто слухає пісні?",
+      "question": "Хто слухає (ці) пісні?",
       "answer":   "Who listens to the songs?",
       "startTime": "8:53"
     },
@@ -213,7 +208,7 @@
     },
     {
       "itemType": "question",
-      "question": "Що студенти роблять?",
+      "question": "Що (ці) студенти роблять?",
       "answer":   "What do the students do?",
       "startTime": "10:44"
     },
@@ -325,10 +320,10 @@
     },
     {
       "itemType": "question",
-      "question": "Чому брат часто кричить?",
+      "question": "Чому (цей) брат часто кричить?",
       "answer":   [
         "Why does the brother often shout?",
-        "Why does the brother often cry?",
+        "Why does the brother often cry?"
       ],
       "startTime": "15:06"
     },
@@ -340,7 +335,7 @@
     },
     {
       "itemType": "question",
-      "question": "Чому дівчина вивчає німецьку?",
+      "question": "Чому (ця) дівчина вивчає німецьку?",
       "answer":   "Why does the girl study German?",
       "startTime": "17:02"
     },
@@ -437,7 +432,7 @@
     },
     {
       "itemType": "question",
-      "question": "Чому вчитель дає багато домашнього завдання?",
+      "question": "Чому (цей) вчитель дає багато домашнього завдання?",
       "answer":   "Why does the teacher give much homework?",
       "startTime": "20:27"
     },
@@ -478,7 +473,7 @@
     },
     {
       "itemType": "question",
-      "question": "Чому сніг тане?",
+      "question": "Чому (цей) сніг тане?",
       "answer":   "Why does the snow melt?",
       "startTime": "21:32"
     }
