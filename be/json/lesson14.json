@@ -1,0 +1,448 @@
+{
+  "lessonId": "lesson14",
+  "lessonTitle": "Урок 14",
+  "lessonDescription": "Продовжуємо вивчати спеціальні запитання",
+  "lessonURL": "",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": "What/Why/Where/When/Who/How/How many/How much/Whose/Whom + do/does + subject + predicate...?",
+      "startTime": "0:50"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>how many</b> скільки. <i>/Вживається для злічувальних іменників/</i>",
+      "startTime": "1:40"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>how much</b> скільки. <i>/Вживається для <b>НЕ</b>злічувальних іменників, рідин, речовин та погодних явищ/</i>",
+      "startTime": "1:52"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>whose</b> чий",
+      "startTime": "2:27"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>whom</b> кому",
+      "startTime": "2:31"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Запитання до підмета: Who + predicate -s<i>/</i>-es + ...?",
+      "startTime": "2:47"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Запитання до підмета: What + predicate -s/-es + ...?",
+      "startTime": "3:31"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому ти розповідаєш це?",
+      "answer":   "Why do you tell it?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Які помилки він робить?",
+      "answer":   "What mistakes does he do?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "На якій вулиці ти живеш?",
+      "answer":   "What street do you live in?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як вона малює?",
+      "answer":   "How does she paint?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як ти робиш проект?",
+      "answer":   "How do you make a project?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки гривень у тебе?",
+      "answer":   "How many hryvnias do you have?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки солі ти кладеш?",
+      "answer":   "How much salt do you put?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки їжі він купує на тиждень?",
+      "answer":   "How much food does he buy a week?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки доларів вона платить?",
+      "answer":   "How many dollars does she pay?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де твоя сестра навчається?",
+      "answer":   "Where does your sister study?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 2",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто любить мокачино?",
+      "answer":   "Who likes moccachino?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому твій батько йде з дому рано?",
+      "answer":   "Why does your father leave home early?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Який план нам потрібно?",
+      "answer":   "What plan do we need?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли вона ходить до (цього) спортклубу?",
+      "answer":   "When does she go to the sport club?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки людей ти запрошуєш?",
+      "answer":   "How many people do you invite?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де ти працюєш?",
+      "answer":   "Where do you work?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто завжди кричить?",
+      "answer":   "Who always shouts?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки любові потребує людина?",
+      "answer":   "How much love does a person need?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли твоя маленька сестра лягає",
+      "answer":   "When does your little sister go to bed?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": " спати?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки грошей потребує людина?",
+      "answer":   "How much money does a person need?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "    ",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "В який сезон іде дощ?",
+      "answer":   "What season does it rain?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де твоя сім'я купує продукти?",
+      "answer":   "Where does your family buy food products?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому тобі подобається спілкування?",
+      "answer":   "Why do you like communication?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто навчає тебе?",
+      "answer":   "Who teaches you?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки енергії ти витрачаєш на день?",
+      "answer":   "How much energy do you spend a day?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто хоче приєднатися до групи?",
+      "answer":   "Who wants to join a group?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки у неї запитань?",
+      "answer":   "How many questions does she have?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто має квитки на гру з бейсболу?",
+      "answer":   "Who has tickets for a baseball game?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки вільного часу у тебе є сьогодні увечері?",
+      "answer":   "How much free time do you have tonight?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто телефонує тобі кожного вечора?",
+      "answer":   "Who calls you every evening?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Які кольори тобі подобаються?",
+      "answer":   "What colours do you like?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Де вони сідають на (цей) автобус?",
+      "answer":   "Where do they catch the bus?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Скільки прийомів їжі у тебе на день?",
+      "answer":   "How many meals do you have a day?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "До якого моря вона їздить?",
+      "answer":   "What sea does she go to?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Яким фільмам твоя мама надає перевагу?",
+      "answer":   "What movies does your mum prefer?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як часто вони надсилають допомогу?",
+      "answer":   "How often do they send help?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому вона встає так пізно?",
+      "answer":   "Why does she get up so late?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Куди вони зазвичай подорожують?",
+      "answer":   "Where do they usually travel?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "З ким ти ходиш по магазинах?",
+      "answer":   "Who do you go shopping with?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "100.Who does Liz watch movies with? ; З ким Ліз дивиться фільми?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що ти робиш? Чим займаєшся?",
+      "answer":   "What do you do?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що додається до кави?",
+      "answer":   "What adds to coffee?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Які історії вона любить розповідати?",
+      "answer":   "What stories does she like to tell?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що містить ці пункти?",
+      "answer":   "What includes these points?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що вдосконалює його?",
+      "answer":   "What improves him?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що надихає її?",
+      "answer":   "What inspires her?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Як ти допомагаєш іншим?",
+      "answer":   "How do you help others?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто допомагає тобі?",
+      "answer":   "Who helps you?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "З ким ти допомагаєш іншим?",
+      "answer":   "Who do you help others with?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "",
+      "answer":   "Whom do you believe? Кому ти віриш?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чиї черевики ти купуєш?",
+      "answer":   "Whose shoes do you buy?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Кому вони продають?",
+      "answer":   "Whom do they sell?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Над ким ти смієшся?",
+      "answer":   "Who do you laugh at?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чий будинок вона відвідує?",
+      "answer":   "Whose house does she visit?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Чий капелюх вона носить?",
+      "answer":   "Whose hat does she wear?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто завжди перемагає?",
+      "answer":   "Who always wins?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що падає з неба?",
+      "answer":   "What falls from the sky?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто має чотири ноги?",
+      "answer":   "Who has four legs?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Що кипить при 100 градусах?",
+      "answer":   "What boils at 100 degrees?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Хто любить тебе?",
+      "answer":   "Who loves you?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Кого ти любиш?",
+      "answer":   "Whom do you love?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": " ",
+      "startTime": ":"
+    },
+  ]
+}
