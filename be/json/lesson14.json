@@ -21,12 +21,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>whose</b> чий",
+      "itemText": "<b>whose</b> /huːz/ чий",
       "startTime": "2:27"
     },
     {
       "itemType": "point",
-      "itemText": "<b>whom</b> кому",
+      "itemText": "<b>whom</b> /huːm/ кому",
       "startTime": "2:31"
     },
     {
@@ -40,409 +40,499 @@
       "startTime": "3:31"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>tell</b> /tɛl/ розповідати",
+      "startTime": "4:15"
+    },
+    {
       "itemType": "question",
       "question": "Чому ти розповідаєш це?",
       "answer":   "Why do you tell it?",
-      "startTime": ":"
+      "startTime": "4:19"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>mistake</b> /mɪˈsteɪk/ помилка, помилятися",
+      "startTime": "4:27"
     },
     {
       "itemType": "question",
       "question": "Які помилки він робить?",
       "answer":   "What mistakes does he do?",
-      "startTime": ":"
+      "startTime": "4:30"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>what</b> перед іменником перекладається як <b>ЯКИЙ</b>",
+      "startTime": "4:43"
     },
     {
       "itemType": "question",
       "question": "На якій вулиці ти живеш?",
       "answer":   "What street do you live in?",
-      "startTime": ":"
+      "startTime": "5:31"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>what ... do you live in?</b> де ти живеш?",
+      "startTime": "5:55"
     },
     {
       "itemType": "question",
       "question": "Як вона малює?",
       "answer":   "How does she paint?",
-      "startTime": ":"
+      "startTime": "3:39"
     },
     {
       "itemType": "question",
       "question": "Як ти робиш проект?",
       "answer":   "How do you make a project?",
-      "startTime": ":"
+      "startTime": "6:46"
     },
     {
       "itemType": "question",
-      "question": "Скільки гривень у тебе?",
+      "question": "Скільки гривень (hryvnias) у тебе?",
       "answer":   "How many hryvnias do you have?",
-      "startTime": ":"
+      "startTime": "7:26"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>salt</b> /sɔlt/, /sɑlt/ сіль",
+      "startTime": "7:51"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>put</b> /pʊt/ класти",
+      "startTime": "8:17"
     },
     {
       "itemType": "question",
       "question": "Скільки солі ти кладеш?",
       "answer":   "How much salt do you put?",
-      "startTime": ":"
+      "startTime": "8:19"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>food</b> /fuːd/ їжа",
+      "startTime": "8:48"
     },
     {
       "itemType": "question",
       "question": "Скільки їжі він купує на тиждень?",
       "answer":   "How much food does he buy a week?",
-      "startTime": ":"
+      "startTime": "8:51"
     },
     {
       "itemType": "question",
-      "question": "Скільки доларів вона платить?",
+      "question": "Скільки доларів (dollar) вона платить?",
       "answer":   "How many dollars does she pay?",
-      "startTime": ":"
+      "startTime": "9:10"
     },
     {
       "itemType": "question",
       "question": "Де твоя сестра навчається?",
       "answer":   "Where does your sister study?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 2",
-      "startTime": ":"
+      "startTime": "9:21"
     },
     {
       "itemType": "question",
-      "question": "Хто любить мокачино?",
+      "question": "Хто любить мокачино (moccachino)?",
       "answer":   "Who likes moccachino?",
-      "startTime": ":"
+      "startTime": "10:46"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>leave home</b> залишати дім, йти з дому",
+      "startTime": "11:02"
     },
     {
       "itemType": "question",
       "question": "Чому твій батько йде з дому рано?",
       "answer":   "Why does your father leave home early?",
-      "startTime": ":"
+      "startTime": "11:04"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>need</b> /niːd/ потрібно",
+      "startTime": "11:26"
     },
     {
       "itemType": "question",
       "question": "Який план нам потрібно?",
       "answer":   "What plan do we need?",
-      "startTime": ":"
+      "startTime": "11:35"
     },
     {
       "itemType": "question",
       "question": "Коли вона ходить до (цього) спортклубу?",
       "answer":   "When does she go to the sport club?",
-      "startTime": ":"
+      "startTime": "11:45"
     },
     {
       "itemType": "question",
       "question": "Скільки людей ти запрошуєш?",
       "answer":   "How many people do you invite?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "Де ти працюєш?",
-      "answer":   "Where do you work?",
-      "startTime": ":"
+      "startTime": "11:56"
     },
     {
       "itemType": "question",
       "question": "Хто завжди кричить?",
       "answer":   "Who always shouts?",
-      "startTime": ":"
+      "startTime": "12:24"
     },
     {
       "itemType": "question",
       "question": "Скільки любові потребує людина?",
       "answer":   "How much love does a person need?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "Коли твоя маленька сестра лягає",
-      "answer":   "When does your little sister go to bed?",
-      "startTime": ":"
+      "startTime": "12:47"
     },
     {
       "itemType": "point",
-      "itemText": " спати?",
-      "startTime": ":"
+      "itemText": "<b>go to bed</b> лягати спати",
+      "startTime": "12:55"
+    },
+    {
+      "itemType": "question",
+      "question": "Коли твоя маленька сестра лягає спати?",
+      "answer":   "When does your little sister go to bed?",
+      "startTime": "12:58"
     },
     {
       "itemType": "question",
       "question": "Скільки грошей потребує людина?",
       "answer":   "How much money does a person need?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "    ",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "startTime": "13:48"
     },
     {
       "itemType": "question",
       "question": "В який сезон іде дощ?",
       "answer":   "What season does it rain?",
-      "startTime": ":"
+      "startTime": "15:04"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>product</b> /ˈpɹɒd.əkt/ продукт, результат",
+      "startTime": "15:21"
     },
     {
       "itemType": "question",
       "question": "Де твоя сім'я купує продукти?",
       "answer":   "Where does your family buy food products?",
-      "startTime": ":"
+      "startTime": "15:24"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>communication</b> /kəˌmjuːnɪˈkeɪʃən/ спілкування",
+      "startTime": "15:35"
     },
     {
       "itemType": "question",
       "question": "Чому тобі подобається спілкування?",
       "answer":   "Why do you like communication?",
-      "startTime": ":"
+      "startTime": "15:44"
     },
     {
       "itemType": "question",
       "question": "Хто навчає тебе?",
       "answer":   "Who teaches you?",
-      "startTime": ":"
+      "startTime": "15:57"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>energy</b> /ˈɛnəd͡ʒi/ енергія",
+      "startTime": "16:13"
     },
     {
       "itemType": "question",
       "question": "Скільки енергії ти витрачаєш на день?",
       "answer":   "How much energy do you spend a day?",
-      "startTime": ":"
+      "startTime": "16:16"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>spend a day</b> витрачати на день",
+      "startTime": "16:22"
     },
     {
       "itemType": "question",
       "question": "Хто хоче приєднатися до групи?",
       "answer":   "Who wants to join a group?",
-      "startTime": ":"
+      "startTime": "16:39"
     },
     {
       "itemType": "question",
       "question": "Скільки у неї запитань?",
       "answer":   "How many questions does she have?",
-      "startTime": ":"
+      "startTime": "16:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>ticket</b> /ˈtɪkɪt/ квиток",
+      "startTime": "17:14"
     },
     {
       "itemType": "question",
       "question": "Хто має квитки на гру з бейсболу?",
       "answer":   "Who has tickets for a baseball game?",
-      "startTime": ":"
+      "startTime": "17:25"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>tonight</b> /təˈnaɪt/ сьогодні увечері",
+      "startTime": "17:46"
     },
     {
       "itemType": "question",
       "question": "Скільки вільного часу у тебе є сьогодні увечері?",
       "answer":   "How much free time do you have tonight?",
-      "startTime": ":"
+      "startTime": "17:56"
     },
     {
       "itemType": "question",
-      "question": "Хто телефонує тобі кожного вечора?",
+      "question": "Хто телефонує (call) тобі кожного вечора?",
       "answer":   "Who calls you every evening?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "startTime": "18:16"
     },
     {
       "itemType": "question",
       "question": "Які кольори тобі подобаються?",
       "answer":   "What colours do you like?",
-      "startTime": ":"
+      "startTime": "19:28"
     },
     {
       "itemType": "question",
       "question": "Де вони сідають на (цей) автобус?",
       "answer":   "Where do they catch the bus?",
-      "startTime": ":"
+      "startTime": "19:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>meal</b> /miːl/ їжа, прийом їжі; мука́",
+      "startTime": "19:55"
     },
     {
       "itemType": "question",
       "question": "Скільки прийомів їжі у тебе на день?",
       "answer":   "How many meals do you have a day?",
-      "startTime": ":"
+      "startTime": "20:16"
     },
     {
       "itemType": "question",
       "question": "До якого моря вона їздить?",
       "answer":   "What sea does she go to?",
-      "startTime": ":"
+      "startTime": "20:42"
     },
     {
       "itemType": "question",
-      "question": "Яким фільмам твоя мама надає перевагу?",
+      "question": "Яким фільмам твоя мама (mum) надає перевагу?",
       "answer":   "What movies does your mum prefer?",
-      "startTime": ":"
+      "startTime": "20:59"
     },
     {
       "itemType": "question",
       "question": "Як часто вони надсилають допомогу?",
       "answer":   "How often do they send help?",
-      "startTime": ":"
+      "startTime": "21:08"
     },
     {
       "itemType": "question",
       "question": "Чому вона встає так пізно?",
       "answer":   "Why does she get up so late?",
-      "startTime": ":"
+      "startTime": "21:17"
     },
     {
       "itemType": "question",
       "question": "Куди вони зазвичай подорожують?",
       "answer":   "Where do they usually travel?",
-      "startTime": ":"
+      "startTime": "21:26"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>with</b> /wɪð/ з",
+      "startTime": "21:57"
     },
     {
       "itemType": "question",
       "question": "З ким ти ходиш по магазинах?",
       "answer":   "Who do you go shopping with?",
-      "startTime": ":"
+      "startTime": "22:07"
     },
-    {
-      "itemType": "point",
-      "itemText": "100.Who does Liz watch movies with? ; З ким Ліз дивиться фільми?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+        {
+      "itemType": "question",
+      "question": "Who does Liz watch movies with?",
+      "answer":   "З ким Ліз дивиться фільми?",
+      "startTime": "22:24"
     },
     {
       "itemType": "question",
-      "question": "Що ти робиш? Чим займаєшся?",
+      "question": "Що ти робиш? (Чим займаєшся?)",
       "answer":   "What do you do?",
-      "startTime": ":"
+      "startTime": "23:52"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>add</b> /æd/ додавати",
+      "startTime": "24:19"
     },
     {
       "itemType": "question",
       "question": "Що додається до кави?",
       "answer":   "What adds to coffee?",
-      "startTime": ":"
+      "startTime": "24:29"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>story</b> /ˈstɔː.ɹi/ історія, розповідь",
+      "startTime": "24:45"
     },
     {
       "itemType": "question",
       "question": "Які історії вона любить розповідати?",
       "answer":   "What stories does she like to tell?",
-      "startTime": ":"
+      "startTime": "24:47"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>point</b> /pɔɪnt/ пункт, точка, точка зору",
+      "startTime": "24:58"
     },
     {
       "itemType": "question",
       "question": "Що містить ці пункти?",
       "answer":   "What includes these points?",
-      "startTime": ":"
+      "startTime": "25:11"
     },
     {
       "itemType": "question",
       "question": "Що вдосконалює його?",
       "answer":   "What improves him?",
-      "startTime": ":"
+      "startTime": "25:24"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>inspire</b> /ɪn.ˈspaɪə(ɹ)/ надихати",
+      "startTime": "25:34"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>her</b> /ˈhɜː(ɹ)/ її",
+      "startTime": "25:39"
     },
     {
       "itemType": "question",
       "question": "Що надихає її?",
       "answer":   "What inspires her?",
-      "startTime": ":"
+      "startTime": "25:42"
     },
     {
       "itemType": "question",
       "question": "Як ти допомагаєш іншим?",
       "answer":   "How do you help others?",
-      "startTime": ":"
+      "startTime": "26:27"
     },
     {
       "itemType": "question",
       "question": "Хто допомагає тобі?",
       "answer":   "Who helps you?",
-      "startTime": ":"
+      "startTime": "26:34"
     },
     {
       "itemType": "question",
       "question": "З ким ти допомагаєш іншим?",
       "answer":   "Who do you help others with?",
-      "startTime": ":"
+      "startTime": "26:45"
     },
     {
       "itemType": "question",
-      "question": "",
-      "answer":   "Whom do you believe? Кому ти віриш?",
-      "startTime": ":"
+      "question": "Whom do you believe?",
+      "answer":   "Кому ти віриш?",
+      "startTime": "27:18"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "itemText": "<b>shoe</b> /ʃuː/ черевики",
+      "startTime": "28:08"
     },
     {
       "itemType": "question",
       "question": "Чиї черевики ти купуєш?",
       "answer":   "Whose shoes do you buy?",
-      "startTime": ":"
+      "startTime": "28:10"
     },
     {
       "itemType": "question",
       "question": "Кому вони продають?",
       "answer":   "Whom do they sell?",
-      "startTime": ":"
+      "startTime": "28:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>laugh at</b> сміятися над",
+      "startTime": "28:28"
     },
     {
       "itemType": "question",
       "question": "Над ким ти смієшся?",
       "answer":   "Who do you laugh at?",
-      "startTime": ":"
+      "startTime": "28:32"
     },
     {
       "itemType": "question",
       "question": "Чий будинок вона відвідує?",
       "answer":   "Whose house does she visit?",
-      "startTime": ":"
+      "startTime": "28:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>hat</b> /hæt/ капелюх, шапка",
+      "startTime": "29:06"
     },
     {
       "itemType": "question",
       "question": "Чий капелюх вона носить?",
       "answer":   "Whose hat does she wear?",
-      "startTime": ":"
+      "startTime": "29:08"
     },
     {
       "itemType": "question",
       "question": "Хто завжди перемагає?",
       "answer":   "Who always wins?",
-      "startTime": ":"
+      "startTime": "29:15"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>fall</b> /fɔːl/ падати, падіння; осінь",
+      "startTime": "29:23"
     },
     {
       "itemType": "question",
       "question": "Що падає з неба?",
       "answer":   "What falls from the sky?",
-      "startTime": ":"
+      "startTime": "29:29"
     },
     {
       "itemType": "question",
       "question": "Хто має чотири ноги?",
       "answer":   "Who has four legs?",
-      "startTime": ":"
+      "startTime": "29:36"
     },
     {
       "itemType": "question",
       "question": "Що кипить при 100 градусах?",
       "answer":   "What boils at 100 degrees?",
-      "startTime": ":"
+      "startTime": "29:46"
     },
     {
       "itemType": "question",
       "question": "Хто любить тебе?",
       "answer":   "Who loves you?",
-      "startTime": ":"
+      "startTime": "29:59"
     },
     {
       "itemType": "question",
       "question": "Кого ти любиш?",
       "answer":   "Whom do you love?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": " ",
-      "startTime": ":"
-    },
+      "startTime": "30:04"
+    }
   ]
 }
