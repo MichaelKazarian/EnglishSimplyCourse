@@ -1,0 +1,416 @@
+{
+  "lessonId": "lesson15",
+  "lessonTitle": "Урок 15",
+  "lessonDescription": "TO BE in Present Simple",
+  "lessonURL": "bJkSM3g-Tfs",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": "I am = I'm",
+      "startTime": "0:51"
+    },
+    {
+      "itemType": "point",
+      "itemText": "We, you, they <b>+ are</b> = we're, you're, they're",
+      "startTime": "1:09"
+    },
+    {
+      "itemType": "point",
+      "itemText": "He,she,it <b>+ is</b> = He's,she's,it's",
+      "startTime": "1:20"
+    },
+    {
+      "itemType": "question",
+      "question": "Я є студент",
+      "answer":   "I am a student",
+      "startTime": "1:39"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>clever</b> /ˈklɛvɚ/ розумний",
+      "startTime": "1:49"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - розумний студент",
+      "answer":   "I am a clever student",
+      "startTime": "1:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>hard-working</b> працелюбний",
+      "startTime": "2:06"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - працелюбний",
+      "answer":   "I'm hard-working",
+      "startTime": "2:12"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>good-looking</b> привабливий",
+      "startTime": "2:21"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - привабливий",
+      "answer":   "I'm good-looking",
+      "startTime": "2:27"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - англійський студент",
+      "answer":   "You are an English student",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - творчий англійський студент",
+      "answer":   "You are a creative English student",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - чудова людина",
+      "answer":   "You're a perfect person",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - класна команда",
+      "answer":   "We are a great team",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - тут",
+      "answer":   "We are here",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "10.We're <b>free</b> ; Ми - вільні",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 2",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - вдома",
+      "answer":   "They are at home",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - голодні",
+      "answer":   "They are hungry",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - спраглі",
+      "answer":   "They're thirsty",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - позитивний",
+      "answer":   "He is positive",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - сильний",
+      "answer":   "He is strong",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - працелюбний",
+      "answer":   "He's hard-working",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - розумна",
+      "answer":   "She is clever",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - гарненька",
+      "answer":   "She is pretty",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - творча",
+      "answer":   "She's creative",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Воно - маленьке",
+      "answer":   "It is little",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Воно - пухнасте",
+      "answer":   "It is fluffy",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Воно - на дереві",
+      "answer":   "It's in a tree",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - на станції",
+      "answer":   "I am at the station",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - за столом",
+      "answer":   "We are at the table",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Йому - двадцять шість",
+      "answer":   "He is twenty-six",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - втомлені",
+      "answer":   "They are tired",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - турист",
+      "answer":   "He is a tourist",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - із братом",
+      "answer":   "She is with a brother",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - вчений",
+      "answer":   "You are a scientist",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - квиток",
+      "answer":   "It is a ticket",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - гарний чоловік",
+      "answer":   "He is a good husband",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - гарний водій",
+      "answer":   "He's a good driver",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - приваблива жінка",
+      "answer":   "She is a pretty woman",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - гарна дружина",
+      "answer":   "She's a nice wife",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - гарний письменник",
+      "answer":   "I am a good writer",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - гарний у викладанні",
+      "answer":   "I'm good at teaching",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - гарні друзі",
+      "answer":   "We are good friends",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - біля моря",
+      "answer":   "We're at the seaside",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - успіх",
+      "answer":   "It is success",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - тварина",
+      "answer":   "It's an animal",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - гарні люди",
+      "answer":   "They are good people",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - зразки для наслідування",
+      "answer":   "They're role-models",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - кращий,ніж вчора",
+      "answer":   "You are better than yesterday",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - вдома",
+      "answer":   "You're at home",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - великий професіонал",
+      "answer":   "She's a great professional",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Воно - надворі",
+      "answer":   "It's outside",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Тварина - у (всередині) будинку",
+      "answer":   "The animal is inside the house",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - мої сусіди",
+      "answer":   "They're my neighbours",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - у ресторані",
+      "answer":   "You're in a restaurant",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - англійська мова",
+      "answer":   "It's the English language",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - в університеті",
+      "answer":   "We're at a university",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - там",
+      "answer":   "He's there",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - тут",
+      "answer":   "You're here",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - на Кларк Стріт",
+      "answer":   "They're in Clark Street",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - професійний фотограф",
+      "answer":   "She's a professional photographer",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "it is news) ; Це - новини",
+      "answer":   "It's news ("новини" вживаємо лише в однині",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - близнята",
+      "answer":   "We're twins",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - гарний у спілкуванні",
+      "answer":   "I'm good at communication",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я пишаюся тобою",
+      "answer":   "I'm proud of you",
+      "startTime": ":"
+    },
+  ]
+}

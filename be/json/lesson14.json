@@ -2,7 +2,7 @@
   "lessonId": "lesson14",
   "lessonTitle": "Урок 14",
   "lessonDescription": "Продовжуємо вивчати спеціальні запитання",
-  "lessonURL": "",
+  "lessonURL": "hKmD1xu0fGI",
   "lessonItems": [
     {
       "itemType": "point",
@@ -11,12 +11,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>how many</b> скільки. <i>/Вживається для злічувальних іменників/</i>",
+      "itemText": "<b>how many</b> скільки. <i>/Вживається для злічуваних іменників/</i>",
       "startTime": "1:40"
     },
     {
       "itemType": "point",
-      "itemText": "<b>how much</b> скільки. <i>/Вживається для <b>НЕ</b>злічувальних іменників, рідин, речовин та погодних явищ/</i>",
+      "itemText": "<b>how much</b> скільки. <i>/Вживається для <b>НЕ</b>злічуваних іменників, рідин, речовин та погодних явищ/</i>",
       "startTime": "1:52"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>what ... do you live in?</b> де ти живеш?",
+      "itemText": "<b>what ... do you live in?</b> де саме ти живеш?",
       "startTime": "5:55"
     },
     {
@@ -307,7 +307,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>meal</b> /miːl/ їжа, прийом їжі; мука́",
+      "itemText": "<b>meal</b> /miːl/ їжа, прийом їжі́",
       "startTime": "19:55"
     },
     {

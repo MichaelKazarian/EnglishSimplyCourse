@@ -115,7 +115,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>much</b> /mʌt͡ʃ/ багато (необчіслювальні)<br/><b>many</b> /ˈmɛni/ багато (обчислювальні)",
+      "itemText": "<b>much</b> /mʌt͡ʃ/ багато (незлічувані)<br/><b>many</b> /ˈmɛni/ багато (злічувані)",
       "startTime": "5:57"
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "itemType": "question",
-      "question": "Він не завершив домашнього завдання",
+      "question": "Він не завершує (цього) домашнього завдання",
       "answer":   "He doesn't complete the homework",
       "startTime": "6:47"
     },
@@ -166,7 +166,7 @@
       "itemType": "question",
       "question": "Плануй твій наступний день увечері",
       "answer":   "Plan your next day in the evening",
-      "startTime": "7:27"
+      "startTime": "7:22"
     },
     {
       "itemType": "question",
@@ -206,7 +206,7 @@
     },
     {
       "itemType": "question",
-      "question": "Ти не представив свого друга. Чому?",
+      "question": "Ти не представляєш свого друга. Чому?",
       "answer":   "You don't introduce your friend. Why?",
       "startTime": "9:41"
     },
@@ -278,7 +278,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>funny</b> /ˈfʌni/ смішний, забавний<br/><b>girlfriend</b> /ˈɡɜːlfɹɛnd/ дівчина",
+      "itemText": "<b>funny</b> /ˈfʌni/ смішний <br/><b>girlfriend</b> /ˈɡɜːlfɹɛnd/ дівчина",
       "startTime": "12:43"
     },
     {
@@ -308,7 +308,7 @@
       "itemType": "question",
       "question": "Він любить свою професію",
       "answer":   "He likes his profession",
-      "startTime": "13:30"
+      "startTime": "13:29"
     },
     {
       "itemType": "point",
@@ -334,13 +334,13 @@
     },
     {
       "itemType": "question",
-      "question": "Дівчина зустрічає родичів",
+      "question": "(Ця) дівчина зустрічає родичів",
       "answer":   "The girl meets relatives",
       "startTime": "14:22"
     },
     {
       "itemType": "point",
-      "itemText": "<b>matter</b> /ˈmætə/ мати значення, речовина, матеріал",
+      "itemText": "<b>matter</b> /ˈmætə/ мати значення ",
       "startTime": "14:30"
     },
     {
@@ -358,7 +358,10 @@
     {
       "itemType": "question",
       "question": "Піт (Pete) любить гарну компанію",
-      "answer":   "Pete enjoys a good company",
+      "answer":   [
+        "Pete enjoys a good company",
+        "Pete likes a good company"
+      ],
       "startTime": "16:13"
     },
     {
@@ -371,9 +374,8 @@
       "itemType": "question",
       "question": "Ми намагаємося виїжджати за місто кожного вихідного",
       "answer":   "We try to go out of a city every weekend",
-      "startTime": "17:26"
+      "startTime": "17:19"
     },
-
     {
       "itemType": "point",
       "itemText": "<b>do our best</b> робити все належне від нас",
@@ -387,7 +389,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>do <i>one's</i> best</b> хтось/щось робить як найкраще. Отже, one's заміняється на I/You/He/She і т.д.",
+      "itemText": "<b>do <i>one's</i> best</b> хтось/щось робить якнайкраще",
       "startTime": "18:12"
     },
     {
@@ -398,7 +400,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>exciting</b> /ɪkˈsaɪtɪŋ/ захопливий",
+      "itemText": "<b>exciting</b> /ɪkˈsaɪtɪŋ/ захоплюючий",
       "startTime": "19:40"
     },
     {

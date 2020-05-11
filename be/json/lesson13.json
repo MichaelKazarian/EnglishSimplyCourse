@@ -1,7 +1,7 @@
 {
   "lessonId": "lesson13",
   "lessonTitle": "Урок 13",
-  "lessonDescription": "Special question: питаємо про що, де й коли",
+  "lessonDescription": "Special questions: питаємо про що, де й коли",
   "lessonURL": "o0H3u_apii0",
   "lessonItems": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "Special question або Wh-questions",
+      "itemText": "Special questions або Wh-questions",
       "startTime": "1:37"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>class</b> /klɑːs/, /klæs/ клас, заняття",
+      "itemText": "<b>class</b> /klɑːs/, /klæs/ заняття, урок",
       "startTime": "3:12"
     },
     {
@@ -76,8 +76,11 @@
     },
     {
       "itemType": "question",
-      "question": "Як ти робиш це?",
-      "answer":   "How do you make it?",
+      "question": "Як ти робиш (make) це?",
+      "answer":   [
+        "How do you make it?",
+        "How do you make this?"
+      ],
       "startTime": "3:28"
     },
     {
@@ -89,7 +92,10 @@
     {
       "itemType": "question",
       "question": "Чому ти виправляєш це?",
-      "answer":   "Why do you correct it?",
+      "answer":   [
+        "Why do you correct it?",
+        "Why do you fix it?"
+      ],
       "startTime": "3:52"
     },
     {
@@ -134,7 +140,7 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>block of flats</b> ",
+      "itemText": "<b>block of flats</b> багатоповерхівка",
       "startTime": "7:47"
     },
     {
@@ -262,7 +268,10 @@
     {
       "itemType": "question",
       "question": "Коли він телефонує?",
-      "answer":   "When does he call?",
+      "answer":   [
+        "When does he call?",
+        "When does he phone?"
+      ],
       "startTime": "13:28"
     },
     {
@@ -310,7 +319,10 @@
     {
       "itemType": "question",
       "question": "Як вона створює це?",
-      "answer":   "How does she create it?",
+      "answer":   [
+        "How does she create it?",
+        "How does she create this?"
+      ],
       "startTime": "14:57"
     },
     {
@@ -329,8 +341,11 @@
     },
     {
       "itemType": "question",
-      "question": "Хто любить подорожувати?",
-      "answer":   "Who loves travelling?",
+      "question": "Хто любить подорожувати (travelling)?",
+      "answer":   [
+        "Who loves travelling?",
+        "Who likes travelling?"
+      ],
       "startTime": "16:26"
     },
     {
@@ -375,12 +390,12 @@
     },
     {
       "itemType": "point",
-      "itemText": "<b>skill</b> /skɪl/ вміння, навик",
+      "itemText": "<b>skill</b> /skɪl/ вміння, навичка",
       "startTime": "18:10"
     },
     {
       "itemType": "question",
-      "question": "Як вона покращує навики?",
+      "question": "Як вона покращує навички?",
       "answer":   "How does she improve skills?",
       "startTime": "18:12"
     },
@@ -398,7 +413,11 @@
     {
       "itemType": "question",
       "question": "Де твоя мама працює?",
-      "answer":   "Where does your mum work?",
+      "answer":   [
+        "Where does your mum work?",
+        "Where does your mom work?",
+        "Where does your mother work?"
+      ],
       "startTime": "18:55"
     },
     {
@@ -421,7 +440,10 @@
     {
       "itemType": "question",
       "question": "Хто часто телефонує тобі?",
-      "answer":   "Who often calls you ?",
+      "answer":   [
+        "Who often calls you?",
+        "Who often phone you?"
+      ],
       "startTime": "20:07"
     },
     {
