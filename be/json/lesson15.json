@@ -62,177 +62,234 @@
       "itemType": "question",
       "question": "Ти - англійський студент",
       "answer":   "You are an English student",
-      "startTime": ":"
+      "startTime": "2:43"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>creative</b> /kɹiˈeɪtɪv/ творчий",
+      "startTime": "2:53"
     },
     {
       "itemType": "question",
       "question": "Ти - творчий англійський студент",
       "answer":   "You are a creative English student",
-      "startTime": ":"
+      "startTime": "2:55"
     },
     {
       "itemType": "question",
       "question": "Ти - чудова людина",
       "answer":   "You're a perfect person",
-      "startTime": ":"
+      "startTime": "3:03"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>great</b> /ɡɹeɪt/ класний, відмінний",
+      "startTime": "3:10"
     },
     {
       "itemType": "question",
       "question": "Ми - класна команда",
       "answer":   "We are a great team",
-      "startTime": ":"
+      "startTime": "3:12"
     },
     {
       "itemType": "question",
-      "question": "Ми - тут",
+      "question": "Ми є тут",
       "answer":   "We are here",
-      "startTime": ":"
+      "startTime": "3:19"
     },
     {
       "itemType": "point",
-      "itemText": "10.We're <b>free</b> ; Ми - вільні",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 2",
-      "startTime": ":"
+      "itemText": "<b>free</b> /fɹiː/ вільний",
+      "startTime": "3:26"
     },
     {
       "itemType": "question",
-      "question": "Вони - вдома",
+      "question": "Ми є вільні",
+      "answer":   [
+        "We're free",
+        "We are free"
+      ],
+      "startTime": "3:32"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони є вдома",
       "answer":   "They are at home",
-      "startTime": ":"
+      "startTime": "4:19"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>hungry</b> /ˈhʌŋ.ɡɹi/ голодний",
+      "startTime": "4:29"
     },
     {
       "itemType": "question",
-      "question": "Вони - голодні",
+      "question": "Вони є голодні",
       "answer":   "They are hungry",
-      "startTime": ":"
+      "startTime": "4:38"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>thirsty</b> /ˈθɜː(ɹ)st.i/ спраглий",
+      "startTime": "4:47"
     },
     {
       "itemType": "question",
-      "question": "Вони - спраглі",
-      "answer":   "They're thirsty",
-      "startTime": ":"
+      "question": "Вони є спраглі",
+      "answer":   [
+        "They are thirsty",
+        "They're thirsty"
+      ],
+      "startTime": "4:59"
     },
     {
       "itemType": "question",
-      "question": "Він - позитивний",
+      "question": "Він є позитивний",
       "answer":   "He is positive",
-      "startTime": ":"
+      "startTime": "5:05"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>strong</b> /stɹɔŋ/ сильний",
+      "startTime": "5:12"
     },
     {
       "itemType": "question",
-      "question": "Він - сильний",
+      "question": "Він є сильний",
       "answer":   "He is strong",
-      "startTime": ":"
+      "startTime": "5:20"
     },
     {
       "itemType": "question",
       "question": "Він - працелюбний",
       "answer":   "He's hard-working",
-      "startTime": ":"
+      "startTime": "5:26"
     },
     {
       "itemType": "question",
       "question": "Вона - розумна",
       "answer":   "She is clever",
-      "startTime": ":"
+      "startTime": "5:32"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>pretty</b> /ˈpɹɪti/ гарний, милий",
+      "startTime": "5:39"
     },
     {
       "itemType": "question",
       "question": "Вона - гарненька",
       "answer":   "She is pretty",
-      "startTime": ":"
+      "startTime": "5:47"
     },
     {
       "itemType": "question",
       "question": "Вона - творча",
       "answer":   "She's creative",
-      "startTime": ":"
+      "startTime": "5:53"
     },
     {
       "itemType": "question",
       "question": "Воно - маленьке",
       "answer":   "It is little",
-      "startTime": ":"
+      "startTime": "5:59"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "itemText": "<b>fluffy</b> /flʌfi/ пухнастий",
+      "startTime": "6:30"
     },
     {
       "itemType": "question",
       "question": "Воно - пухнасте",
       "answer":   "It is fluffy",
-      "startTime": ":"
+      "startTime": "6:38"
     },
     {
       "itemType": "question",
       "question": "Воно - на дереві",
       "answer":   "It's in a tree",
-      "startTime": ":"
+      "startTime": "6:46"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>station</b> /ˈsteɪʃən/ станція",
+      "startTime": "6:57"
     },
     {
       "itemType": "question",
       "question": "Я - на станції",
       "answer":   "I am at the station",
-      "startTime": ":"
+      "startTime": "7:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>at the table</b> за столом",
+      "startTime": "7:15"
     },
     {
       "itemType": "question",
       "question": "Ми - за столом",
       "answer":   "We are at the table",
-      "startTime": ":"
+      "startTime": "7:23"
     },
     {
       "itemType": "question",
       "question": "Йому - двадцять шість",
       "answer":   "He is twenty-six",
-      "startTime": ":"
+      "startTime": "7:29"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>tired</b> /taɪəd/ втомлений",
+      "startTime": "7:39"
     },
     {
       "itemType": "question",
       "question": "Вони - втомлені",
       "answer":   "They are tired",
-      "startTime": ":"
+      "startTime": "7:47"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>tourist</b> /ˈtʊəɹɪst/ турист",
+      "startTime": "7:53"
     },
     {
       "itemType": "question",
       "question": "Він - турист",
       "answer":   "He is a tourist",
-      "startTime": ":"
+      "startTime": "7:54"
     },
     {
       "itemType": "question",
       "question": "Вона - із братом",
       "answer":   "She is with a brother",
-      "startTime": ":"
+      "startTime": "8:04"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>scientist</b> /ˈsaɪən.tɪst/ вчений, науковець",
+      "startTime": "8:13"
     },
     {
       "itemType": "question",
       "question": "Ти - вчений",
       "answer":   "You are a scientist",
-      "startTime": ":"
+      "startTime": "8:21"
     },
     {
       "itemType": "question",
       "question": "Це - квиток",
       "answer":   "It is a ticket",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "startTime": "8:26"
     },
     {
       "itemType": "question",
       "question": "Він - гарний чоловік",
       "answer":   "He is a good husband",
-      "startTime": ":"
+      "startTime": "10:20"
     },
     {
       "itemType": "question",
