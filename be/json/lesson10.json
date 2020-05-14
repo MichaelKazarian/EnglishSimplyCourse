@@ -398,6 +398,11 @@
       "startTime": "18:59"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>restaurant</b> /ˈɹɛs.t(ə).ɹənt/ ресторан",
+      "startTime": "19:00"
+    },
+    {
       "itemType": "question",
       "question": "Її чоловік не працює в ресторані",
       "answer":   "Her husband doesn't work in a restaurant",
