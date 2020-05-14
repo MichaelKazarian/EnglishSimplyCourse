@@ -472,7 +472,7 @@
       "question": "Це - англійська мова",
       "answer":   [
         "It's the English language",
-        "It is the English language",
+        "It is the English language"
       ],
       "startTime": "16:44"
     },
@@ -520,7 +520,7 @@
       "itemType": "question",
       "question": "Це - новини",
       "answer":   [
-        "It is news"
+        "It is news",
         "It's news"
       ],
       "startTime": "18:04"
