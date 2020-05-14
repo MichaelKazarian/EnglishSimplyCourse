@@ -292,182 +292,266 @@
       "startTime": "10:20"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>driver</b> /ˈdɹaɪ.və(ɹ)/ водій",
+      "startTime": "10:30"
+    },
+    {
       "itemType": "question",
       "question": "Він - гарний водій",
       "answer":   "He's a good driver",
-      "startTime": ":"
+      "startTime": "10:31"
     },
     {
       "itemType": "question",
       "question": "Вона - приваблива жінка",
       "answer":   "She is a pretty woman",
-      "startTime": ":"
+      "startTime": "10:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>nice</b> /naɪs/ гарний, привабливий",
+      "startTime": "10:43"
     },
     {
       "itemType": "question",
       "question": "Вона - гарна дружина",
       "answer":   "She's a nice wife",
-      "startTime": ":"
+      "startTime": "10:46"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>writer</b> /ˈɹaɪ.tə(ɹ)/ письменник",
+      "startTime": "11:02"
     },
     {
       "itemType": "question",
       "question": "Я - гарний письменник",
       "answer":   "I am a good writer",
-      "startTime": ":"
+      "startTime": "11:14"
     },
     {
       "itemType": "question",
       "question": "Я - гарний у викладанні",
       "answer":   "I'm good at teaching",
-      "startTime": ":"
+      "startTime": "11:20"
+    },
+    
+    {
+      "itemType": "point",
+      "itemText": "<b>to be good at</b> бути гарним у чомусь",
+      "startTime": "11:26"
     },
     {
       "itemType": "question",
       "question": "Ми - гарні друзі",
       "answer":   "We are good friends",
-      "startTime": ":"
+      "startTime": "11:50"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>to be at the [seaside]</b> бути біля [моря]",
+      "startTime": "12:06"
     },
     {
       "itemType": "question",
       "question": "Ми - біля моря",
-      "answer":   "We're at the seaside",
-      "startTime": ":"
+      "answer":   "We are at the seaside",
+      "startTime": "12:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>success</b> /səkˈsɛs/ успіх",
+      "startTime": "12:21"
     },
     {
       "itemType": "question",
       "question": "Це - успіх",
       "answer":   "It is success",
-      "startTime": ":"
+      "startTime": "12:36"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>animal</b> /ˈænɪməl/ тварина",
+      "startTime": "12:41"
     },
     {
       "itemType": "question",
       "question": "Це - тварина",
       "answer":   "It's an animal",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "startTime": "12:42"
     },
     {
       "itemType": "question",
       "question": "Вони - гарні люди",
       "answer":   "They are good people",
-      "startTime": ":"
+      "startTime": "13:13"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>role-models</b> зразок для наслідування",
+      "startTime": "13:27"
     },
     {
       "itemType": "question",
       "question": "Вони - зразки для наслідування",
-      "answer":   "They're role-models",
-      "startTime": ":"
+      "answer":   "They are role-models",
+      "startTime": "13:35"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>better</b> /ˈbɛtə/ кращий<br/><b>good / better / the best</b> добрий, кращий, найкращий",
+      "startTime": "13:51"
     },
     {
       "itemType": "question",
       "question": "Ти - кращий,ніж вчора",
       "answer":   "You are better than yesterday",
-      "startTime": ":"
+      "startTime": "14:02"
     },
     {
-      "itemType": "question",
-      "question": "Ти - вдома",
-      "answer":   "You're at home",
-      "startTime": ":"
+      "itemType": "point",
+      "itemText": "<b>than</b> /ðæn/, /ðɛn/ ніж",
+      "startTime": "14:10"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>professional</b> /pɹəˈfɛʃənəl/ професіонал",
+      "startTime": "14:22"
     },
     {
       "itemType": "question",
       "question": "Вона - великий професіонал",
       "answer":   "She's a great professional",
-      "startTime": ":"
+      "startTime": "14:24"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>outside</b> /ˈaʊtsaɪd/ зовні, на вулиці",
+      "startTime": "14:54"
     },
     {
       "itemType": "question",
-      "question": "Воно - надворі",
-      "answer":   "It's outside",
-      "startTime": ":"
+      "question": "Воно є надворі",
+      "answer":   [
+        "It's outside",
+        "It is outside"
+      ],
+      "startTime": "15:03"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>inside</b> /ɪnˈsaɪd/ всередені",
+      "startTime": "15:14"
     },
     {
       "itemType": "question",
-      "question": "Тварина - у (всередині) будинку",
+      "question": "(Ця) тварина - у (всередині) будинку",
       "answer":   "The animal is inside the house",
-      "startTime": ":"
+      "startTime": "15:33"
     },
     {
       "itemType": "question",
       "question": "Вони - мої сусіди",
-      "answer":   "They're my neighbours",
-      "startTime": ":"
+      "answer":   "They are my neighbours",
+      "startTime": "15:42"
     },
     {
       "itemType": "question",
       "question": "Ти - у ресторані",
-      "answer":   "You're in a restaurant",
-      "startTime": ":"
+      "answer":   "You are in a restaurant",
+      "startTime": "15:57"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "itemText": "<b>language</b> /ˈlæŋɡwɪd͡ʒ/ мова",
+      "startTime": "13:36"
     },
     {
       "itemType": "question",
       "question": "Це - англійська мова",
-      "answer":   "It's the English language",
-      "startTime": ":"
+      "answer":   [
+        "It's the English language",
+        "It is the English language",
+      ],
+      "startTime": "16:44"
     },
     {
       "itemType": "question",
       "question": "Ми - в університеті",
-      "answer":   "We're at a university",
-      "startTime": ":"
+      "answer":   "We are at a university",
+      "startTime": "16:51"
     },
     {
       "itemType": "question",
       "question": "Він - там",
-      "answer":   "He's there",
-      "startTime": ":"
+      "answer":   "He is there",
+      "startTime": "16:57"
     },
     {
       "itemType": "question",
       "question": "Ти - тут",
-      "answer":   "You're here",
-      "startTime": ":"
+      "answer":   "You are here",
+      "startTime": "17:03"
     },
     {
       "itemType": "question",
-      "question": "Вони - на Кларк Стріт",
-      "answer":   "They're in Clark Street",
-      "startTime": ":"
+      "question": "Вони - на Кларк Стріт (Clark Street)",
+      "answer":   "They are in Clark Street",
+      "startTime": "17:11"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>photographer</b> /fəˈtɒɡɹəfə/ фотограф",
+      "startTime": "17:35"
     },
     {
       "itemType": "question",
       "question": "Вона - професійний фотограф",
-      "answer":   "She's a professional photographer",
-      "startTime": ":"
+      "answer":   "She is a professional photographer",
+      "startTime": "17:39"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>news</b> /njuːz/ новини. 'Новини' вживаємо лише в однині",
+      "startTime": "17:53"
     },
     {
       "itemType": "question",
-      "question": "it is news) ; Це - новини",
-      "answer":   "It's news ("новини" вживаємо лише в однині",
-      "startTime": ":"
+      "question": "Це - новини",
+      "answer":   [
+        "It is news"
+        "It's news"
+      ],
+      "startTime": "18:04"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>twin</b> /twɪn/ близнюк",
+      "startTime": "18:48"
     },
     {
       "itemType": "question",
       "question": "Ми - близнята",
-      "answer":   "We're twins",
-      "startTime": ":"
+      "answer":   "We are twins",
+      "startTime": "18:54"
     },
     {
       "itemType": "question",
       "question": "Я - гарний у спілкуванні",
       "answer":   "I'm good at communication",
-      "startTime": ":"
+      "startTime": "19:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>proud</b> /pɹaʊd/ пишатися",
+      "startTime": "19:11"
     },
     {
       "itemType": "question",
       "question": "Я пишаюся тобою",
       "answer":   "I'm proud of you",
-      "startTime": ":"
-    },
+      "startTime": "19:17"
+    }
   ]
 }
