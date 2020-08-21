@@ -1,0 +1,428 @@
+{
+  "lessonId": "lesson",
+  "lessonTitle": "Урок ",
+  "lessonDescription": " ",
+  "lessonURL": "bJkSM3g-Tfs",
+  "lessonItems": [
+    {
+      "itemType": "point",
+      "itemText": "* Lesson 16",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>To be</b> in Present Simple",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Negative Sentences",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "I am not <i> We,you,they are not (aren't) </i> He,she,it is not (isn't)",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Interrogative Sentences",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Am I...? <i> Are we,you,they...?</i> Is he,she,it...?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 1",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - не лікар",
+      "answer":   "I am not a doctor",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - не в сільській місцевості",
+      "answer":   "I am not in the countryside",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - не німецькі студенти",
+      "answer":   "We are not the German students",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - не в музеї",
+      "answer":   "We aren't in a museum",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - не в місті",
+      "answer":   "They are not in a city",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - не фотографи",
+      "answer":   "They aren't photographers",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - не в офісі",
+      "answer":   "You are not in an office",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - не сумний",
+      "answer":   "You aren't sad",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - не поліцейський",
+      "answer":   "He is not a policeman",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - не вдома",
+      "answer":   "He isn't at home",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 2",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - не медсестра",
+      "answer":   "She is not a nurse",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - не в театрі",
+      "answer":   "She isn't in a theatre",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - не помилка",
+      "answer":   "It is not a mistake",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - не теплий вечір",
+      "answer":   "It isn't a warm  evening",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - не на роботі",
+      "answer":   "I am not at work",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - не біля моря",
+      "answer":   "They aren't at the seaside",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - не в Харкові",
+      "answer":   "We aren't in Kharkiv",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - не відвідувач",
+      "answer":   "He isn't a visitor",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - не гравці",
+      "answer":   "They aren't players",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - не словник",
+      "answer":   "It isn't a dictionary",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 3",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Я - на Воттс Стріт?",
+      "answer":   "Am I in Watts Street?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - у бібліотеці?",
+      "answer":   "Are we in the library?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - голодний?",
+      "answer":   "Are you hungry?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - на стадіоні Вімблдон?",
+      "answer":   "Are they at Wimbledon Stadium?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - твоє хобі?",
+      "answer":   "Is it your hobby?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Він - готовий до спілкування?",
+      "answer":   "Is he ready for communication?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - хоробра?",
+      "answer":   "Is she brave?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - добрий?",
+      "answer":   "Are you kind?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Цей чоловік - студент?",
+      "answer":   "Is the man a student?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - щасливі?",
+      "answer":   "Are we happy?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 4",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Джейн - письменниця?",
+      "answer":   "Is Jane a writer?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ті люди - науковці?",
+      "answer":   "Are those people the scientists?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - твій блог?",
+      "answer":   "Is it your blog?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Тобі - холодно?",
+      "answer":   "Are you cold?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Йому - жарко?",
+      "answer":   "Is he hot?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - обід?",
+      "answer":   "Is it the afternoon?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - у школі?",
+      "answer":   "Are you at school?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - подарунок?",
+      "answer":   "Is it a present?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Твій тато - в аеропорті?",
+      "answer":   "Is your dad at the airport?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 5",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ден - не співак",
+      "answer":   "Dan isn't a singer",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - квітка?",
+      "answer":   "Is it a flower?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - шлях?",
+      "answer":   "Is it a way?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Моя мама - не зла",
+      "answer":   "My mum isn't angry",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вона - добра і мила?",
+      "answer":   "Is she kind and lovely?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - зразок для наслідування?",
+      "answer":   "Are you a role-model?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - весело?",
+      "answer":   "Is it fun?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Мої сестри - не танцівниці",
+      "answer":   "My sisters aren't dancers",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Cьогодні - не п'ятниця",
+      "answer":   "It isn't Friday today",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Вони - на роботі?",
+      "answer":   "Are they at work?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - не в кафе",
+      "answer":   "We aren't in a cafe",
+      "startTime": ":"
+    },
+    {
+      "itemType": "point",
+      "itemText": "** Slide 6",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - не шоколадна плитка",
+      "answer":   "It isn't a chocolate bar",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - спортивний переможець?",
+      "answer":   "Are you a sport winner?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - не північ",
+      "answer":   "It isn't a midnight",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Діана - в Індії?",
+      "answer":   "Is Diana in India?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Погода - не сонячна",
+      "answer":   "The weather isn't sunny",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ми - не готові до цього завдання",
+      "answer":   "We aren't ready for this task",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ці речі - не його",
+      "answer":   "These things aren't his",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ця парасолька - не її",
+      "answer":   "This umbrella isn't her",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Це - довга подорож?",
+      "answer":   "Is it a long journey?",
+      "startTime": ":"
+    },
+    {
+      "itemType": "question",
+      "question": "Ти - готовий до продовження?",
+      "answer":   "Are you ready to go on?",
+      "startTime": ":"
+    },
+  ]
+}
