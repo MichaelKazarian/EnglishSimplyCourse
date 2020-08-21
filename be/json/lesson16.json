@@ -1,114 +1,89 @@
 {
-  "lessonId": "lesson",
-  "lessonTitle": "Урок ",
-  "lessonDescription": " ",
-  "lessonURL": "bJkSM3g-Tfs",
+  "lessonId": "lesson16",
+  "lessonTitle": "Урок 16",
+  "lessonDescription": "Як to be чи не to be у present Simple",
+  "lessonURL": "",
   "lessonItems": [
     {
       "itemType": "point",
-      "itemText": "* Lesson 16",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>To be</b> in Present Simple",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Negative Sentences",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
       "itemText": "I am not <i> We,you,they are not (aren't) </i> He,she,it is not (isn't)",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "Interrogative Sentences",
-      "startTime": ":"
+      "startTime": "1:05"
     },
     {
       "itemType": "point",
       "itemText": "Am I...? <i> Are we,you,they...?</i> Is he,she,it...?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 1",
-      "startTime": ":"
+      "startTime": "2:27"
     },
     {
       "itemType": "question",
       "question": "Я - не лікар",
       "answer":   "I am not a doctor",
-      "startTime": ":"
+      "startTime": "2:35"
     },
     {
       "itemType": "question",
-      "question": "Я - не в сільській місцевості",
+      "question": "Я - не в (цій) сільській місцевості",
       "answer":   "I am not in the countryside",
-      "startTime": ":"
+      "startTime": "2:50"
     },
     {
       "itemType": "question",
-      "question": "Ми - не німецькі студенти",
+      "question": "Ми - не німецькі (ці) студенти",
       "answer":   "We are not the German students",
-      "startTime": ":"
+      "startTime": "3:06"
     },
     {
       "itemType": "question",
       "question": "Ми - не в музеї",
       "answer":   "We aren't in a museum",
-      "startTime": ":"
+      "startTime": "3:18"
     },
     {
       "itemType": "question",
       "question": "Вони - не в місті",
       "answer":   "They are not in a city",
-      "startTime": ":"
+      "startTime": "3:33"
     },
     {
       "itemType": "question",
       "question": "Вони - не фотографи",
       "answer":   "They aren't photographers",
-      "startTime": ":"
+      "startTime": "3:43"
     },
     {
       "itemType": "question",
       "question": "Ти - не в офісі",
       "answer":   "You are not in an office",
-      "startTime": ":"
+      "startTime": "3:53"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>sad</b> /sæd/ сумний",
+      "startTime": "4:05"
     },
     {
       "itemType": "question",
       "question": "Ти - не сумний",
       "answer":   "You aren't sad",
-      "startTime": ":"
+      "startTime": "4:22"
     },
     {
       "itemType": "question",
       "question": "Він - не поліцейський",
       "answer":   "He is not a policeman",
-      "startTime": ":"
+      "startTime": "4:32"
     },
     {
       "itemType": "question",
       "question": "Він - не вдома",
       "answer":   "He isn't at home",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 2",
-      "startTime": ":"
+      "startTime": "4:41"
     },
     {
       "itemType": "question",
       "question": "Вона - не медсестра",
       "answer":   "She is not a nurse",
-      "startTime": ":"
+      "startTime": "5:29"
     },
     {
       "itemType": "question",
