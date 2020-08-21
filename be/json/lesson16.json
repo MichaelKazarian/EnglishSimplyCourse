@@ -89,131 +89,161 @@
       "itemType": "question",
       "question": "Вона - не в театрі",
       "answer":   "She isn't in a theatre",
-      "startTime": ":"
+      "startTime": "5:49"
     },
     {
       "itemType": "question",
       "question": "Це - не помилка",
       "answer":   "It is not a mistake",
-      "startTime": ":"
+      "startTime": "6:00"
     },
     {
       "itemType": "question",
       "question": "Це - не теплий вечір",
-      "answer":   "It isn't a warm  evening",
-      "startTime": ":"
+      "answer":   "It isn't a warm evening",
+      "startTime": "6:12"
     },
     {
       "itemType": "question",
       "question": "Я - не на роботі",
       "answer":   "I am not at work",
-      "startTime": ":"
+      "startTime": "6:23"
     },
     {
       "itemType": "question",
       "question": "Вони - не біля моря",
       "answer":   "They aren't at the seaside",
-      "startTime": ":"
+      "startTime": "6:36"
     },
     {
       "itemType": "question",
-      "question": "Ми - не в Харкові",
+      "question": "Ми - не в Харкові (Kharkiv)",
       "answer":   "We aren't in Kharkiv",
-      "startTime": ":"
+      "startTime": "6:53"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>visitor</b> /ˈvɪzɪtə/ відвідувач",
+      "startTime": "7:01"
     },
     {
       "itemType": "question",
       "question": "Він - не відвідувач",
       "answer":   "He isn't a visitor",
-      "startTime": ":"
+      "startTime": "7:04"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>player</b> /ˈpleɪə(ɹ)/ гравець",
+      "startTime": "7:26"
     },
     {
       "itemType": "question",
       "question": "Вони - не гравці",
       "answer":   "They aren't players",
-      "startTime": ":"
+      "startTime": "7:28"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>dictionary</b> /ˈdɪkʃənɛɹi/ словник",
+      "startTime": "7:39"
     },
     {
       "itemType": "question",
       "question": "Це - не словник",
       "answer":   "It isn't a dictionary",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "startTime": "8:06"
     },
     {
       "itemType": "question",
-      "question": "Я - на Воттс Стріт?",
+      "question": "Я - на Воттс Стріт (Watts Street)?",
       "answer":   "Am I in Watts Street?",
-      "startTime": ":"
+      "startTime": "9:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Перед назвою вулиці ставимо IN",
+      "startTime": "9:45"
     },
     {
       "itemType": "question",
       "question": "Ми - у бібліотеці?",
       "answer":   "Are we in the library?",
-      "startTime": ":"
+      "startTime": "10:00"
     },
     {
       "itemType": "question",
       "question": "Ти - голодний?",
       "answer":   "Are you hungry?",
-      "startTime": ":"
+      "startTime": "10:08"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>stadium</b> /ˈsteɪ.di.əm/ стадіон",
+      "startTime": "10:21"
     },
     {
       "itemType": "question",
-      "question": "Вони - на стадіоні Вімблдон?",
+      "question": "Вони - на стадіоні Вімблдон (Wimbledon Stadium)?",
       "answer":   "Are they at Wimbledon Stadium?",
-      "startTime": ":"
+      "startTime": "10:29"
     },
     {
       "itemType": "question",
       "question": "Це - твоє хобі?",
       "answer":   "Is it your hobby?",
-      "startTime": ":"
+      "startTime": "10:38"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>ready</b> /ˈɹɛdi/ бути готовим",
+      "startTime": "10:44"
     },
     {
       "itemType": "question",
       "question": "Він - готовий до спілкування?",
       "answer":   "Is he ready for communication?",
-      "startTime": ":"
+      "startTime": "10:47"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>brave</b> /bɹeɪv/ хоробрий",
+      "startTime": "10:58"
     },
     {
       "itemType": "question",
       "question": "Вона - хоробра?",
       "answer":   "Is she brave?",
-      "startTime": ":"
+      "startTime": "11:08"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>kind</b> /kaɪnd/ добрий",
+      "startTime": "11:15"
     },
     {
       "itemType": "question",
       "question": "Ти - добрий?",
       "answer":   "Are you kind?",
-      "startTime": ":"
+      "startTime": "11:18"
     },
     {
       "itemType": "question",
       "question": "Цей чоловік - студент?",
       "answer":   "Is the man a student?",
-      "startTime": ":"
+      "startTime": "11:25"
     },
     {
       "itemType": "question",
       "question": "Ми - щасливі?",
       "answer":   "Are we happy?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "startTime": "11:33"
     },
     {
       "itemType": "question",
-      "question": "Джейн - письменниця?",
+      "question": "Джейн (Jane) - письменниця?",
       "answer":   "Is Jane a writer?",
-      "startTime": ":"
+      "startTime": "12:29"
     },
     {
       "itemType": "question",
