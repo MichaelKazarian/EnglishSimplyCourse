@@ -246,188 +246,262 @@
       "startTime": "12:29"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>those</b> /ðoʊz/ ті",
+      "startTime": "12:43"
+    },
+    {
       "itemType": "question",
       "question": "Ті люди - науковці?",
       "answer":   "Are those people the scientists?",
-      "startTime": ":"
+      "startTime": "12:56"
     },
     {
       "itemType": "question",
       "question": "Це - твій блог?",
       "answer":   "Is it your blog?",
-      "startTime": ":"
+      "startTime": "13:15"
     },
     {
-      "itemType": "question",
-      "question": "Тобі - холодно?",
-      "answer":   "Are you cold?",
-      "startTime": ":"
+      "itemType": "point",
+      "itemText": "<b>hot</b> /hɑt/ жарко, жаркий",
+      "startTime": "13:23"
     },
     {
       "itemType": "question",
       "question": "Йому - жарко?",
       "answer":   "Is he hot?",
-      "startTime": ":"
+      "startTime": "13:35"
     },
     {
       "itemType": "question",
       "question": "Це - обід?",
       "answer":   "Is it the afternoon?",
-      "startTime": ":"
+      "startTime": "13:44"
     },
     {
       "itemType": "question",
       "question": "Ти - у школі?",
       "answer":   "Are you at school?",
-      "startTime": ":"
+      "startTime": "13:55"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>present</b> /ˈpɹɛzənt/ подарунок, простий",
+      "startTime": "13:58"
     },
     {
       "itemType": "question",
       "question": "Це - подарунок?",
       "answer":   "Is it a present?",
-      "startTime": ":"
+      "startTime": "14:00"
     },
     {
       "itemType": "question",
       "question": "Твій тато - в аеропорті?",
       "answer":   "Is your dad at the airport?",
-      "startTime": ":"
+      "startTime": "14:09"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "itemText": "<b>singer</b> /ˈsɪŋə/ співак",
+      "startTime": "15:37"
     },
     {
       "itemType": "question",
-      "question": "Ден - не співак",
+      "question": "Ден (Dan) - не співак",
       "answer":   "Dan isn't a singer",
-      "startTime": ":"
+      "startTime": "15:41"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>flower</b> /ˈflaʊ.ə/ квітка",
+      "startTime": "15:49"
     },
     {
       "itemType": "question",
       "question": "Це - квітка?",
       "answer":   "Is it a flower?",
-      "startTime": ":"
+      "startTime": "15:50"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>way</b> /weɪ/ шлях, дорога, путь",
+      "startTime": "15:55"
     },
     {
       "itemType": "question",
       "question": "Це - шлях?",
       "answer":   "Is it a way?",
-      "startTime": ":"
+      "startTime": "15:57"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>angry</b> /ˈæŋ.ɡɹi/ злий, сердитий",
+      "startTime": "16:12"
     },
     {
       "itemType": "question",
       "question": "Моя мама - не зла",
       "answer":   "My mum isn't angry",
-      "startTime": ":"
+      "startTime": "16:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>lovely</b> /ˈlʌvli/ чудовий, милий",
+      "startTime": "16:28"
     },
     {
       "itemType": "question",
       "question": "Вона - добра і мила?",
       "answer":   "Is she kind and lovely?",
-      "startTime": ":"
+      "startTime": "16:29"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>role-model</b> зразок для наслідування",
+      "startTime": "16:48"
     },
     {
       "itemType": "question",
       "question": "Ти - зразок для наслідування?",
       "answer":   "Are you a role-model?",
-      "startTime": ":"
+      "startTime": "16:50"
     },
     {
       "itemType": "question",
       "question": "Це - весело?",
       "answer":   "Is it fun?",
-      "startTime": ":"
+      "startTime": "16:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>dancer</b> /ˈdɑːns.ə(ɹ)/ танцівник, танцівниця",
+      "startTime": "17:04"
     },
     {
       "itemType": "question",
       "question": "Мої сестри - не танцівниці",
       "answer":   "My sisters aren't dancers",
-      "startTime": ":"
+      "startTime": "17:07"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>Friday</b> /ˈfɹaɪdeɪ/ п'ятниця",
+      "startTime": "17:17"
     },
     {
       "itemType": "question",
       "question": "Cьогодні - не п'ятниця",
       "answer":   "It isn't Friday today",
-      "startTime": ":"
+      "startTime": "17:42"
     },
     {
       "itemType": "question",
       "question": "Вони - на роботі?",
       "answer":   "Are they at work?",
-      "startTime": ":"
+      "startTime": "17:51"
     },
     {
       "itemType": "question",
       "question": "Ми - не в кафе",
       "answer":   "We aren't in a cafe",
-      "startTime": ":"
+      "startTime": "17:57"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "itemText": "<b>bar</b> /bɑː/, /bɑɹ/ шматок, плитка",
+      "startTime": "18:47"
     },
     {
       "itemType": "question",
       "question": "Це - не шоколадна плитка",
       "answer":   "It isn't a chocolate bar",
-      "startTime": ":"
+      "startTime": "19:08"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>winner</b> /ˈwɪnə/ переможець",
+      "startTime": "19:16"
     },
     {
       "itemType": "question",
       "question": "Ти - спортивний переможець?",
       "answer":   "Are you a sport winner?",
-      "startTime": ":"
+      "startTime": "19:18"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>midnight</b> /ˈmɪdnʌɪt/ північ",
+      "startTime": "19:31"
     },
     {
       "itemType": "question",
       "question": "Це - не північ",
       "answer":   "It isn't a midnight",
-      "startTime": ":"
+      "startTime": "19:48"
     },
     {
       "itemType": "question",
-      "question": "Діана - в Індії?",
+      "question": "Діана (Diana) - в Індії (India)?",
       "answer":   "Is Diana in India?",
-      "startTime": ":"
+      "startTime": "19:58"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>sunny</b> /ˈsʌni/ сонячний",
+      "startTime": "20:08"
     },
     {
       "itemType": "question",
       "question": "Погода - не сонячна",
       "answer":   "The weather isn't sunny",
-      "startTime": ":"
+      "startTime": "20:10"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>task</b> /tɑːsk/ завдання",
+      "startTime": "20:23"
     },
     {
       "itemType": "question",
       "question": "Ми - не готові до цього завдання",
       "answer":   "We aren't ready for this task",
-      "startTime": ":"
+      "startTime": "20:33"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>thing</b> /θɪŋ/ річ",
+      "startTime": "20:41"
     },
     {
       "itemType": "question",
       "question": "Ці речі - не його",
       "answer":   "These things aren't his",
-      "startTime": ":"
+      "startTime": "20:56"
     },
     {
       "itemType": "question",
       "question": "Ця парасолька - не її",
       "answer":   "This umbrella isn't her",
-      "startTime": ":"
+      "startTime": "21:19"
     },
     {
       "itemType": "question",
       "question": "Це - довга подорож?",
       "answer":   "Is it a long journey?",
-      "startTime": ":"
+      "startTime": "21:46"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>go on</b> продовжувати",
+      "startTime": "21:58"
     },
     {
       "itemType": "question",
       "question": "Ти - готовий до продовження?",
       "answer":   "Are you ready to go on?",
-      "startTime": ":"
-    },
+      "startTime": "22:09"
+    }
   ]
 }
