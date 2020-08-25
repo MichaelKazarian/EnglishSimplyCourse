@@ -92,200 +92,250 @@
       "itemType": "question",
       "question": "Яке твоє хобі?",
       "answer":   "What is your hobby?",
-      "startTime": ":"
+      "startTime": "4:36"
     },
     {
       "itemType": "question",
       "question": "Де твоє домашнє завдання?",
-      "answer":   "Where is your homework?  Where's your homework?",
-      "startTime": ":"
+      "answer":   [
+        "Where is your homework?",
+        "Where's your homework?"
+      ],
+      "startTime": "4:45"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>flight</b> /flaɪt/ політ, рейс",
+      "startTime": "5:00"
     },
     {
       "itemType": "question",
       "question": "Коли твій рейс?",
       "answer":   "When is your flight?",
-      "startTime": ":"
+      "startTime": "5:02"
     },
     {
       "itemType": "question",
       "question": "Як справи?",
       "answer":   "How are you?",
-      "startTime": ":"
+      "startTime": "5:10"
     },
     {
-      "itemType": "question",
-      "question": "Як справи?",
-      "answer":   "How is it going? How's it going?",
-      "startTime": ":"
+      "itemType": "point",
+      "itemText": "<b>How are you? How is it going? How's it going?</b> Як справи?",
+      "startTime": "5:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>yours</b> /jɔː(ɹ)z/ твій. Вживається в кінці питання, коли нема іменників.",
+      "startTime": "5:55"
     },
     {
       "itemType": "question",
       "question": "Який будинок є твій?",
       "answer":   "Which house is yours?",
-      "startTime": ":"
+      "startTime": "6:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>exam</b> /ɪɡˈzæm/ екзамен",
+      "startTime": "6:47"
     },
     {
       "itemType": "question",
       "question": "Коли є наші екзамени?",
       "answer":   "When are our exams?",
-      "startTime": ":"
+      "startTime": "6:49"
     },
     {
       "itemType": "question",
       "question": "Яка машина є його?",
       "answer":   "Which car is his?",
-      "startTime": ":"
+      "startTime": "6:59"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>job</b> /d͡ʒɑb/ робота",
+      "startTime": "7:42"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>mine</b> /maɪn/ мій, моє",
+      "startTime": "7:48"
     },
     {
       "itemType": "question",
       "question": "Яка робота є моя?",
       "answer":   "Which job is mine?",
-      "startTime": ":"
+      "startTime": "8:03"
     },
     {
       "itemType": "point",
-      "itemText": "** Slide 3",
-      "startTime": ":"
+      "itemText": "<b>successful</b> /səkˈsɛsfl̩/ успішний",
+      "startTime": "8:54"
     },
     {
       "itemType": "question",
       "question": "Хто є успішний?",
       "answer":   "Who is successful?",
-      "startTime": ":"
+      "startTime": "8:57"
     },
     {
       "itemType": "question",
       "question": "Де є офіс?",
       "answer":   "Where is the office?",
-      "startTime": ":"
+      "startTime": "9:13"
     },
     {
       "itemType": "question",
       "question": "Котра година?",
       "answer":   "What time is it?",
-      "startTime": ":"
+      "startTime": "9:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>far</b> /fɑː/ далеко",
+      "startTime": "9:28"
     },
     {
       "itemType": "question",
       "question": "Як далеко є це?",
       "answer":   "How far is it?",
-      "startTime": ":"
+      "startTime": "9:37"
     },
     {
       "itemType": "question",
       "question": "Як далеко є супермаркет?",
       "answer":   "How far is a supermarket?",
-      "startTime": ":"
+      "startTime": "9:45"
     },
     {
       "itemType": "question",
       "question": "Чому я?",
       "answer":   "Why am I?",
-      "startTime": ":"
+      "startTime": "9:52"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>meeting</b> /ˈmiːtɪŋ/ зустріч, збори",
+      "startTime": "9:58"
     },
     {
       "itemType": "question",
       "question": "Коли є зустріч?",
       "answer":   "When is the meeting?",
-      "startTime": ":"
+      "startTime": "10:00"
     },
     {
       "itemType": "question",
       "question": "Як тебе звати?",
       "answer":   "What is your name?",
-      "startTime": ":"
+      "startTime": "10:09"
     },
     {
       "itemType": "question",
       "question": "Де є ресторан?",
       "answer":   "Where is the restaurant?",
-      "startTime": ":"
+      "startTime": "10:15"
     },
     {
       "itemType": "question",
-      "question": "Скільки років Карлу?",
+      "question": "Скільки років Карлу (Karl)?",
       "answer":   "How old is Karl?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 4",
-      "startTime": ":"
+      "startTime": "10:22"
     },
     {
       "itemType": "question",
       "question": "Який це фільм?",
       "answer":   "What movie is it?",
-      "startTime": ":"
+      "startTime": "11:27"
     },
     {
       "itemType": "question",
       "question": "Чому ти втомлений сьогодні?",
       "answer":   "Why are you tired today?",
-      "startTime": ":"
+      "startTime": "11:37"
     },
     {
       "itemType": "question",
       "question": "Чому вона голодна?",
       "answer":   "Why is she hungry?",
-      "startTime": ":"
+      "startTime": "11:44"
     },
     {
       "itemType": "question",
-      "question": "Яка столиця Іспанії?",
+      "question": "Яка столиця Іспанії (Spain)?",
       "answer":   "What is the capital of Spain?",
-      "startTime": ":"
+      "startTime": "11:52"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>favourite</b> /ˈfeɪv.ɹɪt/ улюблений",
+      "startTime": "12:06"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>activity</b> /ækˈtɪ.vɪ.ti/ активність, діяльність",
+      "startTime": "12:07"
     },
     {
       "itemType": "question",
       "question": "Які їх улюблені види діяльності?",
       "answer":   "What are their favourite activities?",
-      "startTime": ":"
+      "startTime": "12:09"
     },
     {
       "itemType": "question",
       "question": "Коли твоє англійське заняття?",
-      "answer":   "When is your English class?",
-      "startTime": ":"
+      "answer":   [
+        "When is your English class?",
+        "When is your English lesson?"
+      ]
+      "startTime": "12:25"
     },
     {
       "itemType": "question",
       "question": "Звідки він?",
       "answer":   "Where is he from?",
-      "startTime": ":"
+      "startTime": "12:39"
     },
     {
       "itemType": "question",
-      "question": "Якою є робота Рут?",
+      "question": "Якою є робота Рут (Ruth)?",
       "answer":   "What is Ruth's job?",
-      "startTime": ":"
+      "startTime": "13:20"
+    },
+    {
+      "itemType": "point",
+      "itemText": "name + <b>'s</b> вказує на належність комусь",
+      "startTime": "13:41"
     },
     {
       "itemType": "question",
       "question": "Звідки ти?",
       "answer":   "Where are you from?",
-      "startTime": ":"
+      "startTime": "14:00"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>location</b> /loʊˈkeɪʃən/ розташування",
+      "startTime": "14:15"
     },
     {
       "itemType": "question",
       "question": "Яке місцезнаходження компанії твого батька?",
       "answer":   "What is the location of your dad's company?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 5",
-      "startTime": ":"
+      "startTime": "14:17"
     },
     {
       "itemType": "question",
-      "question": "Хто такий Бред Пітт?",
+      "question": "Хто такий Бред Пітт (Brad Pitt)?",
       "answer":   "Who is Brad Pitt?",
-      "startTime": ":"
+      "startTime": "15:03"
     },
     {
       "itemType": "question",
-      "question": "Що таке Темза?",
+      "question": "Що таке Темза (Thames)?",
       "answer":   "What is the Thames?",
       "startTime": ":"
     },
