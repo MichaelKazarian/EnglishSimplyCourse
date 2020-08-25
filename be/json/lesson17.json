@@ -1,99 +1,92 @@
 {
-  "lessonId": "lesson",
-  "lessonTitle": "Урок ",
-  "lessonDescription": " ",
+  "lessonId": "lesson17",
+  "lessonTitle": "Урок 17",
+  "lessonDescription": "Спеціальні запитання у Present Simple",
   "lessonURL": "",
   "lessonItems": [
     {
       "itemType": "point",
-      "itemText": "* Lesson 17",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>Special questions with to be in Present Simple</b>",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "<b>What / When / Where / Who / Whose / Which / Why / How + AM / ARE / IS + subject + other words</b>",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 1",
-      "startTime": ":"
+      "itemText": "What / When / Where / Who / Whose / Which / Why / How + <b>AM / ARE / IS</b> + subject + other words",
+      "startTime": "1:26"
     },
     {
       "itemType": "question",
       "question": "Хто є ти?",
       "answer":   "Who are you?",
-      "startTime": ":"
+      "startTime": "1:46"
     },
     {
       "itemType": "question",
       "question": "Де вона? Де є вона?",
       "answer":   "Where is she?",
-      "startTime": ":"
+      "startTime": "1:55"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>how old</b> скільки років",
+      "startTime": "1:03"
     },
     {
       "itemType": "question",
       "question": "Скільки йому років?",
       "answer":   "How old is he?",
-      "startTime": ":"
+      "startTime": "2:09"
     },
     {
       "itemType": "question",
       "question": "Скільки років твоєму собаці?",
       "answer":   "How old is your dog?",
-      "startTime": ":"
+      "startTime": "2:19"
     },
     {
       "itemType": "question",
       "question": "Чий друг є ти?",
       "answer":   "Whose friend are you?",
-      "startTime": ":"
+      "startTime": "2:29"
     },
     {
       "itemType": "question",
       "question": "Що це?",
-      "answer":   "What is this?  What's this?",
-      "startTime": ":"
+      "answer":   [
+        "What is this?",
+        "What's this?"
+      ],
+      "startTime": "2:37"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>now</b> /naʊ/ зараз",
+      "startTime": "2:53"
     },
     {
       "itemType": "question",
       "question": "Який день зараз?",
       "answer":   "What day is it now?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "question",
-      "question": "Чому вони тут?",
-      "answer":   "Why are they here?",
-      "startTime": ":"
+      "startTime": "2:56"
     },
     {
       "itemType": "question",
       "question": "Коли твій день народження?",
       "answer":   "When is your birthday?",
-      "startTime": ":"
+      "startTime": "3:04"
+    },
+    {
+      "itemType": "question",
+      "question": "Чому вони тут?",
+      "answer":   "Why are they here?",
+      "startTime": "3:18"
     },
     {
       "itemType": "question",
       "question": "Чия це парасолька?",
       "answer":   "Whose umbrella is it?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 2",
-      "startTime": ":"
+      "startTime": "3:31"
     },
     {
       "itemType": "question",
       "question": "Де я?",
       "answer":   "Where am I?",
-      "startTime": ":"
+      "startTime": "4:20"
     },
     {
       "itemType": "question",
