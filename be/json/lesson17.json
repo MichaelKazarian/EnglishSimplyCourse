@@ -334,69 +334,97 @@
       "startTime": "15:03"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>Thames</b> /tɛmz/ Темза",
+      "startTime": "15:19"
+    },
+    {
+      "itemType": "point",
+      "itemText": "Перед назвою річки завжди ставиться the",
+      "startTime": "15:26"
+    },
+    {
       "itemType": "question",
       "question": "Що таке Темза (Thames)?",
       "answer":   "What is the Thames?",
-      "startTime": ":"
+      "startTime": "15:31"
     },
     {
       "itemType": "question",
       "question": "Коли поп концерт?",
       "answer":   "When is the pop concert?",
-      "startTime": ":"
+      "startTime": "15:41"
     },
     {
       "itemType": "question",
       "question": "Хто я?",
       "answer":   "Who am I?",
-      "startTime": ":"
+      "startTime": "15:48"
     },
     {
       "itemType": "question",
-      "question": "Де Алабама?",
+      "question": "Де Алабама (Alabama)?",
       "answer":   "Where is Alabama?",
-      "startTime": ":"
+      "startTime": "15:54"
     },
     {
       "itemType": "question",
       "question": "Чому твоя маленька сестра тут?",
       "answer":   "Why is your little sister here?",
-      "startTime": ":"
+      "startTime": "16:01"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>backpack</b> /ˈbæk.pæk/ рюкзак",
+      "startTime": "16:13"
     },
     {
       "itemType": "question",
       "question": "Де твій рюкзак?",
       "answer":   "Where is your backpack?",
-      "startTime": ":"
+      "startTime": "16:26"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>island</b> /ˈaɪ̯lənd/ острів",
+      "startTime": "16:36"
     },
     {
       "itemType": "question",
       "question": "Чий це острів?",
       "answer":   "Whose island is this?",
-      "startTime": ":"
+      "startTime": "16:44"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>chair</b> /t͡ʃɛə(ɹ)/ стілець",
+      "startTime": "17:03"
     },
     {
       "itemType": "question",
       "question": "Який це стілець?",
-      "answer":   "Whichwhat chair is it?",
-      "startTime": ":"
+      "answer":   [
+        "Which chair is it?",
+        "What chair is it?"
+      ],
+      "startTime": "17:07"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>sea</b> /siː/ море",
+      "startTime": "17:33"
     },
     {
       "itemType": "question",
       "question": "Чому діти у морі?",
       "answer":   "Why are the children in the sea?",
-      "startTime": ":"
-    },
-    {
-      "itemType": "point",
-      "itemText": "** Slide 6",
-      "startTime": ":"
+      "startTime": "17:47"
     },
     {
       "itemType": "question",
       "question": "Хто ці люди?",
       "answer":   "Who are these people?",
-      "startTime": ":"
+      "startTime": "18:28"
     },
     {
       "itemType": "question",
