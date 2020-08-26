@@ -427,58 +427,83 @@
       "startTime": "18:28"
     },
     {
+      "itemType": "point",
+      "itemText": "<b>upstairs</b> /ˈʌpˌstɛɹz/ вгорі,верхній поверх",
+      "startTime": "19:00"
+    },
+    {
       "itemType": "question",
       "question": "Чому ти нагорі?",
       "answer":   "Why are you upstairs?",
-      "startTime": ":"
+      "startTime": "19:10"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>downstairs</b> /daʊnˈstɛɹz/ внизу",
+      "startTime": "19:22"
     },
     {
       "itemType": "question",
       "question": "Чому він внизу?",
       "answer":   "Why is he downstairs?",
-      "startTime": ":"
+      "startTime": "19:32"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>passport</b> /ˈpɑːspɔːt/ паспорт",
+      "startTime": "19:37"
     },
     {
       "itemType": "question",
       "question": "Де твій паспорт?",
       "answer":   "Where is your passport?",
-      "startTime": ":"
+      "startTime": "19:39"
     },
     {
       "itemType": "question",
       "question": "Які це мови?",
       "answer":   "What languages are these?",
-      "startTime": ":"
+      "startTime": "19:52"
     },
     {
       "itemType": "question",
       "question": "Які твої вміння?",
       "answer":   "What are your skills?",
-      "startTime": ":"
+      "startTime": "20:21"
     },
     {
       "itemType": "question",
       "question": "Скільки там дерев?",
       "answer":   "How many trees are there?",
-      "startTime": ":"
+      "startTime": "20:27"
     },
     {
       "itemType": "question",
       "question": "Скільки це? Скільки це коштує?",
       "answer":   "How much is it?",
-      "startTime": ":"
+      "startTime": "21:00"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>goal</b> /ɡɔʊl/ ціль, мета",
+      "startTime": "21:26"
     },
     {
       "itemType": "question",
       "question": "Яка мета твого життя?",
       "answer":   "What is the goal of your life?",
-      "startTime": ":"
+      "startTime": "21:35"
+    },
+    {
+      "itemType": "point",
+      "itemText": "<b>space</b> /speɪs/ простір, космос",
+      "startTime": "21:47"
     },
     {
       "itemType": "question",
       "question": "Що є твоїм життєвим простором?",
       "answer":   "What is your life space?",
-      "startTime": ":"
-    },
+      "startTime": "21:57"
+    }
   ]
 }
